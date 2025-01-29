@@ -3,6 +3,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float speed = 10;
+    public float maxSpeed = 20;
     private Rigidbody2D playerBody;
 
     // Start is called before the first frame update
@@ -24,7 +25,17 @@ public class PlayerMovement : MonoBehaviour
     void  FixedUpdate()
     {
         float moveHorizontal = Input.GetAxisRaw("Horizontal");
-        Vector2 movement = new Vector2(moveHorizontal, 0);
-        playerBody.AddForce(movement * speed);
+        if (Mathf.Abs(moveHorizontal) > 0){
+            Vector2 movement = new Vector2(moveHorizontal, 0);
+            // check if it doesn't go beyond maxSpeed
+            if (playerBody.linearVelocity.magnitude < maxSpeed)
+                    playerBody.AddForce(movement * speed);
+        }
+
+        // stop
+        if (Input.GetKeyUp("a") || Input.GetKeyUp("d")){
+            // stop
+            playerBody.linearVelocity = Vector2.zero;
+        }
     }
 }
