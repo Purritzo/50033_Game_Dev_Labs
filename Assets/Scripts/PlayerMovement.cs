@@ -28,6 +28,14 @@ public class PlayerMovement : MonoBehaviour
         if (col.gameObject.CompareTag("Ground")) onGroundState = true;
     }
 
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Obstacle"))
+        {
+            Debug.Log("Collision with obstacle detected!");
+        }
+    }
+
     // FixedUpdate is called 50 times a second
     void  FixedUpdate()
     {
