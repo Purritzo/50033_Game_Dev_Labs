@@ -5,6 +5,8 @@ public class PlayerMovement : MonoBehaviour
     public float speed = 10;
     public float maxSpeed = 20;
     private Rigidbody2D playerBody;
+    public float upSpeed = 10;
+    private bool onGroundState = true;
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +21,11 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
 
+    }
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.CompareTag("Ground")) onGroundState = true;
     }
 
     // FixedUpdate is called 50 times a second
@@ -36,6 +43,13 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyUp("a") || Input.GetKeyUp("d")){
             // stop
             playerBody.linearVelocity = Vector2.zero;
+        }
+
+        // jump
+        if (Input.GetKeyDown("space") && onGroundState)
+        {
+            playerBody.AddForce(Vector2.up * upSpeed, ForceMode2D.Impulse);
+            onGroundState = false;
         }
     }
 }
