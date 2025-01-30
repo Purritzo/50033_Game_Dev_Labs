@@ -8,12 +8,16 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D playerBody;
     public float upSpeed = 10;
     private bool onGroundState = true;
+    private bool doubleJumpState = true;
     public TextMeshProUGUI scoreText;
     public GameObject obstacles;
     private Vector3 startingPosition;
     public GameObject normalCanvas;
     public GameObject gameOverCanvas;
     public TextMeshProUGUI gameOverScoreText;
+    public JumpOverObstacle JumpOverObstacle;
+    private bool jumping = false;
+    private bool canJump = true;
 
     // Start is called before the first frame update
     void Start()
@@ -28,13 +32,28 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        // Input handling inside Update() to avoid duplicate processing in FixedUpdate()
+        if (Input.GetKeyDown(KeyCode.Space)) {
+            if (canJump == true)
+            {
+                jumping = true;
+                canJump = false;
+            }
+        }
+        if (Input.GetKeyUp(KeyCode.Space)) {
+            canJump = true;
+        }
     }
 
     // Called when the Collider component of the GameObject containing this script hits something
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.CompareTag("Ground")) onGroundState = true;
+        if (col.gameObject.CompareTag("Ground"))
+        {
+            Debug.Log("resetting jump charges");
+            onGroundState = true;
+            doubleJumpState = true;
+        }
     }
 
     // Called when the RigidBody2D component of the GameObject containing this script hits a Collier2D trigger
@@ -66,11 +85,26 @@ public class PlayerMovement : MonoBehaviour
         }
 
         // jump
-        if (Input.GetKeyDown("space") && onGroundState)
+        if (jumping) //if (Input.GetKeyDown("space"))
         {
-            playerBody.AddForce(Vector2.up * upSpeed, ForceMode2D.Impulse);
-            onGroundState = false;
-        }
+            Debug.Log("Before");
+            Debug.Log(onGroundState);
+            Debug.Log(doubleJumpState);
+            if (onGroundState)
+            {
+                playerBody.AddForce(Vector2.up * upSpeed, ForceMode2D.Impulse);
+                onGroundState = false;
+            } else if (doubleJumpState)
+            // double jump
+            {
+                playerBody.AddForce(Vector2.up * upSpeed, ForceMode2D.Impulse);
+                doubleJumpState = false;
+            }
+            jumping = false;
+            Debug.Log("After");
+            Debug.Log(onGroundState);
+            Debug.Log(doubleJumpState);
+        } 
     }
 
     public void GameOver()
@@ -102,11 +136,13 @@ public class PlayerMovement : MonoBehaviour
         gameOverCanvas.SetActive(false);
         // reset score
         scoreText.text = "Score: 0";
-        // reset Goomba
+        // reset obstacles
         foreach (Transform eachChild in obstacles.transform)
         {
             eachChild.transform.localPosition = eachChild.GetComponent<ObstacleMovement>().startPosition;
         }
+        // reset score
+        JumpOverObstacle.score = 0;
 
     }
 }
