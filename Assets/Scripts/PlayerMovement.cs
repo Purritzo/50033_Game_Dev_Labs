@@ -1,4 +1,5 @@
 using UnityEngine;
+using TMPro;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -7,6 +8,12 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D playerBody;
     public float upSpeed = 10;
     private bool onGroundState = true;
+    public TextMeshProUGUI scoreText;
+    public GameObject obstacles;
+    private Vector3 startingPosition;
+    public GameObject normalCanvas;
+    public GameObject gameOverCanvas;
+    public TextMeshProUGUI gameOverScoreText;
 
     // Start is called before the first frame update
     void Start()
@@ -14,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
         // Set to be 30 FPS
         Application.targetFrameRate =  30;
         playerBody = GetComponent<Rigidbody2D>();
+        startingPosition = transform.position;
 
     }
 
@@ -35,6 +43,8 @@ public class PlayerMovement : MonoBehaviour
         if (other.gameObject.CompareTag("Obstacle"))
         {
             Debug.Log("Collision with obstacle detected!");
+            Time.timeScale = 0.0f;
+            GameOver();
         }
     }
 
@@ -61,5 +71,42 @@ public class PlayerMovement : MonoBehaviour
             playerBody.AddForce(Vector2.up * upSpeed, ForceMode2D.Impulse);
             onGroundState = false;
         }
+    }
+
+    public void GameOver()
+    {
+        normalCanvas.SetActive(false);
+        gameOverScoreText.text = scoreText.text;
+        gameOverCanvas.SetActive(true);
+    }
+
+    public void RestartButtonCallback(int input)
+    {
+        Debug.Log("Restart!");
+        // reset everything
+        ResetGame();
+        // resume time
+        Time.timeScale = 1.0f;
+    }
+
+    private void ResetGame()
+    {
+        // reset position
+        //playerBody.transform.position = new Vector3(-5.33f, -4.69f, 0.0f);
+        playerBody.transform.position = startingPosition;
+        // reset sprite direction
+        //faceRightState = true;
+        //marioSprite.flipX = false;
+        // reset canvas
+        normalCanvas.SetActive(true);
+        gameOverCanvas.SetActive(false);
+        // reset score
+        scoreText.text = "Score: 0";
+        // reset Goomba
+        foreach (Transform eachChild in obstacles.transform)
+        {
+            eachChild.transform.localPosition = eachChild.GetComponent<ObstacleMovement>().startPosition;
+        }
+
     }
 }
