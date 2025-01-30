@@ -14,6 +14,9 @@ public class PlayerMovement : MonoBehaviour
     public GameObject normalCanvas;
     public GameObject gameOverCanvas;
     public TextMeshProUGUI gameOverScoreText;
+    public JumpOverObstacle JumpOverObstacle;
+    private bool jumping = false;
+    private bool canJump = true;
 
     // Start is called before the first frame update
     void Start()
@@ -102,11 +105,13 @@ public class PlayerMovement : MonoBehaviour
         gameOverCanvas.SetActive(false);
         // reset score
         scoreText.text = "Score: 0";
-        // reset Goomba
+        // reset obstacles
         foreach (Transform eachChild in obstacles.transform)
         {
             eachChild.transform.localPosition = eachChild.GetComponent<ObstacleMovement>().startPosition;
         }
+        // reset score
+        JumpOverObstacle.score = 0;
 
     }
 }

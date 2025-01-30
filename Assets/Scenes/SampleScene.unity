@@ -1720,6 +1720,7 @@ MonoBehaviour:
   normalCanvas: {fileID: 1833606983}
   gameOverCanvas: {fileID: 506662377}
   gameOverScoreText: {fileID: 70372959}
+  JumpOverObstacle: {fileID: 951559066}
 --- !u!114 &951559066
 MonoBehaviour:
   m_ObjectHideFlags: 0
