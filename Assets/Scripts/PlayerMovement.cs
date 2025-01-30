@@ -23,11 +23,13 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
+    // Called when the Collider component of the GameObject containing this script hits something
     void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.CompareTag("Ground")) onGroundState = true;
     }
 
+    // Called when the RigidBody2D component of the GameObject containing this script hits a Collier2D trigger
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Obstacle"))
