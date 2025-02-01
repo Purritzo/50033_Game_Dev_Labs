@@ -57,7 +57,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    // Called when the RigidBody2D component of the GameObject containing this script hits a Collier2D trigger
+    // Called when the RigidBody2D component of the GameObject containing this script hits a Collider2D trigger
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Obstacle"))
