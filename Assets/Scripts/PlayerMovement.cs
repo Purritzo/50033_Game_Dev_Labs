@@ -15,7 +15,8 @@ public class PlayerMovement : MonoBehaviour
     public GameObject normalCanvas;
     public GameObject gameOverCanvas;
     public TextMeshProUGUI gameOverScoreText;
-    public JumpOverObstacle JumpOverObstacle;
+    //public JumpOverObstacle JumpOverObstacle;
+    public LogicScript logicScript;
     private bool jumping = false;
     private bool canJump = true;
 
@@ -142,7 +143,8 @@ public class PlayerMovement : MonoBehaviour
             eachChild.transform.localPosition = eachChild.GetComponent<ObstacleMovement>().startPosition;
         }
         // reset score
-        JumpOverObstacle.score = 0;
+        //JumpOverObstacle.score = 0;
+        logicScript.score = 0;
 
     }
 }
