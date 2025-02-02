@@ -73,10 +73,10 @@ public class JumpOverObstacle : MonoBehaviour
     }
 
     // helper
-    void OnDrawGizmos()
-    {
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawCube(transform.position - transform.up * maxDistance, boxSize);
-    }
+    // void OnDrawGizmos()
+    // {
+    //     Gizmos.color = Color.yellow;
+    //     Gizmos.DrawCube(transform.position - transform.up * maxDistance, boxSize);
+    // }
 
 }
