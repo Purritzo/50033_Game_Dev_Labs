@@ -3,28 +3,28 @@ using TMPro;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed = 10;
-    public float maxSpeed = 20;
+    public float speed = 30;
+    public float maxSpeed = 40;
     private Rigidbody2D playerBody;
-    public float upSpeed = 10;
-    private bool onGroundState = true;
-    private bool doubleJumpState = true;
+    // public float upSpeed = 10;
+    // private bool onGroundState = true;
+    // private bool doubleJumpState = true;
     public TextMeshProUGUI scoreText;
-    public GameObject obstacles;
+    //public GameObject obstacles;
     private Vector3 startingPosition;
     public GameObject normalCanvas;
     public GameObject gameOverCanvas;
     public TextMeshProUGUI gameOverScoreText;
     //public JumpOverObstacle JumpOverObstacle;
     public LogicScript logicScript;
-    private bool jumping = false;
-    private bool canJump = true;
+    // private bool jumping = false;
+    // private bool canJump = true;
 
     // Start is called before the first frame update
     void Start()
     {
-        // Set to be 30 FPS
-        Application.targetFrameRate =  30;
+        // Set to be 60 FPS
+        Application.targetFrameRate =  60;
         playerBody = GetComponent<Rigidbody2D>();
         startingPosition = transform.position;
 
@@ -34,27 +34,27 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         // Input handling inside Update() to avoid duplicate processing in FixedUpdate()
-        if (Input.GetKeyDown(KeyCode.Space)) {
-            if (canJump == true)
-            {
-                jumping = true;
-                canJump = false;
-            }
-        }
-        if (Input.GetKeyUp(KeyCode.Space)) {
-            canJump = true;
-        }
+        // if (Input.GetKeyDown(KeyCode.Space)) {
+        //     if (canJump == true)
+        //     {
+        //         jumping = true;
+        //         canJump = false;
+        //     }
+        // }
+        // if (Input.GetKeyUp(KeyCode.Space)) {
+        //     canJump = true;
+        // }
     }
 
     // Called when the Collider component of the GameObject containing this script hits something
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.CompareTag("Ground"))
-        {
-            Debug.Log("resetting jump charges");
-            onGroundState = true;
-            doubleJumpState = true;
-        }
+        // if (col.gameObject.CompareTag("Ground"))
+        // {
+        //     Debug.Log("resetting jump charges");
+        //     onGroundState = true;
+        //     doubleJumpState = true;
+        // }
     }
 
     // Called when the RigidBody2D component of the GameObject containing this script hits a Collider2D trigger
@@ -72,8 +72,16 @@ public class PlayerMovement : MonoBehaviour
     void  FixedUpdate()
     {
         float moveHorizontal = Input.GetAxisRaw("Horizontal");
+        float moveVertical = Input.GetAxisRaw("Vertical");
         if (Mathf.Abs(moveHorizontal) > 0){
             Vector2 movement = new Vector2(moveHorizontal, 0);
+            // check if it doesn't go beyond maxSpeed
+            if (playerBody.linearVelocity.magnitude < maxSpeed)
+                    playerBody.AddForce(movement * speed);
+        }
+
+        if (Mathf.Abs(moveVertical) > 0){
+            Vector2 movement = new Vector2(0, moveVertical);
             // check if it doesn't go beyond maxSpeed
             if (playerBody.linearVelocity.magnitude < maxSpeed)
                     playerBody.AddForce(movement * speed);
@@ -82,30 +90,38 @@ public class PlayerMovement : MonoBehaviour
         // stop
         if (Input.GetKeyUp("a") || Input.GetKeyUp("d")){
             // stop
-            playerBody.linearVelocity = Vector2.zero;
+            // playerBody.linearVelocity = Vector2.zero;
+            playerBody.linearVelocity = new Vector2 (0, playerBody.linearVelocityY);
+        }
+
+        // stop
+        if (Input.GetKeyUp("w") || Input.GetKeyUp("s")){
+            // stop
+            // playerBody.linearVelocity = Vector2.zero;
+            playerBody.linearVelocity = new Vector2 (playerBody.linearVelocityX, 0);
         }
 
         // jump
-        if (jumping) //if (Input.GetKeyDown("space"))
-        {
-            Debug.Log("Before");
-            Debug.Log(onGroundState);
-            Debug.Log(doubleJumpState);
-            if (onGroundState)
-            {
-                playerBody.AddForce(Vector2.up * upSpeed, ForceMode2D.Impulse);
-                onGroundState = false;
-            } else if (doubleJumpState)
-            // double jump
-            {
-                playerBody.AddForce(Vector2.up * upSpeed, ForceMode2D.Impulse);
-                doubleJumpState = false;
-            }
-            jumping = false;
-            Debug.Log("After");
-            Debug.Log(onGroundState);
-            Debug.Log(doubleJumpState);
-        } 
+        // if (jumping) //if (Input.GetKeyDown("space"))
+        // {
+        //     Debug.Log("Before");
+        //     Debug.Log(onGroundState);
+        //     Debug.Log(doubleJumpState);
+        //     if (onGroundState)
+        //     {
+        //         playerBody.AddForce(Vector2.up * upSpeed, ForceMode2D.Impulse);
+        //         onGroundState = false;
+        //     } else if (doubleJumpState)
+        //     // double jump
+        //     {
+        //         playerBody.AddForce(Vector2.up * upSpeed, ForceMode2D.Impulse);
+        //         doubleJumpState = false;
+        //     }
+        //     jumping = false;
+        //     Debug.Log("After");
+        //     Debug.Log(onGroundState);
+        //     Debug.Log(doubleJumpState);
+        // } 
     }
 
     public void GameOver()
@@ -138,10 +154,10 @@ public class PlayerMovement : MonoBehaviour
         // reset score
         scoreText.text = "Score: 0";
         // reset obstacles
-        foreach (Transform eachChild in obstacles.transform)
-        {
-            eachChild.transform.localPosition = eachChild.GetComponent<ObstacleMovement>().startPosition;
-        }
+        // foreach (Transform eachChild in obstacles.transform)
+        // {
+        //     eachChild.transform.localPosition = eachChild.GetComponent<ObstacleMovement>().startPosition;
+        // }
         // reset score
         //JumpOverObstacle.score = 0;
         logicScript.score = 0;
