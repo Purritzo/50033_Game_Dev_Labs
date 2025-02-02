@@ -23,6 +23,7 @@ public class CastBar : MonoBehaviour
         {
             castTime += Time.deltaTime;
             castBar.value = castTime / castDuration;
+            fill.color = gradient.Evaluate(castBar.normalizedValue);
 
             if (castTime >= castDuration)
             {
