@@ -19,6 +19,7 @@ public class HPBar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // Not in use, but could be useful when spawning more entities
         if (target != null)
         {
             transform.position = target.position + offset;

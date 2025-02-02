@@ -87,15 +87,18 @@ public class PlayerMovement : MonoBehaviour
                     playerBody.AddForce(movement * speed);
         }
 
+        // NOTE: Having these in FixedUpdate is unreliable!!!
         // stop
-        if (Input.GetKeyUp("a") || Input.GetKeyUp("d")){
+        if (Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.RightArrow))
+        {
             // stop
             // playerBody.linearVelocity = Vector2.zero;
             playerBody.linearVelocity = new Vector2 (0, playerBody.linearVelocityY);
         }
 
         // stop
-        if (Input.GetKeyUp("w") || Input.GetKeyUp("s")){
+        if (Input.GetKeyUp(KeyCode.UpArrow) || Input.GetKeyUp(KeyCode.DownArrow))
+        {
             // stop
             // playerBody.linearVelocity = Vector2.zero;
             playerBody.linearVelocity = new Vector2 (playerBody.linearVelocityX, 0);
