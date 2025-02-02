@@ -77,6 +77,8 @@ public class Healer : MonoBehaviour
     {
         if (target.health < target.maxHealth)
         {
+            // NOTE: Swapping targets just before the spell resolves heals the new target
+            // Can be considered minor bug or a feature (When player level is high enough for mid-cast target swap)
             target.ReceiveHeal(healAmount);
             //target.health += healAmount;
             //Debug.Log(target.name + " healed for " + healAmount);

@@ -88,9 +88,11 @@ public class GameManager : MonoBehaviour
         foreach (Ally ally in allies)
         {
             ally.transform.localPosition = ally.startPosition;
-            ally.health = ally.maxHealth; // reset health
+            ally.Start();
+            //ally.health = ally.maxHealth; // reset health
         }
-        boss.health = boss.maxHealth;
+        boss.Start();
+        //boss.health = boss.maxHealth;
 
         // reset sprite direction
         // reset canvas

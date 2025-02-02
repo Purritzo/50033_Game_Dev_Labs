@@ -12,7 +12,7 @@ public class Boss : MonoBehaviour
     public HPBar hpBar;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public void Start()
     {
         health = maxHealth;
         hpBar.setMaxHealth(maxHealth);
