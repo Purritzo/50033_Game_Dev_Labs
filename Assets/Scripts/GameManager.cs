@@ -29,6 +29,7 @@ public class GameManager : MonoBehaviour
             addScore(100);
             Time.timeScale = 0f;
             boss.health = boss.maxHealth; // temporary to stop infinite score adding
+            GameWin();
         }
         else if (AllAlliesDead())
         {
@@ -54,11 +55,21 @@ public class GameManager : MonoBehaviour
         return true;
     }
 
-        public void GameOver()
+    public void GameOver()
     {
         normalCanvas.SetActive(false);
         gameOverScoreText.text = scoreText.text;
         gameOverCanvas.SetActive(true);
+    }
+
+    public void GameWin()
+    {
+        normalCanvas.SetActive(false);
+        gameOverScoreText.text = scoreText.text;
+        gameOverCanvas.SetActive(true);
+        // NOTE: This may be inefficient
+        TextMeshProUGUI gameOverText = gameOverCanvas.transform.Find("GameOverText").GetComponent<TextMeshProUGUI>();
+        gameOverText.text = "You Win!";
     }
 
     public void RestartButtonCallback(int input)
