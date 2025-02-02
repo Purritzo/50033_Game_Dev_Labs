@@ -44,6 +44,22 @@ public class PlayerMovement : MonoBehaviour
         // if (Input.GetKeyUp(KeyCode.Space)) {
         //     canJump = true;
         // }
+        // NOTE: Having these in FixedUpdate is unreliable!!!
+        // stop
+        if (Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.RightArrow))
+        {
+            // stop
+            // playerBody.linearVelocity = Vector2.zero;
+            playerBody.linearVelocity = new Vector2 (0, playerBody.linearVelocityY);
+        }
+
+        // stop
+        if (Input.GetKeyUp(KeyCode.UpArrow) || Input.GetKeyUp(KeyCode.DownArrow))
+        {
+            // stop
+            // playerBody.linearVelocity = Vector2.zero;
+            playerBody.linearVelocity = new Vector2 (playerBody.linearVelocityX, 0);
+        }
     }
 
     // Called when the Collider component of the GameObject containing this script hits something
@@ -87,22 +103,7 @@ public class PlayerMovement : MonoBehaviour
                     playerBody.AddForce(movement * speed);
         }
 
-        // NOTE: Having these in FixedUpdate is unreliable!!!
-        // stop
-        if (Input.GetKeyUp(KeyCode.LeftArrow) || Input.GetKeyUp(KeyCode.RightArrow))
-        {
-            // stop
-            // playerBody.linearVelocity = Vector2.zero;
-            playerBody.linearVelocity = new Vector2 (0, playerBody.linearVelocityY);
-        }
 
-        // stop
-        if (Input.GetKeyUp(KeyCode.UpArrow) || Input.GetKeyUp(KeyCode.DownArrow))
-        {
-            // stop
-            // playerBody.linearVelocity = Vector2.zero;
-            playerBody.linearVelocity = new Vector2 (playerBody.linearVelocityX, 0);
-        }
 
         // jump
         // if (jumping) //if (Input.GetKeyDown("space"))
