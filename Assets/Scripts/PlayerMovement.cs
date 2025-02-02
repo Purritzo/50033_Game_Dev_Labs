@@ -87,6 +87,7 @@ public class PlayerMovement : MonoBehaviour
     // FixedUpdate is called 50 times a second
     void  FixedUpdate()
     {
+        // These are ok to be here since not really frame dependent
         float moveHorizontal = Input.GetAxisRaw("Horizontal");
         float moveVertical = Input.GetAxisRaw("Vertical");
         if (Mathf.Abs(moveHorizontal) > 0){
