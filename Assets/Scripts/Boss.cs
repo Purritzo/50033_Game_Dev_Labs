@@ -3,10 +3,10 @@ using UnityEngine;
 public class Boss : MonoBehaviour
 {
 
-    public int maxHealth = 500;
+    public int maxHealth = 300;
     public int health;
     public int attackPower = 30;
-    public float attackInterval = 2f;
+    public float attackInterval = 1f;
     private float timer = 0f;
     public Ally[] allies;
     public HPBar hpBar;

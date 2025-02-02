@@ -8,6 +8,7 @@ public class Healer : MonoBehaviour
     public Ally[] allies;
     private bool currentlyTargetingSelf = false;
     public Vector3 startPosition;
+    public TargetingManager targetingManager;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -20,21 +21,32 @@ public class Healer : MonoBehaviour
     {
         if (Input.GetKeyDown("q"))
         {
+            targetedAlly = null;
             currentlyTargetingSelf = true;
         }
         if (Input.GetKeyDown("w"))
         {
             targetedAlly = allies[0];
+            targetingManager.MoveIndicatorToAlly(targetedAlly);
             currentlyTargetingSelf = false;
         }
         if (Input.GetKeyDown("e"))
         {
             targetedAlly = allies[1];
+            targetingManager.MoveIndicatorToAlly(targetedAlly);
             currentlyTargetingSelf = false;
         }
         if (Input.GetKeyDown("f"))
         {
-            Heal(targetedAlly); // May need to add a check if an ally is targeted first or not
+            if (targetedAlly != null)
+            {
+                Heal(targetedAlly);
+            }
+        }
+        if (Input.GetKeyDown("r"))
+        {
+            targetedAlly = null;
+            targetingManager.MoveIndicatorToBoss(FindFirstObjectByType<Boss>());
         }
     }
 

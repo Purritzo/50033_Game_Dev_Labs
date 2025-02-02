@@ -26,6 +26,7 @@ public class GameManager : MonoBehaviour
         if (boss.health <= 0)
         {
             Debug.Log("You won!");
+            addScore();
         }
         else if (AllAlliesDead())
         {
@@ -35,6 +36,12 @@ public class GameManager : MonoBehaviour
     }
 
 
+    public void addScore()
+    {
+        score ++;
+        scoreText.text = "Score: " + score.ToString();
+    }
+    
     bool AllAlliesDead()
     {
         foreach (Ally ally in allies)
