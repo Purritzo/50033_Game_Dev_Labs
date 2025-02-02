@@ -56,6 +56,7 @@ public class Ally : MonoBehaviour
             IncomingHealValue = maximumCanHeal;
         }
         health += IncomingHealValue;
+        GameObject.FindWithTag("Manager").GetComponent<GameManager>().addScore(IncomingHealValue);
         Debug.Log(gameObject.name + " healed for " + IncomingHealValue);
         hpBar.SetHealth(health);
     }

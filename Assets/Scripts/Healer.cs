@@ -23,6 +23,7 @@ public class Healer : MonoBehaviour
         {
             targetedAlly = null;
             currentlyTargetingSelf = true;
+            targetingManager.MoveIndicatorToHealer(FindFirstObjectByType<Healer>());
         }
         if (Input.GetKeyDown("w"))
         {

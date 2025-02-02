@@ -26,22 +26,25 @@ public class GameManager : MonoBehaviour
         if (boss.health <= 0)
         {
             Debug.Log("You won!");
-            addScore();
+            addScore(100);
+            Time.timeScale = 0f;
+            boss.health = boss.maxHealth; // temporary to stop infinite score adding
         }
         else if (AllAlliesDead())
         {
             Debug.Log("Game Over!");
+            Time.timeScale = 0f;
             GameOver();
         }
     }
 
 
-    public void addScore()
+    public void addScore(int scoreToAdd)
     {
-        score ++;
+        score += scoreToAdd;
         scoreText.text = "Score: " + score.ToString();
     }
-    
+
     bool AllAlliesDead()
     {
         foreach (Ally ally in allies)

@@ -44,5 +44,6 @@ public class Boss : MonoBehaviour
     {
         health -= incomingAttackPower;
         hpBar.SetHealth(health);
+        GameObject.FindWithTag("Manager").GetComponent<GameManager>().addScore(incomingAttackPower);
     }
 }

@@ -30,7 +30,7 @@ public class ObstacleMovement : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Ground"))
         {
-            logic.addScore();
+            logic.addScore(1);
         }
     }
 }
