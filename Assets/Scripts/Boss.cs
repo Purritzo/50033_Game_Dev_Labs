@@ -34,10 +34,24 @@ public class Boss : MonoBehaviour
 
     void Attack()
     {
-        Ally target = allies[Random.Range(0, allies.Length)];
-        target.TakeDamage(attackPower);
-        //target.health -= attackPower;
-        Debug.Log("Boss attacked " + target.name);
+        Ally[] aliveAllies = System.Array.FindAll(allies, ally => ally.health > 0);
+
+        // Ensure there's at least one alive ally before attacking
+        if (aliveAllies.Length > 0)
+        {
+            Ally target = aliveAllies[Random.Range(0, aliveAllies.Length)];
+            target.TakeDamage(attackPower);
+            Debug.Log("Boss attacked " + target.name);
+        }
+        else
+        {
+            Debug.Log("No alive allies left, boss does not attack.");
+        }
+
+        // Ally target = allies[Random.Range(0, allies.Length)];
+        // target.TakeDamage(attackPower);
+        // //target.health -= attackPower;
+        // Debug.Log("Boss attacked " + target.name);
     }
 
     public void TakeDamage(int incomingAttackPower)
