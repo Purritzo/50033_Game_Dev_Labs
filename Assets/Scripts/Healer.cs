@@ -5,9 +5,11 @@ public class Healer : MonoBehaviour
 {
 
     public int healAmount = 20;
+    public int attackPower = 20;
     public Ally targetedAlly;
     public Ally[] allies;
     private bool currentlyTargetingSelf = false;
+    private bool targetingBoss = false;
     public Vector3 startPosition;
     public TargetingManager targetingManager;
     public CastBar castBar;
@@ -54,11 +56,20 @@ public class Healer : MonoBehaviour
                 castingCoroutine = StartCoroutine(CastSpell(0.5f));
                 //StartCoroutine(CastSpell(0.5f));
                 //Heal(targetedAlly);
+            } else if (targetingBoss == true)
+            {
+                if (castingCoroutine != null) // Stop previous cast if any
+                {
+                    StopCoroutine(castingCoroutine);
+                    castBar.CancelCast();
+                }
+                castingCoroutine = StartCoroutine(CastAttackSpell(1.0f));
             }
         }
         if (Input.GetKeyDown("r"))
         {
             targetedAlly = null;
+            targetingBoss = true;
             targetingManager.MoveIndicatorToBoss(FindFirstObjectByType<Boss>());
         }
 
@@ -85,6 +96,11 @@ public class Healer : MonoBehaviour
         }
     }
 
+    void Attack(Boss boss)
+    {
+        boss.TakeDamage(attackPower);
+    }
+
     IEnumerator CastSpell(float duration)
     {
         castBar.StartCasting(duration);
@@ -94,6 +110,13 @@ public class Healer : MonoBehaviour
         {
             Heal(targetedAlly);
         }
+    }
+
+    IEnumerator CastAttackSpell(float duration)
+    {
+        castBar.StartCasting(duration);
+        yield return new WaitForSeconds(duration);
+        Attack(FindFirstObjectByType<Boss>());
     }
 
     // TODO: Add healer taking damage also, if needed
