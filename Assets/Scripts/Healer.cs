@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class Healer : MonoBehaviour
+public class Healer : Entity
 {
 
     public int healAmount = 20;
@@ -30,18 +30,18 @@ public class Healer : MonoBehaviour
         {
             targetedAlly = null;
             currentlyTargetingSelf = true;
-            targetingManager.MoveIndicatorToHealer(FindFirstObjectByType<Healer>());
+            targetingManager.MoveIndicatorToEntity(FindFirstObjectByType<Healer>());
         }
         if (Input.GetKeyDown("w"))
         {
             targetedAlly = allies[0];
-            targetingManager.MoveIndicatorToAlly(targetedAlly);
+            targetingManager.MoveIndicatorToEntity(targetedAlly);
             currentlyTargetingSelf = false;
         }
         if (Input.GetKeyDown("e"))
         {
             targetedAlly = allies[1];
-            targetingManager.MoveIndicatorToAlly(targetedAlly);
+            targetingManager.MoveIndicatorToEntity(targetedAlly);
             currentlyTargetingSelf = false;
         }
         if (Input.GetKeyDown("f"))
@@ -70,7 +70,7 @@ public class Healer : MonoBehaviour
         {
             targetedAlly = null;
             targetingBoss = true;
-            targetingManager.MoveIndicatorToBoss(FindFirstObjectByType<Boss>());
+            targetingManager.MoveIndicatorToEntity(FindFirstObjectByType<Boss>());
         }
 
         // Interrupt cast on move

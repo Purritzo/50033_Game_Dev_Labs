@@ -1,19 +1,16 @@
 using UnityEngine;
 
-public class Boss : MonoBehaviour
+public class Boss : Entity
 {
-
-    public int maxHealth = 300;
-    public int health;
     public int attackPower = 30;
     public float attackInterval = 1f;
     private float timer = 0f;
     public Ally[] allies;
-    public HPBar hpBar;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public void Start()
     {
+        maxHealth = 300;
         health = maxHealth;
         hpBar.setMaxHealth(maxHealth);
 
@@ -54,7 +51,7 @@ public class Boss : MonoBehaviour
         // Debug.Log("Boss attacked " + target.name);
     }
 
-    public void TakeDamage(int incomingAttackPower)
+    public override void TakeDamage(int incomingAttackPower)
     {
         health -= incomingAttackPower;
         hpBar.SetHealth(health);

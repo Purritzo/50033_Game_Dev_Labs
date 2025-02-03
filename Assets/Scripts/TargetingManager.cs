@@ -35,28 +35,11 @@ public class TargetingManager : MonoBehaviour
         targetIndicator.transform.localPosition = Vector3.zero;
     }
 
-    // TODO: Find a way to merge these functions, may require all entities to do inheritance class
-    public void MoveIndicatorToAlly(Ally ally)
+    public void MoveIndicatorToEntity(Entity entity)
     {
-        if (targetIndicator != null && ally != null)
+        if (targetIndicator != null && entity != null)
         {
-            StartCoroutine(SmoothMoveIndicator(ally.transform));
-        }
-    }
-
-    public void MoveIndicatorToBoss(Boss boss)
-    {
-        if (targetIndicator != null && boss != null)
-        {
-            StartCoroutine(SmoothMoveIndicator(boss.transform));
-        }
-    }
-
-    public void MoveIndicatorToHealer(Healer healer)
-    {
-        if (targetIndicator != null && healer != null)
-        {
-            StartCoroutine(SmoothMoveIndicator(healer.transform));
+            StartCoroutine(SmoothMoveIndicator(entity.transform));
         }
     }
 }
