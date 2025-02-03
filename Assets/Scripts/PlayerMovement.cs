@@ -19,6 +19,8 @@ public class PlayerMovement : MonoBehaviour
     public LogicScript logicScript;
     // private bool jumping = false;
     // private bool canJump = true;
+    private bool stopVertical = false;
+    private bool stopHorizontal = false;
 
     // Start is called before the first frame update
     void Start()
@@ -50,7 +52,8 @@ public class PlayerMovement : MonoBehaviour
         {
             // stop
             // playerBody.linearVelocity = Vector2.zero;
-            playerBody.linearVelocity = new Vector2 (0, playerBody.linearVelocityY);
+            //playerBody.linearVelocity = new Vector2 (0, playerBody.linearVelocityY);
+            stopHorizontal = true;
         }
 
         // stop
@@ -58,7 +61,8 @@ public class PlayerMovement : MonoBehaviour
         {
             // stop
             // playerBody.linearVelocity = Vector2.zero;
-            playerBody.linearVelocity = new Vector2 (playerBody.linearVelocityX, 0);
+            //playerBody.linearVelocity = new Vector2 (playerBody.linearVelocityX, 0);
+            stopVertical = true;
         }
     }
 
@@ -104,7 +108,16 @@ public class PlayerMovement : MonoBehaviour
                     playerBody.AddForce(movement * speed);
         }
 
-
+        if (stopHorizontal)
+        {
+            playerBody.linearVelocity = new Vector2 (0, playerBody.linearVelocityY);
+            stopHorizontal = false;
+        }
+        if (stopVertical)
+        {
+            playerBody.linearVelocity = new Vector2 (playerBody.linearVelocityX, 0);
+            stopVertical = false;
+        }
 
         // jump
         // if (jumping) //if (Input.GetKeyDown("space"))
