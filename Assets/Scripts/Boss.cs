@@ -55,6 +55,6 @@ public class Boss : Entity
     {
         health -= incomingAttackPower;
         hpBar.SetHealth(health);
-        GameObject.FindWithTag("Manager").GetComponent<GameManager>().addScore(incomingAttackPower);
+        //GameObject.FindWithTag("Manager").GetComponent<GameManager>().addScore(incomingAttackPower);
     }
 }

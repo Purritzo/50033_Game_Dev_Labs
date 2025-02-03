@@ -13,20 +13,24 @@ public class GameManager : MonoBehaviour
 
     [System.NonSerialized]
     public int score = 0; // we don't want this to show up in the inspector
+    public int decayCoefficient = 10;
+    private float decayTimer = 0f;
+    public float decayInterval = 0.5f;
     public TextMeshProUGUI gameOverScoreText;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        score = 1000;
     }
 
     // Update is called once per frame
     void Update()
     {
+        decayScore();
         if (boss.health <= 0)
         {
             Debug.Log("You won!");
-            addScore(100);
+            //addScore(100);
             Time.timeScale = 0f;
             boss.health = boss.maxHealth; // temporary to stop infinite score adding
             GameWin();
@@ -44,6 +48,21 @@ public class GameManager : MonoBehaviour
     {
         score += scoreToAdd;
         scoreText.text = "Score: " + score.ToString();
+    }
+
+    public void decayScore()
+    {
+        if (decayTimer > decayInterval)
+        {
+            score -= decayCoefficient;
+            scoreText.text = "Score: " + score.ToString();
+            decayTimer = 0f;
+        } else 
+        {
+            decayTimer += Time.deltaTime;
+        }
+
+        
     }
 
     bool AllAlliesDead()
@@ -99,8 +118,8 @@ public class GameManager : MonoBehaviour
         normalCanvas.SetActive(true);
         gameOverCanvas.SetActive(false);
         // reset score
-        scoreText.text = "Score: 0";
-        score = 0;
+        scoreText.text = "Score: 1000";
+        score = 1000;
         // reset obstacles
         // foreach (Transform eachChild in obstacles.transform)
         // {
