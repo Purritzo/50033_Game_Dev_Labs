@@ -87,7 +87,6 @@ GameObject:
   - component: {fileID: 3958468159214711825}
   - component: {fileID: 2865505275334194477}
   - component: {fileID: 7638146682639899613}
-  - component: {fileID: 8420507113921593648}
   m_Layer: 5
   m_Name: HPBar
   m_TagString: Untagged
@@ -178,52 +177,6 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
---- !u!114 &8420507113921593648
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2692981517402717472}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6ca67b3441216b408af1a822d218e79, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  slider: {fileID: 7424695701472362050}
-  gradient:
-    serializedVersion: 2
-    key0: {r: 1, g: 0.17502478, b: 0, a: 1}
-    key1: {r: 1, g: 0.9970294, b: 0.0039215684, a: 1}
-    key2: {r: 0.3408676, g: 1, b: 0.0047169924, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
-    key4: {r: 0, g: 0, b: 0, a: 0}
-    key5: {r: 0, g: 0, b: 0, a: 0}
-    key6: {r: 0, g: 0, b: 0, a: 0}
-    key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 14456
-    ctime1: 36815
-    ctime2: 65535
-    ctime3: 0
-    ctime4: 0
-    ctime5: 0
-    ctime6: 0
-    ctime7: 0
-    atime0: 0
-    atime1: 65535
-    atime2: 0
-    atime3: 0
-    atime4: 0
-    atime5: 0
-    atime6: 0
-    atime7: 0
-    m_Mode: 1
-    m_ColorSpace: -1
-    m_NumColorKeys: 3
-    m_NumAlphaKeys: 2
-  fill: {fileID: 559760470000714572}
-  target: {fileID: 0}
-  offset: {x: 0, y: 0, z: 0}
 --- !u!1 &5324210641294593473
 GameObject:
   m_ObjectHideFlags: 0
