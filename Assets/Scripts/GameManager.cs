@@ -79,6 +79,8 @@ public class GameManager : MonoBehaviour
         normalCanvas.SetActive(false);
         gameOverScoreText.text = scoreText.text;
         gameOverCanvas.SetActive(true);
+        TextMeshProUGUI gameOverText = gameOverCanvas.transform.Find("GameOverText").GetComponent<TextMeshProUGUI>();
+        gameOverText.text = "Game Over!";
     }
 
     public void GameWin()
