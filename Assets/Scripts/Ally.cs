@@ -41,16 +41,5 @@ public class Ally : Entity
         //Debug.Log(gameObject.name + " attacking Boss with " + attackPower);
     }
 
-    public void ReceiveHeal(int IncomingHealValue)
-    {
-        int maximumCanHeal = maxHealth - health;
-        if (IncomingHealValue > maximumCanHeal)
-        {
-            IncomingHealValue = maximumCanHeal;
-        }
-        health += IncomingHealValue;
-        //GameObject.FindWithTag("Manager").GetComponent<GameManager>().addScore(IncomingHealValue);
-        Debug.Log(gameObject.name + " healed for " + IncomingHealValue);
-        hpBar.SetHealth(health);
-    }
+    
 }

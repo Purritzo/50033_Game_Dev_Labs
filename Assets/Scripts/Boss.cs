@@ -53,10 +53,10 @@ public class Boss : Entity
         // Debug.Log("Boss attacked " + target.name);
     }
 
-    public override void TakeDamage(int incomingAttackPower)
-    {
-        health -= incomingAttackPower;
-        hpBar.SetHealth(health);
-        //GameObject.FindWithTag("Manager").GetComponent<GameManager>().addScore(incomingAttackPower);
-    }
+    // public override void TakeDamage(int incomingAttackPower)
+    // {
+    //     health -= incomingAttackPower;
+    //     hpBar.SetHealth(health);
+    //     //GameObject.FindWithTag("Manager").GetComponent<GameManager>().addScore(incomingAttackPower);
+    // }
 }
