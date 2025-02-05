@@ -101,8 +101,8 @@ public class Healer : Entity
     {
         foreach (PartyMember partyMember in partyListContainer.GetComponentsInChildren<PartyMember>())
         {
-            Debug.Log(partyMember);
-            Debug.Log(partyMember.entity == targetedAlly);
+            //Debug.Log(partyMember);
+            //Debug.Log(partyMember.entity == targetedAlly);
             if (partyMember != null)
             {
                 partyMember.SetHighlight(partyMember.entity == targetedAlly);

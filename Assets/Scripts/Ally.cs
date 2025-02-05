@@ -36,7 +36,7 @@ public class Ally : Entity
     void AttackBoss()
     {
         targetBoss.TakeDamage(attackPower);
-        Debug.Log(gameObject.name + " attacking Boss with " + attackPower);
+        //Debug.Log(gameObject.name + " attacking Boss with " + attackPower);
     }
 
     public void ReceiveHeal(int IncomingHealValue)

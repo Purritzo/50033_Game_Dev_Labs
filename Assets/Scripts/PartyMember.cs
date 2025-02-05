@@ -34,7 +34,7 @@ public class PartyMember : MonoBehaviour
         hpBar.maxValue = entity.maxHealth;
         hpBar.value = entity.health;
         SetHighlight(false);
-        Debug.Log("initialising party member");
+        //Debug.Log("initialising party member");
     }
 
     public void SetHighlight(bool isHighlighted)
@@ -42,7 +42,7 @@ public class PartyMember : MonoBehaviour
         if (highlightBorder != null)
         {
             highlightBorder.enabled = isHighlighted;
-            Debug.Log("setting highlight to " + isHighlighted);
+            //Debug.Log("setting highlight to " + isHighlighted);
         }
     }
 }

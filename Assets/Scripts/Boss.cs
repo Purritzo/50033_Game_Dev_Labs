@@ -38,7 +38,7 @@ public class Boss : Entity
         {
             Ally target = aliveAllies[Random.Range(0, aliveAllies.Length)];
             target.TakeDamage(attackPower);
-            Debug.Log("Boss attacked " + target.name);
+            //Debug.Log("Boss attacked " + target.name);
         }
         else
         {
