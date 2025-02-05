@@ -1118,8 +1118,8 @@ Tilemap:
   - first: {x: 3, y: -4, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 0
+      m_TileIndex: 15
+      m_TileSpriteIndex: 15
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1188,8 +1188,8 @@ Tilemap:
   - first: {x: -8, y: -3, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 0
+      m_TileIndex: 11
+      m_TileSpriteIndex: 11
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1298,8 +1298,8 @@ Tilemap:
   - first: {x: 3, y: -3, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 0
+      m_TileIndex: 10
+      m_TileSpriteIndex: 10
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1368,8 +1368,8 @@ Tilemap:
   - first: {x: -8, y: -2, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 0
+      m_TileIndex: 10
+      m_TileSpriteIndex: 10
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1598,8 +1598,8 @@ Tilemap:
   - first: {x: -3, y: -1, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 0
+      m_TileIndex: 14
+      m_TileSpriteIndex: 14
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1778,8 +1778,8 @@ Tilemap:
   - first: {x: -3, y: 0, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 0
+      m_TileIndex: 13
+      m_TileSpriteIndex: 13
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1958,8 +1958,8 @@ Tilemap:
   - first: {x: -3, y: 1, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 0
+      m_TileIndex: 12
+      m_TileSpriteIndex: 12
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -2088,8 +2088,8 @@ Tilemap:
   - first: {x: -8, y: 2, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 0
+      m_TileIndex: 1
+      m_TileSpriteIndex: 6
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -2617,9 +2617,9 @@ Tilemap:
       m_AllTileFlags: 1073741825
   m_AnimatedTiles: {}
   m_TileAssetArray:
-  - m_RefCount: 59
+  - m_RefCount: 51
     m_Data: {fileID: 11400000, guid: de1f88da454155240b15ddef63857f4e, type: 2}
-  - m_RefCount: 1
+  - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: d51de7e8ebf282c4b81c25106cebac7c, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 2ca42e68c9ad416479394e094bee4bc6, type: 2}
@@ -2637,8 +2637,20 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 0facb7e320c667c4bbdf8d0450b2a976, type: 2}
   - m_RefCount: 6
     m_Data: {fileID: 11400000, guid: 9caab955cc993dc4f853b9fbf769d862, type: 2}
+  - m_RefCount: 2
+    m_Data: {fileID: 11400000, guid: 2e1a1b7d8a3672b48b1143d94c27f2e4, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: e2f9cbe307e83a743b27615065cf5d7f, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 2fb91025017f26d44bf6300bead999b6, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: ab2072c5c15b3cf43a2e5143eaf504f6, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 5ecc2a3758557ac43bb2682399132944, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 12da3d8bac13edb4b99580dc26d4ef97, type: 2}
   m_TileSpriteArray:
-  - m_RefCount: 59
+  - m_RefCount: 51
     m_Data: {fileID: 2072951860528427076, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 199434883, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
@@ -2650,7 +2662,7 @@ Tilemap:
     m_Data: {fileID: 5743055181601995502, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
   - m_RefCount: 6
     m_Data: {fileID: 1884591489, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
-  - m_RefCount: 1
+  - m_RefCount: 2
     m_Data: {fileID: 994066898, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
   - m_RefCount: 99
     m_Data: {fileID: -170817499, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
@@ -2658,6 +2670,18 @@ Tilemap:
     m_Data: {fileID: 1171520325, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
   - m_RefCount: 6
     m_Data: {fileID: 171150248, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
+  - m_RefCount: 2
+    m_Data: {fileID: 1606012104, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 530403068, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 1380179846, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 783125021, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 99213171, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: -494111396, guid: 80293d3d5861edb4b811906ba817b1ef, type: 3}
   m_TileMatrixArray:
   - m_RefCount: 180
     m_Data:
@@ -4089,6 +4113,7 @@ MonoBehaviour:
   health: 500
   hpBar: {fileID: 1703223682}
   incapcitated: 0
+  floatingTextPrefab: {fileID: 9161160529095442666, guid: 57e59410d5bd21345ae4c4166b7e7b5e, type: 3}
   attackPower: 30
   attackInterval: 2
   allies:
@@ -4626,6 +4651,7 @@ MonoBehaviour:
   health: 0
   hpBar: {fileID: 0}
   incapcitated: 0
+  floatingTextPrefab: {fileID: 0}
   healAmount: 20
   attackPower: 20
   targetedAlly: {fileID: 0}
@@ -5460,7 +5486,8 @@ MonoBehaviour:
   health: 100
   hpBar: {fileID: 8852958815899440328}
   incapcitated: 0
-  attackPower: 10
+  floatingTextPrefab: {fileID: 9161160529095442666, guid: 57e59410d5bd21345ae4c4166b7e7b5e, type: 3}
+  attackPower: 15
   attackInterval: 1
   targetBoss: {fileID: 872012427}
   startPosition: {x: 0, y: 0, z: 0}
@@ -6038,8 +6065,9 @@ MonoBehaviour:
   health: 100
   hpBar: {fileID: 489432077}
   incapcitated: 0
+  floatingTextPrefab: {fileID: 9161160529095442666, guid: 57e59410d5bd21345ae4c4166b7e7b5e, type: 3}
   attackPower: 10
-  attackInterval: 1
+  attackInterval: 0.5
   targetBoss: {fileID: 872012427}
   startPosition: {x: 0, y: 0, z: 0}
   allyAnimator: {fileID: 1978743691}
