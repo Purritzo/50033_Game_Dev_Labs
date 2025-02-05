@@ -8,6 +8,7 @@ public class Healer : Entity
     public int attackPower = 20;
     public Ally targetedAlly;
     public Ally[] allies;
+    public GameObject partyListContainer;
     private bool currentlyTargetingSelf = false;
     private bool targetingBoss = false;
     public Vector3 startPosition;
@@ -31,18 +32,21 @@ public class Healer : Entity
             targetedAlly = null;
             currentlyTargetingSelf = true;
             targetingManager.MoveIndicatorToEntity(FindFirstObjectByType<Healer>());
+            UpdatePartyUIHighlight();
         }
         if (Input.GetKeyDown("w"))
         {
             targetedAlly = allies[0];
             targetingManager.MoveIndicatorToEntity(targetedAlly);
             currentlyTargetingSelf = false;
+            UpdatePartyUIHighlight();
         }
         if (Input.GetKeyDown("e"))
         {
             targetedAlly = allies[1];
             targetingManager.MoveIndicatorToEntity(targetedAlly);
             currentlyTargetingSelf = false;
+            UpdatePartyUIHighlight();
         }
         if (Input.GetKeyDown("f"))
         {
@@ -71,6 +75,7 @@ public class Healer : Entity
             targetedAlly = null;
             targetingBoss = true;
             targetingManager.MoveIndicatorToEntity(FindFirstObjectByType<Boss>());
+            UpdatePartyUIHighlight();
         }
 
         // Interrupt cast on move
@@ -80,6 +85,25 @@ public class Healer : Entity
             {
                 StopCoroutine(castingCoroutine);
                 castBar.CancelCast();
+            }
+        }
+    }
+
+    void SetTarget(Ally newTarget)
+    {
+        targetedAlly = newTarget;
+        UpdatePartyUIHighlight();
+    }
+
+    void UpdatePartyUIHighlight()
+    {
+        foreach (PartyMember partyMember in partyListContainer.GetComponentsInChildren<PartyMember>())
+        {
+            Debug.Log(partyMember);
+            Debug.Log(partyMember.entity == targetedAlly);
+            if (partyMember != null)
+            {
+                partyMember.SetHighlight(partyMember.entity == targetedAlly);
             }
         }
     }

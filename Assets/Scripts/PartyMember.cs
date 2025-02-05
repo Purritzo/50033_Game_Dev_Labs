@@ -8,7 +8,8 @@ public class PartyMember : MonoBehaviour
     public TextMeshProUGUI nameText;
     public TextMeshProUGUI HPText;
     public Slider hpBar;
-    private Entity entity; // Reference to the entity for updating
+    public Entity entity; // Reference to the entity for updating
+    public Image highlightBorder;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -32,5 +33,16 @@ public class PartyMember : MonoBehaviour
         nameText.text = entity.entityName;
         hpBar.maxValue = entity.maxHealth;
         hpBar.value = entity.health;
+        SetHighlight(false);
+        Debug.Log("initialising party member");
+    }
+
+    public void SetHighlight(bool isHighlighted)
+    {
+        if (highlightBorder != null)
+        {
+            highlightBorder.enabled = isHighlighted;
+            Debug.Log("setting highlight to " + isHighlighted);
+        }
     }
 }

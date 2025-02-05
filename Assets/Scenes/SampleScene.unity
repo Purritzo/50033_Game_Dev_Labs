@@ -2043,6 +2043,8 @@ MonoBehaviour:
   normalCanvas: {fileID: 1833606983}
   gameOverCanvas: {fileID: 506662377}
   scoreText: {fileID: 410804351}
+  decayCoefficient: 10
+  decayInterval: 0.5
   gameOverScoreText: {fileID: 70372959}
 --- !u!4 &814195703
 Transform:
@@ -2559,6 +2561,7 @@ MonoBehaviour:
   allies:
   - {fileID: 1978743690}
   - {fileID: 1491186361}
+  partyListContainer: {fileID: 1318873910}
   startPosition: {x: 0, y: 0, z: 0}
   targetingManager: {fileID: 40302746}
   castBar: {fileID: 0}

@@ -39,6 +39,7 @@ public class PartyList : MonoBehaviour
             (
                 gameObject.transform.position.x - 700, gameObject.transform.position.y + 210 - (number * 50), 0), gameObject.transform.rotation, gameObject.transform
             );
+            partyEntry.name = number.ToString();
             PartyMember partyMember = partyEntry.GetComponent<PartyMember>();
             partyMember.Initialise(member);
             number += 1;
