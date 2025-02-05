@@ -6,6 +6,7 @@ public class Boss : Entity
     public float attackInterval = 1f;
     private float timer = 0f;
     public Ally[] allies;
+    public Animator bossAnimator;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public void Start()
@@ -37,6 +38,7 @@ public class Boss : Entity
         if (aliveAllies.Length > 0)
         {
             Ally target = aliveAllies[Random.Range(0, aliveAllies.Length)];
+            bossAnimator.SetTrigger("Attack");
             target.TakeDamage(attackPower);
             //Debug.Log("Boss attacked " + target.name);
         }

@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: a2b74e6c4643ea346a5dba16c194350f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6769007205409824979
+    second: AxeKnight_Green_0
+  - first:
+      213: -8423263196529695421
+    second: AxeKnight_Green_1
+  - first:
+      213: -6355935815255118110
+    second: AxeKnight_Green_2
+  - first:
+      213: -5631028373850435719
+    second: AxeKnight_Green_3
+  - first:
+      213: -2656046239664179653
+    second: AxeKnight_Green_4
+  - first:
+      213: -1527350900296035122
+    second: AxeKnight_Green_5
+  - first:
+      213: -8500009378984231661
+    second: AxeKnight_Green_6
+  - first:
+      213: -7036983266988351824
+    second: AxeKnight_Green_7
+  - first:
+      213: -480063939395726138
+    second: AxeKnight_Green_8
+  - first:
+      213: -2687284956531268432
+    second: AxeKnight_Green_9
+  - first:
+      213: -7310197804683226474
+    second: AxeKnight_Green_10
+  - first:
+      213: -3399785781841683485
+    second: AxeKnight_Green_11
+  - first:
+      213: 8247285357605395649
+    second: AxeKnight_Green_12
+  - first:
+      213: -4445810719436212156
+    second: AxeKnight_Green_13
+  - first:
+      213: 7188055029239803342
+    second: AxeKnight_Green_14
+  - first:
+      213: -4580590320418841659
+    second: AxeKnight_Green_15
+  - first:
+      213: -5804573927891128410
+    second: AxeKnight_Green_16
+  - first:
+      213: -2860189091935222796
+    second: AxeKnight_Green_17
+  - first:
+      213: -5532654135108346248
+    second: AxeKnight_Green_18
+  - first:
+      213: 3316596969694244274
+    second: AxeKnight_Green_19
+  - first:
+      213: 2001393110465664313
+    second: AxeKnight_Green_20
+  - first:
+      213: 5718965560659963437
+    second: AxeKnight_Green_21
+  - first:
+      213: 1063052786141513586
+    second: AxeKnight_Green_22
+  - first:
+      213: 4277677029451447206
+    second: AxeKnight_Green_23
+  - first:
+      213: -4631045197245189404
+    second: AxeKnight_Green_24
+  - first:
+      213: 5989981890394469755
+    second: AxeKnight_Green_25
+  - first:
+      213: 4463517009231584875
+    second: AxeKnight_Green_26
+  - first:
+      213: 390897655340362895
+    second: AxeKnight_Green_27
+  - first:
+      213: -1541947655780195589
+    second: AxeKnight_Green_28
+  - first:
+      213: -7810334098194691002
+    second: AxeKnight_Green_29
+  - first:
+      213: 9168721963542430804
+    second: AxeKnight_Green_30
+  - first:
+      213: -8404900533672173184
+    second: AxeKnight_Green_31
+  - first:
+      213: 8828555691747047650
+    second: AxeKnight_Green_32
+  - first:
+      213: -1641788705448908343
+    second: AxeKnight_Green_33
+  - first:
+      213: -2266193231336532205
+    second: AxeKnight_Green_34
+  - first:
+      213: 4629465614496792614
+    second: AxeKnight_Green_35
+  - first:
+      213: -6610630821353662245
+    second: AxeKnight_Green_36
+  - first:
+      213: 1696088012737898488
+    second: AxeKnight_Green_37
+  - first:
+      213: 8376620854620121024
+    second: AxeKnight_Green_38
+  - first:
+      213: 8090907490687225800
+    second: AxeKnight_Green_39
+  - first:
+      213: -5087139970728687908
+    second: AxeKnight_Green_40
+  - first:
+      213: -993014677507550508
+    second: AxeKnight_Green_41
+  - first:
+      213: -7283872360939372982
+    second: AxeKnight_Green_42
+  - first:
+      213: 5107011392189356082
+    second: AxeKnight_Green_43
+  - first:
+      213: 3221001441976843945
+    second: AxeKnight_Green_44
+  - first:
+      213: 6516866222874438618
+    second: AxeKnight_Green_45
+  - first:
+      213: -1337839102804945767
+    second: AxeKnight_Green_46
+  - first:
+      213: 3488387121567123544
+    second: AxeKnight_Green_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AxeKnight_Green_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 423
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fdc777fc7af02a0800000000000000
+      internalID: -6769007205409824979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 423
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345e93940ce8a1b80800000000000000
+      internalID: -8423263196529695421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 423
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee298c1d0e2bc7a0800000000000000
+      internalID: -6355935815255118110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 423
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fcf7847819ad1b0800000000000000
+      internalID: -5631028373850435719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 391
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36fdc17404d32bd0800000000000000
+      internalID: -2656046239664179653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 391
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec45b7cc272cdcae0800000000000000
+      internalID: -1527350900296035122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 391
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31df72a3186e90a80800000000000000
+      internalID: -8500009378984231661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 391
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be9ac0900d975e90800000000000000
+      internalID: -7036983266988351824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4d7def3687659f0800000000000000
+      internalID: -480063939395726138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 359
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4e3b3e198d4bad0800000000000000
+      internalID: -2687284956531268432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 359
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6921406e3d5fc8a90800000000000000
+      internalID: -7310197804683226474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 359
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb17e028d881d0d0800000000000000
+      internalID: -3399785781841683485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc9955365e347270800000000000000
+      internalID: 8247285357605395649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 320
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4487161a4be4d42c0800000000000000
+      internalID: -4445810719436212156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 320
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd6cc317f911c360800000000000000
+      internalID: 7188055029239803342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 320
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb97d16f597e60c0800000000000000
+      internalID: -4580590320418841659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 263
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af2e8b34c2027fa0800000000000000
+      internalID: -5804573927891128410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 263
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f301c0cc219e48d0800000000000000
+      internalID: -2860189091935222796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 263
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e55cb90601833b0800000000000000
+      internalID: -5532654135108346248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 263
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd23c13f5be60e20800000000000000
+      internalID: 3316596969694244274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 231
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935583d1e6066cb10800000000000000
+      internalID: 2001393110465664313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 231
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e64d580e8dd5f40800000000000000
+      internalID: 5718965560659963437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 231
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277447f60e8b0ce00800000000000000
+      internalID: 1063052786141513586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 231
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab3d4c189c5d5b30800000000000000
+      internalID: 4277677029451447206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 199
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2fb6fede83bbfb0800000000000000
+      internalID: -4631045197245189404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 194
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b753cf30bc0b02350800000000000000
+      internalID: 5989981890394469755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 195
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e9928321991fd30800000000000000
+      internalID: 4463517009231584875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 199
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6812b85fbc6500800000000000000
+      internalID: 390897655340362895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2a9f2d6c6e99ae0800000000000000
+      internalID: -1541947655780195589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 163
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c0cf3c48e1c9390800000000000000
+      internalID: -7810334098194691002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 163
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454c4414c08dd3f70800000000000000
+      internalID: 9168721963542430804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 163
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081aaf5ee7bcb5b80800000000000000
+      internalID: -8404900533672173184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8f55e30a4558a70800000000000000
+      internalID: 8828555691747047650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 103
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c92877fed13739e0800000000000000
+      internalID: -1641788705448908343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 103
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3179acd434ddc80e0800000000000000
+      internalID: -2266193231336532205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 103
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62087fbc27a2f3040800000000000000
+      internalID: 4629465614496792614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd857f7ea425244a0800000000000000
+      internalID: -6610630821353662245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f76a03bf07b98710800000000000000
+      internalID: 1696088012737898488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 71
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7e2c9394cbf3470800000000000000
+      internalID: 8376620854620121024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf85fcce7da84070800000000000000
+      internalID: 8090907490687225800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 39
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd686024629d669b0800000000000000
+      internalID: -5087139970728687908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 39
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2d96a796a1832f0800000000000000
+      internalID: -993014677507550508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 39
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e3ce8edac7aea90800000000000000
+      internalID: -7283872360939372982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 39
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238d1579dcfbfd640800000000000000
+      internalID: 5107011392189356082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aefc02febb43bc20800000000000000
+      internalID: 3221001441976843945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb2c274d4f807a50800000000000000
+      internalID: 6516866222874438618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9941fa69c6a0f6de0800000000000000
+      internalID: -1337839102804945767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeKnight_Green_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 6
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8584e04da9d396030800000000000000
+      internalID: 3488387121567123544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

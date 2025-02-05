@@ -16,6 +16,7 @@ public class Healer : Entity
     public CastBar castBar;
     public Rigidbody2D playerBody;
     private Coroutine castingCoroutine;
+    public Animator healerAnimator;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -24,6 +25,7 @@ public class Healer : Entity
         health = maxHealth;
         castBar = gameObject.transform.Find("CastBarCanvas/CastBar").GetComponent<CastBar>();
         startPosition = transform.localPosition;
+        healerAnimator.SetBool("Idle", true);
     }
 
     // Update is called once per frame
@@ -56,9 +58,11 @@ public class Healer : Entity
             {
                 if (castingCoroutine != null) // Stop previous cast if any
                 {
+                    healerAnimator.SetTrigger("CastCancel");
                     StopCoroutine(castingCoroutine);
                     castBar.CancelCast();
                 }
+                healerAnimator.SetTrigger("Casting");
                 castingCoroutine = StartCoroutine(CastSpell(0.5f));
                 //StartCoroutine(CastSpell(0.5f));
                 //Heal(targetedAlly);
@@ -66,9 +70,11 @@ public class Healer : Entity
             {
                 if (castingCoroutine != null) // Stop previous cast if any
                 {
+                    healerAnimator.SetTrigger("CastCancel");
                     StopCoroutine(castingCoroutine);
                     castBar.CancelCast();
                 }
+                healerAnimator.SetTrigger("Casting");
                 castingCoroutine = StartCoroutine(CastAttackSpell(1.0f));
             }
         }
@@ -85,6 +91,7 @@ public class Healer : Entity
         {
             if (castingCoroutine != null)
             {
+                healerAnimator.SetTrigger("CastCancel");
                 StopCoroutine(castingCoroutine);
                 castBar.CancelCast();
             }
@@ -131,6 +138,8 @@ public class Healer : Entity
     {
         castBar.StartCasting(duration);
         yield return new WaitForSeconds(duration);
+        healerAnimator.SetTrigger("CastSuccess");
+        castingCoroutine = null;
 
         if (targetedAlly != null) 
         {
@@ -142,7 +151,9 @@ public class Healer : Entity
     {
         castBar.StartCasting(duration);
         yield return new WaitForSeconds(duration);
+        healerAnimator.SetTrigger("CastSuccess");
         Attack(FindFirstObjectByType<Boss>());
+        castingCoroutine = null;
     }
 
     // TODO: Add healer taking damage also, if needed

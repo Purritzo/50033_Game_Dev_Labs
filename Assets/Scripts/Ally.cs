@@ -7,6 +7,7 @@ public class Ally : Entity
     private float timer = 0f;
     public Boss targetBoss;
     public Vector3 startPosition;
+    public Animator allyAnimator;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public void Start()
@@ -35,6 +36,7 @@ public class Ally : Entity
 
     void AttackBoss()
     {
+        allyAnimator.SetTrigger("Attack");
         targetBoss.TakeDamage(attackPower);
         //Debug.Log(gameObject.name + " attacking Boss with " + attackPower);
     }

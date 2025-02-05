@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: c4a38b973f8b37b4cad7cf9d238cbe14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1657041057029016037
+    second: LanceKnight_Blue_0
+  - first:
+      213: -7079360897349819081
+    second: LanceKnight_Blue_1
+  - first:
+      213: -5870471837575555767
+    second: LanceKnight_Blue_2
+  - first:
+      213: 1210085249927937231
+    second: LanceKnight_Blue_3
+  - first:
+      213: -349813467222063593
+    second: LanceKnight_Blue_4
+  - first:
+      213: -7779430529841703872
+    second: LanceKnight_Blue_5
+  - first:
+      213: -2658630095314309518
+    second: LanceKnight_Blue_6
+  - first:
+      213: -8899983001293874996
+    second: LanceKnight_Blue_7
+  - first:
+      213: -5190537170948655812
+    second: LanceKnight_Blue_8
+  - first:
+      213: -8717600010607460152
+    second: LanceKnight_Blue_9
+  - first:
+      213: -5865663833217861048
+    second: LanceKnight_Blue_10
+  - first:
+      213: 7316374194387704325
+    second: LanceKnight_Blue_11
+  - first:
+      213: 412470235042803588
+    second: LanceKnight_Blue_12
+  - first:
+      213: 2174870142133290592
+    second: LanceKnight_Blue_13
+  - first:
+      213: -782173288683788542
+    second: LanceKnight_Blue_14
+  - first:
+      213: -4213545968612556436
+    second: LanceKnight_Blue_15
+  - first:
+      213: 3391307808073274127
+    second: LanceKnight_Blue_16
+  - first:
+      213: -7572714828708904435
+    second: LanceKnight_Blue_17
+  - first:
+      213: 7504863741084532216
+    second: LanceKnight_Blue_18
+  - first:
+      213: -1404587443953211370
+    second: LanceKnight_Blue_19
+  - first:
+      213: 8190118937478773391
+    second: LanceKnight_Blue_20
+  - first:
+      213: 8998664360083681718
+    second: LanceKnight_Blue_21
+  - first:
+      213: -1218549215185346930
+    second: LanceKnight_Blue_22
+  - first:
+      213: 4219152064033731368
+    second: LanceKnight_Blue_23
+  - first:
+      213: 4957419749760369614
+    second: LanceKnight_Blue_24
+  - first:
+      213: 7474143675230005704
+    second: LanceKnight_Blue_25
+  - first:
+      213: -7187348652895795827
+    second: LanceKnight_Blue_26
+  - first:
+      213: -2851467235406596179
+    second: LanceKnight_Blue_27
+  - first:
+      213: -6001368506178231528
+    second: LanceKnight_Blue_28
+  - first:
+      213: 4289201420065413683
+    second: LanceKnight_Blue_29
+  - first:
+      213: -597794577844077275
+    second: LanceKnight_Blue_30
+  - first:
+      213: -7393604711272974928
+    second: LanceKnight_Blue_31
+  - first:
+      213: 2138834896922100787
+    second: LanceKnight_Blue_32
+  - first:
+      213: -4973364242244172983
+    second: LanceKnight_Blue_33
+  - first:
+      213: 1545849487984120964
+    second: LanceKnight_Blue_34
+  - first:
+      213: 4287371222757245060
+    second: LanceKnight_Blue_35
+  - first:
+      213: 8602375018530962614
+    second: LanceKnight_Blue_36
+  - first:
+      213: -4226777355636368824
+    second: LanceKnight_Blue_37
+  - first:
+      213: 4218009882303579157
+    second: LanceKnight_Blue_38
+  - first:
+      213: -8563210240741307114
+    second: LanceKnight_Blue_39
+  - first:
+      213: -8897158553350460584
+    second: LanceKnight_Blue_40
+  - first:
+      213: 949605352535122528
+    second: LanceKnight_Blue_41
+  - first:
+      213: -1586058133606156083
+    second: LanceKnight_Blue_42
+  - first:
+      213: 957468133886074244
+    second: LanceKnight_Blue_43
+  - first:
+      213: 6498577584587554772
+    second: LanceKnight_Blue_44
+  - first:
+      213: 3999417495657527774
+    second: LanceKnight_Blue_45
+  - first:
+      213: -7380767110233058225
+    second: LanceKnight_Blue_46
+  - first:
+      213: -7045298018910951623
+    second: LanceKnight_Blue_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LanceKnight_Blue_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 423
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9c37edf0efef610800000000000000
+      internalID: 1657041057029016037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 423
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7356cac95ce01cd90800000000000000
+      internalID: -7079360897349819081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 423
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945df5187f4e78ea0800000000000000
+      internalID: -5870471837575555767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 423
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccf4ed9f161bc010800000000000000
+      internalID: 1210085249927937231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 391
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716c4944186352bf0800000000000000
+      internalID: -349813467222063593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 391
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044d4f97629e90490800000000000000
+      internalID: -7779430529841703872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 391
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ea0aba306aa1bd0800000000000000
+      internalID: -2658630095314309518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 391
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc81ddc4d98ec7480800000000000000
+      internalID: -8899983001293874996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35f42491f187f7b0800000000000000
+      internalID: -5190537170948655812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 359
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c00dc96afcd40780800000000000000
+      internalID: -8717600010607460152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 359
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a713142d9f89ea0800000000000000
+      internalID: -5865663833217861048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 359
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a5054e09bf88560800000000000000
+      internalID: 7316374194387704325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe5205e7369b500800000000000000
+      internalID: 412470235042803588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 323
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066457e0fd0be2e10800000000000000
+      internalID: 2174870142133290592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 323
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207243fb9892525f0800000000000000
+      internalID: -782173288683788542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 323
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61c110144a7685c0800000000000000
+      internalID: -4213545968612556436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 263
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f035738cb78501f20800000000000000
+      internalID: 3391307808073274127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 263
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0209793cff48e690800000000000000
+      internalID: -7572714828708904435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 263
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd7d0f5fc1a62860800000000000000
+      internalID: 7504863741084532216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 263
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618e13b5927e18ce0800000000000000
+      internalID: -1404587443953211370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 231
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a3f90d7c529a170800000000000000
+      internalID: 8190118937478773391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 231
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b171cbfe8da1ec70800000000000000
+      internalID: 8998664360083681718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 231
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8edb87e1f7d61fe0800000000000000
+      internalID: -1218549215185346930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 231
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823361eb2707d8a30800000000000000
+      internalID: 4219152064033731368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 199
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec309f23ffa4cc440800000000000000
+      internalID: 4957419749760369614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 193
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9215aa21e79b760800000000000000
+      internalID: 7474143675230005704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 194
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85834bfa78614c90800000000000000
+      internalID: -7187348652895795827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 199
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7bce838ad8d68d0800000000000000
+      internalID: -2851467235406596179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 167
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813a707e32bd6bca0800000000000000
+      internalID: -6001368506178231528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a991567fd468b30800000000000000
+      internalID: 4289201420065413683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 161
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52df2faaff434b7f0800000000000000
+      internalID: -597794577844077275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57be620b3a46990800000000000000
+      internalID: -7393604711272974928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 103
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3344048b10baead10800000000000000
+      internalID: 2138834896922100787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 103
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943086a529f0bfab0800000000000000
+      internalID: -4973364242244172983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48453874be5f37510800000000000000
+      internalID: 1545849487984120964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 103
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4808da0696dcf7b30800000000000000
+      internalID: 4287371222757245060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc7b348086c16770800000000000000
+      internalID: 8602375018530962614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a11a4b3687755c0800000000000000
+      internalID: -4226777355636368824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 71
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514cac5d3a1698a30800000000000000
+      internalID: 4218009882303579157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d80a7e7ad592980800000000000000
+      internalID: -8563210240741307114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 39
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba7355f61f68480800000000000000
+      internalID: -8897158553350460584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 37
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0626aa2790dad2d00800000000000000
+      internalID: 949605352535122528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 39
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc83941e7803df9e0800000000000000
+      internalID: -1586058133606156083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 39
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d1904e13c994d00800000000000000
+      internalID: 957468133886074244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df38aad1e59f2a50800000000000000
+      internalID: 6498577584587554772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed93621c509c08730800000000000000
+      internalID: 3999417495657527774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 6
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f441ca01b6f329990800000000000000
+      internalID: -7380767110233058225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LanceKnight_Blue_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 6
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937ac0687c21a3e90800000000000000
+      internalID: -7045298018910951623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
