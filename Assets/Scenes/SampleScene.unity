@@ -5592,7 +5592,6 @@ MonoBehaviour:
   targetBoss: {fileID: 872012427}
   startPosition: {x: 0, y: 0, z: 0}
   allyAnimator: {fileID: 1491186362}
-  allyAudio: {fileID: 1491186363}
 --- !u!95 &1491186362
 Animator:
   serializedVersion: 7
@@ -6270,7 +6269,6 @@ MonoBehaviour:
   targetBoss: {fileID: 872012427}
   startPosition: {x: 0, y: 0, z: 0}
   allyAnimator: {fileID: 1978743691}
-  allyAudio: {fileID: 1978743692}
 --- !u!95 &1978743691
 Animator:
   serializedVersion: 7
