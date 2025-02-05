@@ -31,8 +31,9 @@ public class TargetingManager : MonoBehaviour
             yield return null;
         }
 
-        targetIndicator.transform.SetParent(allyTransform);
-        targetIndicator.transform.localPosition = Vector3.zero;
+        targetIndicator.transform.position = end;
+        //targetIndicator.transform.SetParent(allyTransform, true);
+        //targetIndicator.transform.localPosition = Vector3.zero;
     }
 
     public void MoveIndicatorToEntity(Entity entity)
