@@ -11,7 +11,7 @@ public class Boss : Entity
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public void Start()
     {
-        maxHealth = 300;
+        maxHealth = 600;
         health = maxHealth;
         hpBar.setMaxHealth(maxHealth);
 

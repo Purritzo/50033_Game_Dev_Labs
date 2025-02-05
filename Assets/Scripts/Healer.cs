@@ -17,6 +17,7 @@ public class Healer : Entity
     public Rigidbody2D playerBody;
     private Coroutine castingCoroutine;
     public Animator healerAnimator;
+    public AudioSource healerAudio;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -127,6 +128,10 @@ public class Healer : Entity
             //target.health += healAmount;
             //Debug.Log(target.name + " healed for " + healAmount);
         }
+    }
+
+    void playHealSound(){
+        healerAudio.PlayOneShot(healerAudio.clip);
     }
 
     void Attack(Boss boss)

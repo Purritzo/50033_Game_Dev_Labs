@@ -8,6 +8,7 @@ public class Ally : Entity
     public Boss targetBoss;
     public Vector3 startPosition;
     public Animator allyAnimator;
+    //public AudioSource allyAudio;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public void Start()
@@ -40,6 +41,11 @@ public class Ally : Entity
         targetBoss.TakeDamage(attackPower);
         //Debug.Log(gameObject.name + " attacking Boss with " + attackPower);
     }
+
+    // void playHitSound()
+    // {
+    //     allyAudio.PlayOneShot(allyAudio.clip);
+    // }
 
     
 }
