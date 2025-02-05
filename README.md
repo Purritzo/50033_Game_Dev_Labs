@@ -1,1 +1,1 @@
-"# 50033_Game_Dev_Labs" 
+The whole Unity project is uploaded and tracked (except for those in .gitignore)
