@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: 9c1cb0e13cd90ea4981af3a3cf9defbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6878620023703452956
+    second: AxeFighter_ShortHair_Green3_0
+  - first:
+      213: 345582818792800365
+    second: AxeFighter_ShortHair_Green3_1
+  - first:
+      213: 517398617517549785
+    second: AxeFighter_ShortHair_Green3_2
+  - first:
+      213: -4223774487056839333
+    second: AxeFighter_ShortHair_Green3_3
+  - first:
+      213: -7188126892802827664
+    second: AxeFighter_ShortHair_Green3_4
+  - first:
+      213: -8919336990243704527
+    second: AxeFighter_ShortHair_Green3_5
+  - first:
+      213: 4041303111519091922
+    second: AxeFighter_ShortHair_Green3_6
+  - first:
+      213: 399229389836412060
+    second: AxeFighter_ShortHair_Green3_7
+  - first:
+      213: -4079845909491466987
+    second: AxeFighter_ShortHair_Green3_8
+  - first:
+      213: -6527266235443654846
+    second: AxeFighter_ShortHair_Green3_9
+  - first:
+      213: 4545345206830551473
+    second: AxeFighter_ShortHair_Green3_10
+  - first:
+      213: -6947463284258187049
+    second: AxeFighter_ShortHair_Green3_11
+  - first:
+      213: -9197346422779525275
+    second: AxeFighter_ShortHair_Green3_12
+  - first:
+      213: -1571897335478174321
+    second: AxeFighter_ShortHair_Green3_13
+  - first:
+      213: -6866656825880543942
+    second: AxeFighter_ShortHair_Green3_14
+  - first:
+      213: -1806331404400472294
+    second: AxeFighter_ShortHair_Green3_15
+  - first:
+      213: -8206386250354229855
+    second: AxeFighter_ShortHair_Green3_16
+  - first:
+      213: -4025372093367122900
+    second: AxeFighter_ShortHair_Green3_17
+  - first:
+      213: -6008590030751307532
+    second: AxeFighter_ShortHair_Green3_18
+  - first:
+      213: 1624916325353998510
+    second: AxeFighter_ShortHair_Green3_19
+  - first:
+      213: 5999960587468209445
+    second: AxeFighter_ShortHair_Green3_20
+  - first:
+      213: -1180653340393057684
+    second: AxeFighter_ShortHair_Green3_21
+  - first:
+      213: -3724844412937877837
+    second: AxeFighter_ShortHair_Green3_22
+  - first:
+      213: -7173437418588198021
+    second: AxeFighter_ShortHair_Green3_23
+  - first:
+      213: -9036029071532056147
+    second: AxeFighter_ShortHair_Green3_24
+  - first:
+      213: 3309416947588607933
+    second: AxeFighter_ShortHair_Green3_25
+  - first:
+      213: -7921866781675720707
+    second: AxeFighter_ShortHair_Green3_26
+  - first:
+      213: -3141692737720577449
+    second: AxeFighter_ShortHair_Green3_27
+  - first:
+      213: -5104126708429883416
+    second: AxeFighter_ShortHair_Green3_28
+  - first:
+      213: 2800568661375365639
+    second: AxeFighter_ShortHair_Green3_29
+  - first:
+      213: -6651850680402592082
+    second: AxeFighter_ShortHair_Green3_30
+  - first:
+      213: -8625050729031296244
+    second: AxeFighter_ShortHair_Green3_31
+  - first:
+      213: 5682413375236345425
+    second: AxeFighter_ShortHair_Green3_32
+  - first:
+      213: 6822178386560074196
+    second: AxeFighter_ShortHair_Green3_33
+  - first:
+      213: -8011592907146990650
+    second: AxeFighter_ShortHair_Green3_34
+  - first:
+      213: 8622099240895839546
+    second: AxeFighter_ShortHair_Green3_35
+  - first:
+      213: 5017045806163440857
+    second: AxeFighter_ShortHair_Green3_36
+  - first:
+      213: -2776642498183764494
+    second: AxeFighter_ShortHair_Green3_37
+  - first:
+      213: -2047999486751500511
+    second: AxeFighter_ShortHair_Green3_38
+  - first:
+      213: 6623581182744987935
+    second: AxeFighter_ShortHair_Green3_39
+  - first:
+      213: 8499173714759650170
+    second: AxeFighter_ShortHair_Green3_40
+  - first:
+      213: 5362184392084720570
+    second: AxeFighter_ShortHair_Green3_41
+  - first:
+      213: 271208209288669251
+    second: AxeFighter_ShortHair_Green3_42
+  - first:
+      213: 310282134193104886
+    second: AxeFighter_ShortHair_Green3_43
+  - first:
+      213: 7057418258939850809
+    second: AxeFighter_ShortHair_Green3_44
+  - first:
+      213: -714651216092831214
+    second: AxeFighter_ShortHair_Green3_45
+  - first:
+      213: 2360555161974688108
+    second: AxeFighter_ShortHair_Green3_46
+  - first:
+      213: -2179075928697119338
+    second: AxeFighter_ShortHair_Green3_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 423
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2444e688b3a80a0800000000000000
+      internalID: -6878620023703452956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 423
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d608f922eb1cbc400800000000000000
+      internalID: 345582818792800365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 423
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d869642d4b2e2700800000000000000
+      internalID: 517398617517549785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 423
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d8e978b732265c0800000000000000
+      internalID: -4223774487056839333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a1e02eca4ae3c90800000000000000
+      internalID: -7188126892802827664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131b5889346283480800000000000000
+      internalID: -8919336990243704527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcb6c7a4c7951830800000000000000
+      internalID: 4041303111519091922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94681dc3095a8500800000000000000
+      internalID: 399229389836412060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 359
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d3e62e2c97167c0800000000000000
+      internalID: -4079845909491466987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 359
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fcaf911fd7a65a0800000000000000
+      internalID: -6527266235443654846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 359
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1d8a2226f441f30800000000000000
+      internalID: 4545345206830551473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8d8b3c3f6a59f90800000000000000
+      internalID: -6947463284258187049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567440a78267c5080800000000000000
+      internalID: -9197346422779525275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 321
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8db07f93bf7f2ae0800000000000000
+      internalID: -1571897335478174321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 321
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3df0ea7ffbb4b0a0800000000000000
+      internalID: -6866656825880543942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 321
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fc316782f9ee6e0800000000000000
+      internalID: -1806331404400472294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 263
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad7cf14f2f0d1e80800000000000000
+      internalID: -8206386250354229855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 263
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24051e88610328c0800000000000000
+      internalID: -4025372093367122900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 263
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f86d10b3333d9ca0800000000000000
+      internalID: -6008590030751307532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 263
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8457ae9ccdc8610800000000000000
+      internalID: 1624916325353998510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 231
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52df26a7d54244350800000000000000
+      internalID: 5999960587468209445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 231
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c625ef2da0a7d9fe0800000000000000
+      internalID: -1180653340393057684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 231
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b64d33ddb1be4cc0800000000000000
+      internalID: -3724844412937877837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 231
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b2e8e9ca4d27c90800000000000000
+      internalID: -7173437418588198021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 199
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1aa333f63999280800000000000000
+      internalID: -9036029071532056147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 196
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf2da60e296ded20800000000000000
+      internalID: 3309416947588607933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff60484220ef0290800000000000000
+      internalID: -7921866781675720707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 199
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7529db6b9177664d0800000000000000
+      internalID: -3141692737720577449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7f37f2dcf7a29b0800000000000000
+      internalID: -5104126708429883416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702be560c5e9dd620800000000000000
+      internalID: 2800568661375365639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 163
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeb9a79c01efa3a0800000000000000
+      internalID: -6651850680402592082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 163
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b9d563f0aad4880800000000000000
+      internalID: -8625050729031296244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e04e9abdcfbde40800000000000000
+      internalID: 5682413375236345425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 103
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1c24dd81f3dae50800000000000000
+      internalID: 6822178386560074196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbe67cb2ba11d090800000000000000
+      internalID: -8011592907146990650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 103
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3df2c7e399d7a770800000000000000
+      internalID: 8622099240895839546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d43c3a449020a540800000000000000
+      internalID: 5017045806163440857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5e083fb526779d0800000000000000
+      internalID: -2776642498183764494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1279efb415b0493e0800000000000000
+      internalID: -2047999486751500511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f190a721effabeb50800000000000000
+      internalID: 6623581182744987935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b0698867123f570800000000000000
+      internalID: 8499173714759650170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb8a566b4e4a6a40800000000000000
+      internalID: 5362184392084720570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34822deed6683c300800000000000000
+      internalID: 271208209288669251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 39
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7eab405f75e4400800000000000000
+      internalID: 310282134193104886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9303773c38cf0f160800000000000000
+      internalID: 7057418258939850809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2126c7e518c0516f0800000000000000
+      internalID: -714651216092831214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69473eb96062c020800000000000000
+      internalID: 2360555161974688108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_ShortHair_Green3_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5763fcfd52c1e0800000000000000
+      internalID: -2179075928697119338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

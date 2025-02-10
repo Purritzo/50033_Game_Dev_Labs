@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: f7c29f1f6ea5b854c9a11d2ec7d97ff3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2629019286252964166
+    second: AxeFighter_LongHair_ReferencePalette_0
+  - first:
+      213: -7491074336052162926
+    second: AxeFighter_LongHair_ReferencePalette_1
+  - first:
+      213: -3670900907399421453
+    second: AxeFighter_LongHair_ReferencePalette_2
+  - first:
+      213: 4616728396142671663
+    second: AxeFighter_LongHair_ReferencePalette_3
+  - first:
+      213: 7952242855057217442
+    second: AxeFighter_LongHair_ReferencePalette_4
+  - first:
+      213: -2438434942386867758
+    second: AxeFighter_LongHair_ReferencePalette_5
+  - first:
+      213: 8266110990459582434
+    second: AxeFighter_LongHair_ReferencePalette_6
+  - first:
+      213: 2005208722103043728
+    second: AxeFighter_LongHair_ReferencePalette_7
+  - first:
+      213: -6628637840222194065
+    second: AxeFighter_LongHair_ReferencePalette_8
+  - first:
+      213: -8309435496762835135
+    second: AxeFighter_LongHair_ReferencePalette_9
+  - first:
+      213: -2489864643976054512
+    second: AxeFighter_LongHair_ReferencePalette_10
+  - first:
+      213: -8782623468708448697
+    second: AxeFighter_LongHair_ReferencePalette_11
+  - first:
+      213: 3766420600882858128
+    second: AxeFighter_LongHair_ReferencePalette_12
+  - first:
+      213: 3971043787718484744
+    second: AxeFighter_LongHair_ReferencePalette_13
+  - first:
+      213: 8305289889354396610
+    second: AxeFighter_LongHair_ReferencePalette_14
+  - first:
+      213: 5289289852161506691
+    second: AxeFighter_LongHair_ReferencePalette_15
+  - first:
+      213: 1542487833924897889
+    second: AxeFighter_LongHair_ReferencePalette_16
+  - first:
+      213: -7907249910562196658
+    second: AxeFighter_LongHair_ReferencePalette_17
+  - first:
+      213: -6433731481370261544
+    second: AxeFighter_LongHair_ReferencePalette_18
+  - first:
+      213: 8386476832872954380
+    second: AxeFighter_LongHair_ReferencePalette_19
+  - first:
+      213: -889278690539788922
+    second: AxeFighter_LongHair_ReferencePalette_20
+  - first:
+      213: -6747419498748553801
+    second: AxeFighter_LongHair_ReferencePalette_21
+  - first:
+      213: 5859552167736316542
+    second: AxeFighter_LongHair_ReferencePalette_22
+  - first:
+      213: -3024846932057212866
+    second: AxeFighter_LongHair_ReferencePalette_23
+  - first:
+      213: -8075338073991069609
+    second: AxeFighter_LongHair_ReferencePalette_24
+  - first:
+      213: 5329884791953617626
+    second: AxeFighter_LongHair_ReferencePalette_25
+  - first:
+      213: -2584237514481273917
+    second: AxeFighter_LongHair_ReferencePalette_26
+  - first:
+      213: 7707357284378716316
+    second: AxeFighter_LongHair_ReferencePalette_27
+  - first:
+      213: 9198975180371875218
+    second: AxeFighter_LongHair_ReferencePalette_28
+  - first:
+      213: -4010684088665552557
+    second: AxeFighter_LongHair_ReferencePalette_29
+  - first:
+      213: -5493063430990423029
+    second: AxeFighter_LongHair_ReferencePalette_30
+  - first:
+      213: 6358564051847147088
+    second: AxeFighter_LongHair_ReferencePalette_31
+  - first:
+      213: -1726763918393944515
+    second: AxeFighter_LongHair_ReferencePalette_32
+  - first:
+      213: -8628836135244548539
+    second: AxeFighter_LongHair_ReferencePalette_33
+  - first:
+      213: 3228254099504448238
+    second: AxeFighter_LongHair_ReferencePalette_34
+  - first:
+      213: -4144041432060313211
+    second: AxeFighter_LongHair_ReferencePalette_35
+  - first:
+      213: -5863122666300998602
+    second: AxeFighter_LongHair_ReferencePalette_36
+  - first:
+      213: 6506567968864446364
+    second: AxeFighter_LongHair_ReferencePalette_37
+  - first:
+      213: -6285797637452277196
+    second: AxeFighter_LongHair_ReferencePalette_38
+  - first:
+      213: -7656629144936279676
+    second: AxeFighter_LongHair_ReferencePalette_39
+  - first:
+      213: 1777385604074610679
+    second: AxeFighter_LongHair_ReferencePalette_40
+  - first:
+      213: -493507156298929424
+    second: AxeFighter_LongHair_ReferencePalette_41
+  - first:
+      213: -4811660433656876053
+    second: AxeFighter_LongHair_ReferencePalette_42
+  - first:
+      213: -3176920277986217529
+    second: AxeFighter_LongHair_ReferencePalette_43
+  - first:
+      213: -4138867980636372272
+    second: AxeFighter_LongHair_ReferencePalette_44
+  - first:
+      213: 722312856206272813
+    second: AxeFighter_LongHair_ReferencePalette_45
+  - first:
+      213: 9044811209166980556
+    second: AxeFighter_LongHair_ReferencePalette_46
+  - first:
+      213: -4975534727258370366
+    second: AxeFighter_LongHair_ReferencePalette_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 423
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64942c89c172c7420800000000000000
+      internalID: 2629019286252964166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 423
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ec09da49b5a0890800000000000000
+      internalID: -7491074336052162926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 423
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f16cc0f2175e0dc0800000000000000
+      internalID: -3670900907399421453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 423
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27fa8c040ae11040800000000000000
+      internalID: 4616728396142671663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7d25f6eba0c5e60800000000000000
+      internalID: 7952242855057217442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1712bd650f82ed0800000000000000
+      internalID: -2438434942386867758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7bb4c662027b270800000000000000
+      internalID: 8266110990459582434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096877d65bee3db10800000000000000
+      internalID: 2005208722103043728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 359
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66f7dc11095204a0800000000000000
+      internalID: -6628637840222194065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 359
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ffd63e074feac80800000000000000
+      internalID: -8309435496762835135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 359
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019b0055c49327dd0800000000000000
+      internalID: -2489864643976054512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746bf9fcc7add1680800000000000000
+      internalID: -8782623468708448697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0980656c493054430800000000000000
+      internalID: 3766420600882858128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 321
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8036b72194bfb1730800000000000000
+      internalID: 3971043787718484744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 321
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3bc9ba621524370800000000000000
+      internalID: 8305289889354396610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 321
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d3a20c815576940800000000000000
+      internalID: 5289289852161506691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 263
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c84733384086510800000000000000
+      internalID: 1542487833924897889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 263
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4373bac91ec34290800000000000000
+      internalID: -7907249910562196658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 263
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d78da81e4bc6b6a0800000000000000
+      internalID: -6433731481370261544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 263
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a7f6cfe30c26470800000000000000
+      internalID: 8386476832872954380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 231
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6852d081eb5a8a3f0800000000000000
+      internalID: -889278690539788922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 231
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b55c8a17b95c52a0800000000000000
+      internalID: -6747419498748553801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 231
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e721bccb6af415150800000000000000
+      internalID: 5859552167736316542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 231
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38bccaddb59506d0800000000000000
+      internalID: -3024846932057212866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 199
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75043928ec2aeef80800000000000000
+      internalID: -8075338073991069609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 196
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2f626bafd87f940800000000000000
+      internalID: 5329884791953617626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 196
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3fa162ca1f22cd0800000000000000
+      internalID: -2584237514481273917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 199
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98a9646d9806fa60800000000000000
+      internalID: 7707357284378716316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29553b3303359af70800000000000000
+      internalID: 9198975180371875218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35947c422103758c0800000000000000
+      internalID: -4010684088665552557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 163
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c902bb9e7b4c3b0800000000000000
+      internalID: -5493063430990423029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 163
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eeae7e0582e3850800000000000000
+      internalID: 6358564051847147088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36da217d5d4908e0800000000000000
+      internalID: -1726763918393944515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 103
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546b1b5a047304880800000000000000
+      internalID: -8628836135244548539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee249addfff0dcc20800000000000000
+      internalID: 3228254099504448238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 103
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5814b8b06486d76c0800000000000000
+      internalID: -4144041432060313211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c7698cff002aea0800000000000000
+      internalID: -5863122666300998602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97a91b2819fb4a50800000000000000
+      internalID: 6506567968864446364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43adaa13a5c54c8a0800000000000000
+      internalID: -6285797637452277196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4819b27fb503eb590800000000000000
+      internalID: -7656629144936279676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff92c73aca8aa810800000000000000
+      internalID: 1777385604074610679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa60b62bd5b629f0800000000000000
+      internalID: -493507156298929424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be37410345c893db0800000000000000
+      internalID: -4811660433656876053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 39
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c175e6d6df49e3d0800000000000000
+      internalID: -3176920277986217529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d24ee11089cf86c0800000000000000
+      internalID: -4138867980636372272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d296fda37bb260a00800000000000000
+      internalID: 722312856206272813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc58ede8fdf958d70800000000000000
+      internalID: 9044811209166980556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeFighter_LongHair_ReferencePalette_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce052ee68953fab0800000000000000
+      internalID: -4975534727258370366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: 12485b8877e7b984080f6d68ba4f95e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7906993917780116727
+    second: SpearFighter_LongHair_Red2_0
+  - first:
+      213: 1998444448406466932
+    second: SpearFighter_LongHair_Red2_1
+  - first:
+      213: -2125449914190591329
+    second: SpearFighter_LongHair_Red2_2
+  - first:
+      213: -3191321773703940988
+    second: SpearFighter_LongHair_Red2_3
+  - first:
+      213: 3553544401709447872
+    second: SpearFighter_LongHair_Red2_4
+  - first:
+      213: -4551551667765210844
+    second: SpearFighter_LongHair_Red2_5
+  - first:
+      213: -1197352048031566418
+    second: SpearFighter_LongHair_Red2_6
+  - first:
+      213: 6893041984726437915
+    second: SpearFighter_LongHair_Red2_7
+  - first:
+      213: -3801791439338627217
+    second: SpearFighter_LongHair_Red2_8
+  - first:
+      213: 2793807939915011607
+    second: SpearFighter_LongHair_Red2_9
+  - first:
+      213: 5845266861856350215
+    second: SpearFighter_LongHair_Red2_10
+  - first:
+      213: 8941315347828336165
+    second: SpearFighter_LongHair_Red2_11
+  - first:
+      213: -2226978389164049312
+    second: SpearFighter_LongHair_Red2_12
+  - first:
+      213: -2733275402492789592
+    second: SpearFighter_LongHair_Red2_13
+  - first:
+      213: -8159472758247993308
+    second: SpearFighter_LongHair_Red2_14
+  - first:
+      213: -1513331384793682465
+    second: SpearFighter_LongHair_Red2_15
+  - first:
+      213: -6307788184015590373
+    second: SpearFighter_LongHair_Red2_16
+  - first:
+      213: 681948151077386735
+    second: SpearFighter_LongHair_Red2_17
+  - first:
+      213: -8068353384682360212
+    second: SpearFighter_LongHair_Red2_18
+  - first:
+      213: 7097404939948646946
+    second: SpearFighter_LongHair_Red2_19
+  - first:
+      213: -3159656877096610640
+    second: SpearFighter_LongHair_Red2_20
+  - first:
+      213: 2890496567690853602
+    second: SpearFighter_LongHair_Red2_21
+  - first:
+      213: 7250001944842106630
+    second: SpearFighter_LongHair_Red2_22
+  - first:
+      213: 5730979185984701720
+    second: SpearFighter_LongHair_Red2_23
+  - first:
+      213: 3097611770295954513
+    second: SpearFighter_LongHair_Red2_24
+  - first:
+      213: -6285227828696185268
+    second: SpearFighter_LongHair_Red2_25
+  - first:
+      213: -5609021088711466093
+    second: SpearFighter_LongHair_Red2_26
+  - first:
+      213: -6566889348364801784
+    second: SpearFighter_LongHair_Red2_27
+  - first:
+      213: -7851717548522872119
+    second: SpearFighter_LongHair_Red2_28
+  - first:
+      213: -2215992626255357370
+    second: SpearFighter_LongHair_Red2_29
+  - first:
+      213: 1354646929565434033
+    second: SpearFighter_LongHair_Red2_30
+  - first:
+      213: 4570069241971249241
+    second: SpearFighter_LongHair_Red2_31
+  - first:
+      213: 7017183618963833069
+    second: SpearFighter_LongHair_Red2_32
+  - first:
+      213: -4612529052960094683
+    second: SpearFighter_LongHair_Red2_33
+  - first:
+      213: 8047052157464586053
+    second: SpearFighter_LongHair_Red2_34
+  - first:
+      213: 3859238696811282170
+    second: SpearFighter_LongHair_Red2_35
+  - first:
+      213: -1330045405878632285
+    second: SpearFighter_LongHair_Red2_36
+  - first:
+      213: 2366825181120516828
+    second: SpearFighter_LongHair_Red2_37
+  - first:
+      213: -2126694460977049658
+    second: SpearFighter_LongHair_Red2_38
+  - first:
+      213: -817788453388412932
+    second: SpearFighter_LongHair_Red2_39
+  - first:
+      213: 2261314002860525569
+    second: SpearFighter_LongHair_Red2_40
+  - first:
+      213: 1630330327999189019
+    second: SpearFighter_LongHair_Red2_41
+  - first:
+      213: 6806628087617655132
+    second: SpearFighter_LongHair_Red2_42
+  - first:
+      213: 5037660483927929342
+    second: SpearFighter_LongHair_Red2_43
+  - first:
+      213: -7156001094909022099
+    second: SpearFighter_LongHair_Red2_44
+  - first:
+      213: 3135714297140353190
+    second: SpearFighter_LongHair_Red2_45
+  - first:
+      213: -1839264100630250138
+    second: SpearFighter_LongHair_Red2_46
+  - first:
+      213: 300738486504588
+    second: SpearFighter_LongHair_Red2_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 423
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4457e33194bbd60800000000000000
+      internalID: 7906993917780116727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 423
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4717e9a33a6ebbb10800000000000000
+      internalID: 1998444448406466932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 423
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a09cc6092e082e0800000000000000
+      internalID: -2125449914190591329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 423
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484386251c526b3d0800000000000000
+      internalID: -3191321773703940988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 391
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca387d4ec9b05130800000000000000
+      internalID: 3553544401709447872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 391
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42194029fd3a5d0c0800000000000000
+      internalID: -4551551667765210844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5fdf9f7a6226fe0800000000000000
+      internalID: -1197352048031566418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1019790a2109af50800000000000000
+      internalID: 6893041984726437915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 359
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f991424d25d3bc0800000000000000
+      internalID: -3801791439338627217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 359
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716dc45e48995c620800000000000000
+      internalID: 2793807939915011607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 359
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7006f46cd3f8e1150800000000000000
+      internalID: 5845266861856350215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 359
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266e0c8feee51c70800000000000000
+      internalID: 8941315347828336165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cb76f34fe2811e0800000000000000
+      internalID: -2226978389164049312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 324
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acba11c084711ad0800000000000000
+      internalID: -2733275402492789592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 324
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420d622d1cab3ce80800000000000000
+      internalID: -8159472758247993308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 324
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd2ced9f119ffae0800000000000000
+      internalID: -1513331384793682465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 263
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c2855111c3678a0800000000000000
+      internalID: -6307788184015590373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 263
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9b334fa34c67900800000000000000
+      internalID: 681948151077386735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 263
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62ffa73853770090800000000000000
+      internalID: -8068353384682360212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 263
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222edb0703c0f7260800000000000000
+      internalID: 7097404939948646946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 231
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b459849fc4a624d0800000000000000
+      internalID: -3159656877096610640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 231
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecf2b5505b1d1820800000000000000
+      internalID: 2890496567690853602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607743f4b5e2d9460800000000000000
+      internalID: 7250001944842106630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81586c3a437888f40800000000000000
+      internalID: 5730979185984701720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 199
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c2f844e7decfa20800000000000000
+      internalID: 3097611770295954513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 195
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c460a22279266c8a0800000000000000
+      internalID: -6285227828696185268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 196
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393ada5a901c822b0800000000000000
+      internalID: -5609021088711466093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 199
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8096b673ee8bdd4a0800000000000000
+      internalID: -6566889348364801784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2e7936d78190390800000000000000
+      internalID: -7851717548522872119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 162
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a1a2f72763f31e0800000000000000
+      internalID: -2215992626255357370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b042d8843cacc210800000000000000
+      internalID: 1354646929565434033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 162
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95092a623c52c6f30800000000000000
+      internalID: 4570069241971249241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de08704a25b026160800000000000000
+      internalID: 7017183618963833069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 103
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526052ab3410dffb0800000000000000
+      internalID: -4612529052960094683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547a7b65d4fdcaf60800000000000000
+      internalID: 8047052157464586053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeb0eac525ce8530800000000000000
+      internalID: 3859238696811282170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0c67f00caba8de0800000000000000
+      internalID: -1330045405878632285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2532656f6a8d020800000000000000
+      internalID: 2366825181120516828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf0cabc7a67c72e0800000000000000
+      internalID: -2126694460977049658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf71e560cb1a6a4f0800000000000000
+      internalID: -817788453388412932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1084e1aca1dc16f10800000000000000
+      internalID: 2261314002860525569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1010f2abc810a610800000000000000
+      internalID: 1630330327999189019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5195a0ce20067e50800000000000000
+      internalID: 6806628087617655132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1fb8bf48d59e540800000000000000
+      internalID: 5037660483927929342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6034a51be6c0bc90800000000000000
+      internalID: -7156001094909022099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_45
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a81a2e1a8b448b20800000000000000
+      internalID: 3135714297140353190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d3ec99b0f9976e0800000000000000
+      internalID: -1839264100630250138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_LongHair_Red2_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c88a22581110000800000000000000
+      internalID: 300738486504588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

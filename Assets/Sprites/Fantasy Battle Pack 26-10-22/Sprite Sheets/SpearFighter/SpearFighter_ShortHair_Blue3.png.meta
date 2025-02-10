@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: cbb4361a606551c4b84392afe99d732b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2621908235665053204
+    second: SpearFighter_ShortHair_Blue3_0
+  - first:
+      213: 7616058731323458302
+    second: SpearFighter_ShortHair_Blue3_1
+  - first:
+      213: -1671403914675260934
+    second: SpearFighter_ShortHair_Blue3_2
+  - first:
+      213: 6990625399166031110
+    second: SpearFighter_ShortHair_Blue3_3
+  - first:
+      213: 5325443447309339277
+    second: SpearFighter_ShortHair_Blue3_4
+  - first:
+      213: -6968078520938189130
+    second: SpearFighter_ShortHair_Blue3_5
+  - first:
+      213: -2391034231989833380
+    second: SpearFighter_ShortHair_Blue3_6
+  - first:
+      213: -1871988343770618614
+    second: SpearFighter_ShortHair_Blue3_7
+  - first:
+      213: -3211448583560586870
+    second: SpearFighter_ShortHair_Blue3_8
+  - first:
+      213: 6890273707011252395
+    second: SpearFighter_ShortHair_Blue3_9
+  - first:
+      213: 5193245840152218604
+    second: SpearFighter_ShortHair_Blue3_10
+  - first:
+      213: 7245143926529688565
+    second: SpearFighter_ShortHair_Blue3_11
+  - first:
+      213: -1973911877984090174
+    second: SpearFighter_ShortHair_Blue3_12
+  - first:
+      213: 205945242237013211
+    second: SpearFighter_ShortHair_Blue3_13
+  - first:
+      213: -3214330655923799874
+    second: SpearFighter_ShortHair_Blue3_14
+  - first:
+      213: -4335838269064056243
+    second: SpearFighter_ShortHair_Blue3_15
+  - first:
+      213: -3460852272360943858
+    second: SpearFighter_ShortHair_Blue3_16
+  - first:
+      213: -8377794310139862476
+    second: SpearFighter_ShortHair_Blue3_17
+  - first:
+      213: -601806515647798441
+    second: SpearFighter_ShortHair_Blue3_18
+  - first:
+      213: -7886292783753023473
+    second: SpearFighter_ShortHair_Blue3_19
+  - first:
+      213: 6117866743790903201
+    second: SpearFighter_ShortHair_Blue3_20
+  - first:
+      213: 8519394600459019382
+    second: SpearFighter_ShortHair_Blue3_21
+  - first:
+      213: -3703888640892353939
+    second: SpearFighter_ShortHair_Blue3_22
+  - first:
+      213: -8674722229626671278
+    second: SpearFighter_ShortHair_Blue3_23
+  - first:
+      213: 50323797394091699
+    second: SpearFighter_ShortHair_Blue3_24
+  - first:
+      213: 7693310836814512465
+    second: SpearFighter_ShortHair_Blue3_25
+  - first:
+      213: 5126240654308524230
+    second: SpearFighter_ShortHair_Blue3_26
+  - first:
+      213: 26229400265490801
+    second: SpearFighter_ShortHair_Blue3_27
+  - first:
+      213: 6174708528871799124
+    second: SpearFighter_ShortHair_Blue3_28
+  - first:
+      213: 5763711360228972975
+    second: SpearFighter_ShortHair_Blue3_29
+  - first:
+      213: 1659778717806484829
+    second: SpearFighter_ShortHair_Blue3_30
+  - first:
+      213: 5137064570942852691
+    second: SpearFighter_ShortHair_Blue3_31
+  - first:
+      213: -5802475372946366372
+    second: SpearFighter_ShortHair_Blue3_32
+  - first:
+      213: 6373651377202622498
+    second: SpearFighter_ShortHair_Blue3_33
+  - first:
+      213: -8511958493796623986
+    second: SpearFighter_ShortHair_Blue3_34
+  - first:
+      213: 1581131006184459405
+    second: SpearFighter_ShortHair_Blue3_35
+  - first:
+      213: -7466344277383940188
+    second: SpearFighter_ShortHair_Blue3_36
+  - first:
+      213: 8416810659374926862
+    second: SpearFighter_ShortHair_Blue3_37
+  - first:
+      213: 4949115022887436507
+    second: SpearFighter_ShortHair_Blue3_38
+  - first:
+      213: -4332029561973066666
+    second: SpearFighter_ShortHair_Blue3_39
+  - first:
+      213: 2653394398313154926
+    second: SpearFighter_ShortHair_Blue3_40
+  - first:
+      213: 8930728512134837694
+    second: SpearFighter_ShortHair_Blue3_41
+  - first:
+      213: -2694162657242949375
+    second: SpearFighter_ShortHair_Blue3_42
+  - first:
+      213: -969399519982447712
+    second: SpearFighter_ShortHair_Blue3_43
+  - first:
+      213: 5934097903862652642
+    second: SpearFighter_ShortHair_Blue3_44
+  - first:
+      213: 8464058543026805245
+    second: SpearFighter_ShortHair_Blue3_45
+  - first:
+      213: 2794182818018177163
+    second: SpearFighter_ShortHair_Blue3_46
+  - first:
+      213: 8220544255285808293
+    second: SpearFighter_ShortHair_Blue3_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 423
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4169c7c16a3e26420800000000000000
+      internalID: 2621908235665053204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 423
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef20c05801da1b960800000000000000
+      internalID: 7616058731323458302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 423
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1759dbefafdc8e0800000000000000
+      internalID: -1671403914675260934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 423
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6055d1b33c0b30160800000000000000
+      internalID: 6990625399166031110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 391
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a0e449996c7e940800000000000000
+      internalID: 5325443447309339277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 391
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be2370f0896c4f90800000000000000
+      internalID: -6968078520938189130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c517274c80751ded0800000000000000
+      internalID: -2391034231989833380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0561e1058c5506e0800000000000000
+      internalID: -1871988343770618614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 359
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89907a3784ae63d0800000000000000
+      internalID: -3211448583560586870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 359
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0ae972e6b2f9f50800000000000000
+      internalID: 6890273707011252395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 359
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb4c8d939d121840800000000000000
+      internalID: 5193245840152218604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 359
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f38167c30ceb8460800000000000000
+      internalID: 7245143926529688565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c785deea914b94e0800000000000000
+      internalID: -1973911877984090174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 324
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc08be4b1aabd200800000000000000
+      internalID: 205945242237013211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 324
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb873077c476463d0800000000000000
+      internalID: -3214330655923799874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 324
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4274e8011204d3c0800000000000000
+      internalID: -4335838269064056243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 263
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f82d5d13598ffc0800000000000000
+      internalID: -3460852272360943858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 263
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43223de56781cbb80800000000000000
+      internalID: -8377794310139862476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 263
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7532c4b9924f5a7f0800000000000000
+      internalID: -601806515647798441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 263
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00bcad1f724e8290800000000000000
+      internalID: -7886292783753023473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 231
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af15deb36707e450800000000000000
+      internalID: 6117866743790903201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 231
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674adbd5048fa3670800000000000000
+      internalID: 8519394600459019382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62c108b7e4299cc0800000000000000
+      internalID: -3703888640892353939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 231
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25feae1c7123d9780800000000000000
+      internalID: -8674722229626671278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 199
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be6c632a39c2b000800000000000000
+      internalID: 50323797394091699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 195
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1510ef6f17124ca60800000000000000
+      internalID: 7693310836814512465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 196
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0c93117b0142740800000000000000
+      internalID: 5126240654308524230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 199
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1710f75208f2d5000800000000000000
+      internalID: 26229400265490801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4597af621b8f0b550800000000000000
+      internalID: 6174708528871799124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 162
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9d456d1f0dcff40800000000000000
+      internalID: 5763711360228972975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ddb9033f7b80710800000000000000
+      internalID: 1659778717806484829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 162
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e0b4b82058a4740800000000000000
+      internalID: 5137064570942852691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5064912467797fa0800000000000000
+      internalID: -5802475372946366372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 103
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22077549822c37850800000000000000
+      internalID: 6373651377202622498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89126229d27fd980800000000000000
+      internalID: -8511958493796623986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c0bfed54e41f510800000000000000
+      internalID: 1581131006184459405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a772c72077326890800000000000000
+      internalID: -7466344277383940188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c83c553b48ec470800000000000000
+      internalID: 8416810659374926862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd041cb44e9cea440800000000000000
+      internalID: 4949115022887436507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654ba12c01a81e3c0800000000000000
+      internalID: -4332029561973066666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e698770a520c2d420800000000000000
+      internalID: 2653394398313154926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5ff37c34250fb70800000000000000
+      internalID: 8930728512134837694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10959e766596c9ad0800000000000000
+      internalID: -2694162657242949375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3130ec5400c82f0800000000000000
+      internalID: -969399519982447712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee9f167a962a5250800000000000000
+      internalID: 5934097903862652642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_45
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9193f7660667570800000000000000
+      internalID: 8464058543026805245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b803971087ee6c620800000000000000
+      internalID: 2794182818018177163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearFighter_ShortHair_Blue3_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac40b4227d351270800000000000000
+      internalID: 8220544255285808293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

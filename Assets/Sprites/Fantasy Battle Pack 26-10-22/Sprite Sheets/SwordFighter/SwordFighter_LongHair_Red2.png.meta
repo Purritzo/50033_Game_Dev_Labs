@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: 87054ae70b7c4c04d9833995c608d67e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3178243422308391097
+    second: SwordFighter_LongHair_Red2_0
+  - first:
+      213: -7174658113289957703
+    second: SwordFighter_LongHair_Red2_1
+  - first:
+      213: -5603793282795735965
+    second: SwordFighter_LongHair_Red2_2
+  - first:
+      213: -2354642091671408497
+    second: SwordFighter_LongHair_Red2_3
+  - first:
+      213: 3901318816453562581
+    second: SwordFighter_LongHair_Red2_4
+  - first:
+      213: -4069164321830086155
+    second: SwordFighter_LongHair_Red2_5
+  - first:
+      213: 4123957675156072619
+    second: SwordFighter_LongHair_Red2_6
+  - first:
+      213: 8262068623301895301
+    second: SwordFighter_LongHair_Red2_7
+  - first:
+      213: 2353552506790791588
+    second: SwordFighter_LongHair_Red2_8
+  - first:
+      213: 9153392588024795650
+    second: SwordFighter_LongHair_Red2_9
+  - first:
+      213: 6526466416403081327
+    second: SwordFighter_LongHair_Red2_10
+  - first:
+      213: 8873529572458740295
+    second: SwordFighter_LongHair_Red2_11
+  - first:
+      213: -2299820042864248528
+    second: SwordFighter_LongHair_Red2_12
+  - first:
+      213: 8620742640711658284
+    second: SwordFighter_LongHair_Red2_13
+  - first:
+      213: -2241009225688336893
+    second: SwordFighter_LongHair_Red2_14
+  - first:
+      213: 1491586792702546810
+    second: SwordFighter_LongHair_Red2_15
+  - first:
+      213: 483747256905110966
+    second: SwordFighter_LongHair_Red2_16
+  - first:
+      213: -1027208927955506069
+    second: SwordFighter_LongHair_Red2_17
+  - first:
+      213: 8577707285041314240
+    second: SwordFighter_LongHair_Red2_18
+  - first:
+      213: -1723395907343909807
+    second: SwordFighter_LongHair_Red2_19
+  - first:
+      213: 2662000518610939054
+    second: SwordFighter_LongHair_Red2_20
+  - first:
+      213: 116159230812907316
+    second: SwordFighter_LongHair_Red2_21
+  - first:
+      213: -3995613766416752282
+    second: SwordFighter_LongHair_Red2_22
+  - first:
+      213: -9082117810912572890
+    second: SwordFighter_LongHair_Red2_23
+  - first:
+      213: 3567029211137205776
+    second: SwordFighter_LongHair_Red2_24
+  - first:
+      213: 8493900987233567143
+    second: SwordFighter_LongHair_Red2_25
+  - first:
+      213: 959334172171184259
+    second: SwordFighter_LongHair_Red2_26
+  - first:
+      213: -3635199553403156245
+    second: SwordFighter_LongHair_Red2_27
+  - first:
+      213: -919019443749233637
+    second: SwordFighter_LongHair_Red2_28
+  - first:
+      213: -3274841582319906980
+    second: SwordFighter_LongHair_Red2_29
+  - first:
+      213: -8432190201975702123
+    second: SwordFighter_LongHair_Red2_30
+  - first:
+      213: -5268066843024370156
+    second: SwordFighter_LongHair_Red2_31
+  - first:
+      213: 7757074716504837744
+    second: SwordFighter_LongHair_Red2_32
+  - first:
+      213: -1449564111546625123
+    second: SwordFighter_LongHair_Red2_33
+  - first:
+      213: -47978593834407017
+    second: SwordFighter_LongHair_Red2_34
+  - first:
+      213: -4182300761250264551
+    second: SwordFighter_LongHair_Red2_35
+  - first:
+      213: 3770445711776896030
+    second: SwordFighter_LongHair_Red2_36
+  - first:
+      213: 8826798854616544056
+    second: SwordFighter_LongHair_Red2_37
+  - first:
+      213: -6732669452009694402
+    second: SwordFighter_LongHair_Red2_38
+  - first:
+      213: 16401758307873813
+    second: SwordFighter_LongHair_Red2_39
+  - first:
+      213: 8639815303711778908
+    second: SwordFighter_LongHair_Red2_40
+  - first:
+      213: -1606064099327119456
+    second: SwordFighter_LongHair_Red2_41
+  - first:
+      213: 1979702107002565198
+    second: SwordFighter_LongHair_Red2_42
+  - first:
+      213: -6866238489219274989
+    second: SwordFighter_LongHair_Red2_43
+  - first:
+      213: -3066849639688560407
+    second: SwordFighter_LongHair_Red2_44
+  - first:
+      213: -4862227205831509151
+    second: SwordFighter_LongHair_Red2_45
+  - first:
+      213: 8040392804242019576
+    second: SwordFighter_LongHair_Red2_46
+  - first:
+      213: 5942648417373416108
+    second: SwordFighter_LongHair_Red2_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 423
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8d964bd836b1c20800000000000000
+      internalID: 3178243422308391097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 423
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be4a7c757e7e6c90800000000000000
+      internalID: -7174658113289957703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 423
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3647d3013b35b32b0800000000000000
+      internalID: -5603793282795735965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 423
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f803eb83e71a25fd0800000000000000
+      internalID: -2354642091671408497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 391
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d013422bc4442630800000000000000
+      internalID: 3901318816453562581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 391
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9df90db9c6787c0800000000000000
+      internalID: -4069164321830086155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba86c68e7ad3b3930800000000000000
+      internalID: 4123957675156072619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5846fc973a3c8a270800000000000000
+      internalID: 8262068623301895301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9ce77098f79a020800000000000000
+      internalID: 2353552506790791588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 359
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20259e2ef02670f70800000000000000
+      internalID: 9153392588024795650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 359
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68e83480aaa29a50800000000000000
+      internalID: 6526466416403081327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 359
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ab356d12c152b70800000000000000
+      internalID: 8873529572458740295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039b0c12bd56510e0800000000000000
+      internalID: -2299820042864248528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 325
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b6eafc1c703a770800000000000000
+      internalID: 8620742640711658284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 325
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306397c8bf556e0e0800000000000000
+      internalID: -2241009225688336893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 325
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7313b2094e23b410800000000000000
+      internalID: 1491586792702546810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 263
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b516e0319d96b600800000000000000
+      internalID: 483747256905110966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 263
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c2a132cee9eb1f0800000000000000
+      internalID: -1027208927955506069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 263
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9fa2044532a0770800000000000000
+      internalID: 8577707285041314240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 263
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c776f9d844518e0800000000000000
+      internalID: -1723395907343909807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 231
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eace5b72e5351f420800000000000000
+      internalID: 2662000518610939054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 231
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4376cf9743eac9100800000000000000
+      internalID: 116159230812907316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661a119f27abc88c0800000000000000
+      internalID: -3995613766416752282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ace4858f5d5f180800000000000000
+      internalID: -9082117810912572890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 199
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01666492b22a08130800000000000000
+      internalID: 3567029211137205776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 195
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1856df1f560e570800000000000000
+      internalID: 8493900987233567143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 198
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3882829c85d305d00800000000000000
+      internalID: 959334172171184259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 199
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be80fbb244d2d8dc0800000000000000
+      internalID: -3635199553403156245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 167
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c56a16facfe33f0800000000000000
+      internalID: -919019443749233637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 163
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fc4268eec6d82d0800000000000000
+      internalID: -3274841582319906980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 163
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d75bcdfa7dafa80800000000000000
+      internalID: -8432190201975702123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 163
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416d4802e1114e6b0800000000000000
+      internalID: -5268066843024370156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e4f6d1b5aa6ab60800000000000000
+      internalID: 7757074716504837744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 103
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93db14ee1d12ebe0800000000000000
+      internalID: -1449564111546625123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b6dad19bb855ff0800000000000000
+      internalID: -47978593834407017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a05ddcd9b75f5c0800000000000000
+      internalID: -4182300761250264551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e145b5fe560535430800000000000000
+      internalID: 3770445711776896030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8337e39bac61f7a70800000000000000
+      internalID: 8826798854616544056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b96dafdc0c092a0800000000000000
+      internalID: -6732669452009694402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514f1a1ff454a3000800000000000000
+      internalID: 16401758307873813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5869b63e3ac6e770800000000000000
+      internalID: 8639815303711778908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af6911063d16b9e0800000000000000
+      internalID: -1606064099327119456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42faf0d390597b10800000000000000
+      internalID: 1979702107002565198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31768f2197836b0a0800000000000000
+      internalID: -6866238489219274989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e024d6608c5075d0800000000000000
+      internalID: -3066849639688560407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b3c231e16e58cb0800000000000000
+      internalID: -4862227205831509151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4d377d7a6359f60800000000000000
+      internalID: 8040392804242019576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwordFighter_LongHair_Red2_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa64960047887250800000000000000
+      internalID: 5942648417373416108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

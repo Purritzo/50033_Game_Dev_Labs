@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Obstacle
   - Logic
+  - Manager
   layers:
   - Default
   - TransparentFX

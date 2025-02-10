@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: d3a11b84dad6c8f48b6a2f9cfc65fac6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4646649278036726102
+    second: Thief_Green3_0
+  - first:
+      213: -4318574497141292417
+    second: Thief_Green3_1
+  - first:
+      213: -8570580789285982936
+    second: Thief_Green3_2
+  - first:
+      213: -7458425439241505016
+    second: Thief_Green3_3
+  - first:
+      213: 1901784035175273466
+    second: Thief_Green3_4
+  - first:
+      213: 7216718485690617612
+    second: Thief_Green3_5
+  - first:
+      213: -7543971826192383409
+    second: Thief_Green3_6
+  - first:
+      213: -6172713949705288921
+    second: Thief_Green3_7
+  - first:
+      213: 8921232589016616138
+    second: Thief_Green3_8
+  - first:
+      213: -5676404828139073875
+    second: Thief_Green3_9
+  - first:
+      213: -3021145973910899618
+    second: Thief_Green3_10
+  - first:
+      213: 2369847903393133157
+    second: Thief_Green3_11
+  - first:
+      213: 1398307931249342437
+    second: Thief_Green3_12
+  - first:
+      213: 8261271580562471185
+    second: Thief_Green3_13
+  - first:
+      213: 1776689845698125011
+    second: Thief_Green3_14
+  - first:
+      213: -2101567052009283215
+    second: Thief_Green3_15
+  - first:
+      213: -5576952965111102032
+    second: Thief_Green3_16
+  - first:
+      213: -5157957897612337631
+    second: Thief_Green3_17
+  - first:
+      213: 7118337766556678226
+    second: Thief_Green3_18
+  - first:
+      213: 6734665652168433442
+    second: Thief_Green3_19
+  - first:
+      213: 8307080655938777257
+    second: Thief_Green3_20
+  - first:
+      213: -3042669033143120164
+    second: Thief_Green3_21
+  - first:
+      213: 4302689166014294902
+    second: Thief_Green3_22
+  - first:
+      213: 3267179752142639916
+    second: Thief_Green3_23
+  - first:
+      213: -2943371839254036975
+    second: Thief_Green3_24
+  - first:
+      213: 6311629132849513481
+    second: Thief_Green3_25
+  - first:
+      213: 4820828642809538574
+    second: Thief_Green3_26
+  - first:
+      213: -8549868546849698111
+    second: Thief_Green3_27
+  - first:
+      213: -2590596490405498214
+    second: Thief_Green3_28
+  - first:
+      213: -5036711841645702054
+    second: Thief_Green3_29
+  - first:
+      213: 2580612937851109018
+    second: Thief_Green3_30
+  - first:
+      213: -7196178013883510590
+    second: Thief_Green3_31
+  - first:
+      213: -511630185642272975
+    second: Thief_Green3_32
+  - first:
+      213: 4152779580202880883
+    second: Thief_Green3_33
+  - first:
+      213: -984304199491246382
+    second: Thief_Green3_34
+  - first:
+      213: 8209148466900467522
+    second: Thief_Green3_35
+  - first:
+      213: 7159402080493723277
+    second: Thief_Green3_36
+  - first:
+      213: 5474986087535635737
+    second: Thief_Green3_37
+  - first:
+      213: 6529280054844251422
+    second: Thief_Green3_38
+  - first:
+      213: -3904261981534302876
+    second: Thief_Green3_39
+  - first:
+      213: -5360236772689463552
+    second: Thief_Green3_40
+  - first:
+      213: -8507599438964120579
+    second: Thief_Green3_41
+  - first:
+      213: -2929781349733567484
+    second: Thief_Green3_42
+  - first:
+      213: 7436293271144865611
+    second: Thief_Green3_43
+  - first:
+      213: -5204942175970074160
+    second: Thief_Green3_44
+  - first:
+      213: -7126719311461090704
+    second: Thief_Green3_45
+  - first:
+      213: 8470311826287573390
+    second: Thief_Green3_46
+  - first:
+      213: 878623945027941480
+    second: Thief_Green3_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thief_Green3_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 423
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeabc2c919c38fb0800000000000000
+      internalID: -4646649278036726102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 423
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7205d920675114c0800000000000000
+      internalID: -4318574497141292417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 423
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d62d75e2e2f0980800000000000000
+      internalID: -8570580789285982936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 423
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807f54654995e7890800000000000000
+      internalID: -7458425439241505016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af39120018e746a10800000000000000
+      internalID: 1901784035175273466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f85971a3fe62460800000000000000
+      internalID: 7216718485690617612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 391
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f428f30089d6e4790800000000000000
+      internalID: -7543971826192383409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 391
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723c7bffd5d165aa0800000000000000
+      internalID: -6172713949705288921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 359
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc49f2e5c59ecb70800000000000000
+      internalID: 8921232589016616138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 359
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae457932eb5931b0800000000000000
+      internalID: -5676404828139073875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 359
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5470725ebbb216d0800000000000000
+      internalID: -3021145973910899618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 359
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562b375bc1463e020800000000000000
+      internalID: 2369847903393133157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 327
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e77ab8a7a9c76310800000000000000
+      internalID: 1398307931249342437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 325
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119b4708bbee5a270800000000000000
+      internalID: 8261271580562471185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 325
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc51e8500218a810800000000000000
+      internalID: 1776689845698125011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 325
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171625996ebb5d2e0800000000000000
+      internalID: -2101567052009283215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 263
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5cd7183deaa92b0800000000000000
+      internalID: -5576952965111102032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 263
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e5562ce904b68b0800000000000000
+      internalID: -5157957897612337631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 263
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258bbdeeb7a69c260800000000000000
+      internalID: 7118337766556678226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 263
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f16869ab6567d50800000000000000
+      internalID: 6734665652168433442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0ffb108dda84370800000000000000
+      internalID: 8307080655938777257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde4c6692a446c5d0800000000000000
+      internalID: -3042669033143120164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b2437fff836bb30800000000000000
+      internalID: 4302689166014294902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 231
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c239fcf9caa575d20800000000000000
+      internalID: 3267179752142639916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 199
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eff5728ea0727d0800000000000000
+      internalID: -2943371839254036975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 194
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90480818149679750800000000000000
+      internalID: 6311629132849513481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08e0b9db1607e240800000000000000
+      internalID: 4820828642809538574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 199
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce0db41bd3c85980800000000000000
+      internalID: -8549868546849698111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92b101b73a5c0cd0800000000000000
+      internalID: -2590596490405498214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 163
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5454b204410a1ab0800000000000000
+      internalID: -5036711841645702054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 163
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e74675bcd20d320800000000000000
+      internalID: 2580612937851109018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 163
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c05ffd293a022c90800000000000000
+      internalID: -7196178013883510590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137dc609e0356e8f0800000000000000
+      internalID: -511630185642272975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f0d7c9603a1a930800000000000000
+      internalID: 4152779580202880883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6266eab8c0752f0800000000000000
+      internalID: -984304199491246382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f7b066901cce170800000000000000
+      internalID: 8209148466900467522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e5504924e4b5360800000000000000
+      internalID: 7159402080493723277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d64c1c6de0bfb40800000000000000
+      internalID: 5474986087535635737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dd804cd99ac9a50800000000000000
+      internalID: 6529280054844251422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dc598d96641d9c0800000000000000
+      internalID: -3904261981534302876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007bbd31e0d9c95b0800000000000000
+      internalID: -5360236772689463552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df32b3da26feee980800000000000000
+      internalID: -8507599438964120579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404f09392635757d0800000000000000
+      internalID: -2929781349733567484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 39
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f9738b455033760800000000000000
+      internalID: 7436293271144865611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1eadcfaa454c7b0800000000000000
+      internalID: -5204942175970074160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07af1729b8ec81d90800000000000000
+      internalID: -7126719311461090704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8939a67ab79c8570800000000000000
+      internalID: 8470311826287573390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Green3_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864fa86a2df713c00800000000000000
+      internalID: 878623945027941480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Thief_Green3_0: -4646649278036726102
+      Thief_Green3_1: -4318574497141292417
+      Thief_Green3_10: -3021145973910899618
+      Thief_Green3_11: 2369847903393133157
+      Thief_Green3_12: 1398307931249342437
+      Thief_Green3_13: 8261271580562471185
+      Thief_Green3_14: 1776689845698125011
+      Thief_Green3_15: -2101567052009283215
+      Thief_Green3_16: -5576952965111102032
+      Thief_Green3_17: -5157957897612337631
+      Thief_Green3_18: 7118337766556678226
+      Thief_Green3_19: 6734665652168433442
+      Thief_Green3_2: -8570580789285982936
+      Thief_Green3_20: 8307080655938777257
+      Thief_Green3_21: -3042669033143120164
+      Thief_Green3_22: 4302689166014294902
+      Thief_Green3_23: 3267179752142639916
+      Thief_Green3_24: -2943371839254036975
+      Thief_Green3_25: 6311629132849513481
+      Thief_Green3_26: 4820828642809538574
+      Thief_Green3_27: -8549868546849698111
+      Thief_Green3_28: -2590596490405498214
+      Thief_Green3_29: -5036711841645702054
+      Thief_Green3_3: -7458425439241505016
+      Thief_Green3_30: 2580612937851109018
+      Thief_Green3_31: -7196178013883510590
+      Thief_Green3_32: -511630185642272975
+      Thief_Green3_33: 4152779580202880883
+      Thief_Green3_34: -984304199491246382
+      Thief_Green3_35: 8209148466900467522
+      Thief_Green3_36: 7159402080493723277
+      Thief_Green3_37: 5474986087535635737
+      Thief_Green3_38: 6529280054844251422
+      Thief_Green3_39: -3904261981534302876
+      Thief_Green3_4: 1901784035175273466
+      Thief_Green3_40: -5360236772689463552
+      Thief_Green3_41: -8507599438964120579
+      Thief_Green3_42: -2929781349733567484
+      Thief_Green3_43: 7436293271144865611
+      Thief_Green3_44: -5204942175970074160
+      Thief_Green3_45: -7126719311461090704
+      Thief_Green3_46: 8470311826287573390
+      Thief_Green3_47: 878623945027941480
+      Thief_Green3_5: 7216718485690617612
+      Thief_Green3_6: -7543971826192383409
+      Thief_Green3_7: -6172713949705288921
+      Thief_Green3_8: 8921232589016616138
+      Thief_Green3_9: -5676404828139073875
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

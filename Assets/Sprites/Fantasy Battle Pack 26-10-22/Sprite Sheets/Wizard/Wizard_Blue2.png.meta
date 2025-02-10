@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 30f1c40d50e22cd4191e388906739e69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5157041398925397944
+    second: Wizard_Blue2_0
+  - first:
+      213: 8455515497229664970
+    second: Wizard_Blue2_1
+  - first:
+      213: 8367272898783730889
+    second: Wizard_Blue2_2
+  - first:
+      213: -8177900046380427058
+    second: Wizard_Blue2_3
+  - first:
+      213: 5513959486959155985
+    second: Wizard_Blue2_4
+  - first:
+      213: 6759982659180576172
+    second: Wizard_Blue2_5
+  - first:
+      213: 1354841554345348646
+    second: Wizard_Blue2_6
+  - first:
+      213: -3378605861020343151
+    second: Wizard_Blue2_7
+  - first:
+      213: 4122747469055512240
+    second: Wizard_Blue2_8
+  - first:
+      213: 4330500826826586729
+    second: Wizard_Blue2_9
+  - first:
+      213: 8506250873993328867
+    second: Wizard_Blue2_10
+  - first:
+      213: 3110808162985616605
+    second: Wizard_Blue2_11
+  - first:
+      213: 6989231669544668491
+    second: Wizard_Blue2_12
+  - first:
+      213: -5604327833694539014
+    second: Wizard_Blue2_13
+  - first:
+      213: 8758024917292294020
+    second: Wizard_Blue2_14
+  - first:
+      213: -5448586244538574642
+    second: Wizard_Blue2_15
+  - first:
+      213: 7586084042341791236
+    second: Wizard_Blue2_16
+  - first:
+      213: 2604495701997867598
+    second: Wizard_Blue2_17
+  - first:
+      213: -1120025885106637472
+    second: Wizard_Blue2_18
+  - first:
+      213: 8756094454908882334
+    second: Wizard_Blue2_19
+  - first:
+      213: 4266028947490351896
+    second: Wizard_Blue2_20
+  - first:
+      213: 6713472208843413402
+    second: Wizard_Blue2_21
+  - first:
+      213: -867354595608786877
+    second: Wizard_Blue2_22
+  - first:
+      213: 6861011132077625795
+    second: Wizard_Blue2_23
+  - first:
+      213: 1901851636387781656
+    second: Wizard_Blue2_24
+  - first:
+      213: 9052744651824013743
+    second: Wizard_Blue2_25
+  - first:
+      213: 3147985979526945345
+    second: Wizard_Blue2_26
+  - first:
+      213: -727108603365680673
+    second: Wizard_Blue2_27
+  - first:
+      213: 7153557078185963270
+    second: Wizard_Blue2_28
+  - first:
+      213: -2154542712738168697
+    second: Wizard_Blue2_29
+  - first:
+      213: -7553994336522681180
+    second: Wizard_Blue2_30
+  - first:
+      213: 6212970800909282377
+    second: Wizard_Blue2_31
+  - first:
+      213: -4740402878968060229
+    second: Wizard_Blue2_32
+  - first:
+      213: -2763578221517266273
+    second: Wizard_Blue2_33
+  - first:
+      213: 6660212284984220922
+    second: Wizard_Blue2_34
+  - first:
+      213: -6366691784637363596
+    second: Wizard_Blue2_35
+  - first:
+      213: -5525830502447324199
+    second: Wizard_Blue2_36
+  - first:
+      213: 2487167136963479574
+    second: Wizard_Blue2_37
+  - first:
+      213: 5253065440518864304
+    second: Wizard_Blue2_38
+  - first:
+      213: 2844193088687123962
+    second: Wizard_Blue2_39
+  - first:
+      213: 3620889570645305134
+    second: Wizard_Blue2_40
+  - first:
+      213: 5381524694322630807
+    second: Wizard_Blue2_41
+  - first:
+      213: -4027914619105402840
+    second: Wizard_Blue2_42
+  - first:
+      213: -4663546307444392894
+    second: Wizard_Blue2_43
+  - first:
+      213: 2007885006806818801
+    second: Wizard_Blue2_44
+  - first:
+      213: -6452521244539362739
+    second: Wizard_Blue2_45
+  - first:
+      213: 4561630730694548453
+    second: Wizard_Blue2_46
+  - first:
+      213: -9184719794385721045
+    second: Wizard_Blue2_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wizard_Blue2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 423
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840711dbb228e68b0800000000000000
+      internalID: -5157041398925397944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 423
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac24f25ab86085570800000000000000
+      internalID: 8455515497229664970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 423
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccd1c6ae568e1470800000000000000
+      internalID: 8367272898783730889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 423
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec818d67c33428e80800000000000000
+      internalID: -8177900046380427058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 391
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b781e60f4858c40800000000000000
+      internalID: 5513959486959155985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 391
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad3240a96840dd50800000000000000
+      internalID: 6759982659180576172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 391
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e41b5273d5dc210800000000000000
+      internalID: 1354841554345348646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 391
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19464d9bed7cc11d0800000000000000
+      internalID: -3378605861020343151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 359
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bec1b7daf0f63930800000000000000
+      internalID: 4122747469055512240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 359
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ab88ade87091c30800000000000000
+      internalID: 4330500826826586729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 359
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e87ab21a164c0670800000000000000
+      internalID: 8506250873993328867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4a42fda8fcb2b20800000000000000
+      internalID: 3110808162985616605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 327
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dce144c2dbef060800000000000000
+      internalID: 6989231669544668491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 325
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af27dcb378d6932b0800000000000000
+      internalID: -5604327833694539014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 325
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f1a31a241ca8970800000000000000
+      internalID: 8758024917292294020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 325
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8d23eadabb264b0800000000000000
+      internalID: -5448586244538574642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406ba046e3f274960800000000000000
+      internalID: 7586084042341791236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 263
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e425d90ba07052420800000000000000
+      internalID: 2604495701997867598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 263
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065f9f2446ed470f0800000000000000
+      internalID: -1120025885106637472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 263
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d8c94d385e38970800000000000000
+      internalID: 8756094454908882334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 231
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b22b0b9baf33b30800000000000000
+      internalID: 4266028947490351896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a979199876b0b2d50800000000000000
+      internalID: 6713472208843413402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 231
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3488f6a379986f3f0800000000000000
+      internalID: -867354595608786877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 231
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1dc7ff545373f50800000000000000
+      internalID: 6861011132077625795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 199
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c9362acfbb46a10800000000000000
+      internalID: 1901851636387781656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 199
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1a94e1c4fc1ad70800000000000000
+      internalID: 9052744651824013743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 199
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a1d93d194efab20800000000000000
+      internalID: 3147985979526945345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 199
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9124fd39ac8e5f0800000000000000
+      internalID: -727108603365680673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f61cde24a864360800000000000000
+      internalID: 7153557078185963270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 163
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780c5d961d68912e0800000000000000
+      internalID: -2154542712738168697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 163
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4c0487c22da2790800000000000000
+      internalID: -7553994336522681180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 163
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c62149608e83650800000000000000
+      internalID: 6212970800909282377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6aed282b4b63eb0800000000000000
+      internalID: -4740402878968060229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 103
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f922575ef3cc5a9d0800000000000000
+      internalID: -2763578221517266273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 103
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc5d2f29c3dd6c50800000000000000
+      internalID: 6660212284984220922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 103
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aca46dd87f4a7a0800000000000000
+      internalID: -6366691784637363596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3eb946f6e4053b0800000000000000
+      internalID: -5525830502447324199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618cbbf5551348220800000000000000
+      internalID: 2487167136963479574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdf10caf23a6e840800000000000000
+      internalID: 5253065440518864304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd21d38b8a987720800000000000000
+      internalID: 2844193088687123962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27ea3551ebff3230800000000000000
+      internalID: 3620889570645305134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 39
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790d71b62340faa40800000000000000
+      internalID: 5381524694322630807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ae96aef8f918c0800000000000000
+      internalID: -4027914619105402840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c31378751c74fb0800000000000000
+      internalID: -4663546307444392894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff9d8486c07ddb10800000000000000
+      internalID: 2007885006806818801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 6
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42e1917d1a0476a0800000000000000
+      internalID: -6452521244539362739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 6
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebdd832bfa2e4f30800000000000000
+      internalID: 4561630730694548453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Blue2_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 6
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29e32e7202598080800000000000000
+      internalID: -9184719794385721045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wizard_Blue2_0: -5157041398925397944
+      Wizard_Blue2_1: 8455515497229664970
+      Wizard_Blue2_10: 8506250873993328867
+      Wizard_Blue2_11: 3110808162985616605
+      Wizard_Blue2_12: 6989231669544668491
+      Wizard_Blue2_13: -5604327833694539014
+      Wizard_Blue2_14: 8758024917292294020
+      Wizard_Blue2_15: -5448586244538574642
+      Wizard_Blue2_16: 7586084042341791236
+      Wizard_Blue2_17: 2604495701997867598
+      Wizard_Blue2_18: -1120025885106637472
+      Wizard_Blue2_19: 8756094454908882334
+      Wizard_Blue2_2: 8367272898783730889
+      Wizard_Blue2_20: 4266028947490351896
+      Wizard_Blue2_21: 6713472208843413402
+      Wizard_Blue2_22: -867354595608786877
+      Wizard_Blue2_23: 6861011132077625795
+      Wizard_Blue2_24: 1901851636387781656
+      Wizard_Blue2_25: 9052744651824013743
+      Wizard_Blue2_26: 3147985979526945345
+      Wizard_Blue2_27: -727108603365680673
+      Wizard_Blue2_28: 7153557078185963270
+      Wizard_Blue2_29: -2154542712738168697
+      Wizard_Blue2_3: -8177900046380427058
+      Wizard_Blue2_30: -7553994336522681180
+      Wizard_Blue2_31: 6212970800909282377
+      Wizard_Blue2_32: -4740402878968060229
+      Wizard_Blue2_33: -2763578221517266273
+      Wizard_Blue2_34: 6660212284984220922
+      Wizard_Blue2_35: -6366691784637363596
+      Wizard_Blue2_36: -5525830502447324199
+      Wizard_Blue2_37: 2487167136963479574
+      Wizard_Blue2_38: 5253065440518864304
+      Wizard_Blue2_39: 2844193088687123962
+      Wizard_Blue2_4: 5513959486959155985
+      Wizard_Blue2_40: 3620889570645305134
+      Wizard_Blue2_41: 5381524694322630807
+      Wizard_Blue2_42: -4027914619105402840
+      Wizard_Blue2_43: -4663546307444392894
+      Wizard_Blue2_44: 2007885006806818801
+      Wizard_Blue2_45: -6452521244539362739
+      Wizard_Blue2_46: 4561630730694548453
+      Wizard_Blue2_47: -9184719794385721045
+      Wizard_Blue2_5: 6759982659180576172
+      Wizard_Blue2_6: 1354841554345348646
+      Wizard_Blue2_7: -3378605861020343151
+      Wizard_Blue2_8: 4122747469055512240
+      Wizard_Blue2_9: 4330500826826586729
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

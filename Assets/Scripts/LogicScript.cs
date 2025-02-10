@@ -21,9 +21,9 @@ public class LogicScript : MonoBehaviour
         
     }
 
-    public void addScore()
+    public void addScore(int scoreToAdd)
     {
-        score ++;
+        score += scoreToAdd;
         scoreText.text = "Score: " + score.ToString();
     }
 }

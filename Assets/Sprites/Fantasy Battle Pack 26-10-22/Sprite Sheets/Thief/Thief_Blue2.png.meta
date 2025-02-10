@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 388c6998e8aced1409b042b6b7380757
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8334085675224530393
+    second: Thief_Blue2_0
+  - first:
+      213: 6221289175362825988
+    second: Thief_Blue2_1
+  - first:
+      213: -4957634245583741946
+    second: Thief_Blue2_2
+  - first:
+      213: 5882810644101961988
+    second: Thief_Blue2_3
+  - first:
+      213: 2490067403465601928
+    second: Thief_Blue2_4
+  - first:
+      213: 378303167949371272
+    second: Thief_Blue2_5
+  - first:
+      213: -6215301099588599295
+    second: Thief_Blue2_6
+  - first:
+      213: -2791435193859539564
+    second: Thief_Blue2_7
+  - first:
+      213: -3338228167711441074
+    second: Thief_Blue2_8
+  - first:
+      213: 4480855804623693312
+    second: Thief_Blue2_9
+  - first:
+      213: 2971438030546859145
+    second: Thief_Blue2_10
+  - first:
+      213: 243654996567426997
+    second: Thief_Blue2_11
+  - first:
+      213: -1262768750005217263
+    second: Thief_Blue2_12
+  - first:
+      213: 2019646593084100489
+    second: Thief_Blue2_13
+  - first:
+      213: -3170182342757610666
+    second: Thief_Blue2_14
+  - first:
+      213: 5967063768420775282
+    second: Thief_Blue2_15
+  - first:
+      213: 7128844208790069926
+    second: Thief_Blue2_16
+  - first:
+      213: 5149101209096110364
+    second: Thief_Blue2_17
+  - first:
+      213: -7828718746433825818
+    second: Thief_Blue2_18
+  - first:
+      213: 5013807111822466401
+    second: Thief_Blue2_19
+  - first:
+      213: 7836314221515817962
+    second: Thief_Blue2_20
+  - first:
+      213: -3521086363058166471
+    second: Thief_Blue2_21
+  - first:
+      213: 7579031352630310879
+    second: Thief_Blue2_22
+  - first:
+      213: 8761917655467922822
+    second: Thief_Blue2_23
+  - first:
+      213: -1966674891706298216
+    second: Thief_Blue2_24
+  - first:
+      213: -156995992570185241
+    second: Thief_Blue2_25
+  - first:
+      213: -3937460557411938497
+    second: Thief_Blue2_26
+  - first:
+      213: -1885145352336284041
+    second: Thief_Blue2_27
+  - first:
+      213: 1689909434510120924
+    second: Thief_Blue2_28
+  - first:
+      213: 3766191153825038342
+    second: Thief_Blue2_29
+  - first:
+      213: 6191925435090288300
+    second: Thief_Blue2_30
+  - first:
+      213: -2318449953778469810
+    second: Thief_Blue2_31
+  - first:
+      213: 872268926535843084
+    second: Thief_Blue2_32
+  - first:
+      213: -4642116678607738813
+    second: Thief_Blue2_33
+  - first:
+      213: 3185298568654684121
+    second: Thief_Blue2_34
+  - first:
+      213: 6390547745031857522
+    second: Thief_Blue2_35
+  - first:
+      213: 1894535735063473745
+    second: Thief_Blue2_36
+  - first:
+      213: 6187333282769391334
+    second: Thief_Blue2_37
+  - first:
+      213: 2558175475931042478
+    second: Thief_Blue2_38
+  - first:
+      213: 4601524538488834032
+    second: Thief_Blue2_39
+  - first:
+      213: -3215881788145205158
+    second: Thief_Blue2_40
+  - first:
+      213: 3930804973629553453
+    second: Thief_Blue2_41
+  - first:
+      213: 3317983007332797770
+    second: Thief_Blue2_42
+  - first:
+      213: -2159768612220804102
+    second: Thief_Blue2_43
+  - first:
+      213: -4535865379544725590
+    second: Thief_Blue2_44
+  - first:
+      213: 4944442182739089106
+    second: Thief_Blue2_45
+  - first:
+      213: 7224549324605141826
+    second: Thief_Blue2_46
+  - first:
+      213: 457745601012054655
+    second: Thief_Blue2_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thief_Blue2_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 423
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7220298fb31675c80800000000000000
+      internalID: -8334085675224530393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 423
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40feb7e0b85765650800000000000000
+      internalID: 6221289175362825988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 423
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c5ba99be1f23bb0800000000000000
+      internalID: -4957634245583741946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 423
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4099592cc11f3a150800000000000000
+      internalID: 5882810644101961988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883b85a4c1f7e8220800000000000000
+      internalID: 2490067403465601928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 391
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887f6071ab0004500800000000000000
+      internalID: 378303167949371272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 391
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1024dea7490deb9a0800000000000000
+      internalID: -6215301099588599295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 391
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d7a781b74d249d0800000000000000
+      internalID: -2791435193859539564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 359
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f3b5c0b2b3ca1d0800000000000000
+      internalID: -3338228167711441074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 359
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006a75c1d923f2e30800000000000000
+      internalID: 4480855804623693312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 359
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984f4da352bac3920800000000000000
+      internalID: 2971438030546859145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 359
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7862eade2a16300800000000000000
+      internalID: 243654996567426997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 327
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1189976238eb97ee0800000000000000
+      internalID: -1262768750005217263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 325
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f0b9830e9370c10800000000000000
+      internalID: 2019646593084100489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 325
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b87b2a4ff3104d0800000000000000
+      internalID: -3170182342757610666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 325
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275f2dce1e44fc250800000000000000
+      internalID: 5967063768420775282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 263
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a26804a90ebee260800000000000000
+      internalID: 7128844208790069926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 263
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1145b0c448457740800000000000000
+      internalID: 5149101209096110364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 263
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3de5847cdca5390800000000000000
+      internalID: -7828718746433825818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 263
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d5180010f949540800000000000000
+      internalID: 5013807111822466401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3cac1144e20cc60800000000000000
+      internalID: 7836314221515817962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935227abb96922fc0800000000000000
+      internalID: -3521086363058166471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f31b1cd02e2960800000000000000
+      internalID: 7579031352630310879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 231
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685936d5fa5989970800000000000000
+      internalID: 8761917655467922822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 199
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8909a2b1b97f4b4e0800000000000000
+      internalID: -1966674891706298216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 194
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9b1bff9fc32ddf0800000000000000
+      internalID: -156995992570185241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f895e0c745b59c0800000000000000
+      internalID: -3937460557411938497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 199
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776640c3a4e96d5e0800000000000000
+      internalID: -1885145352336284041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd79e8a5da3c37710800000000000000
+      internalID: 1689909434510120924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 163
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600c5f776e2344430800000000000000
+      internalID: 3766191153825038342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 163
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae334280632ee550800000000000000
+      internalID: 6191925435090288300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 163
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44738bfc0633dfd0800000000000000
+      internalID: -2318449953778469810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0db7ca97fbea1c00800000000000000
+      internalID: 872268926535843084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3486badc973e39fb0800000000000000
+      internalID: -4642116678607738813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dff838fb24743c20800000000000000
+      internalID: 3185298568654684121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2752cc6c059cfa850800000000000000
+      internalID: 6390547745031857522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15eedbe963eba4a10800000000000000
+      internalID: 1894535735063473745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eecb6ab6d2ddd550800000000000000
+      internalID: 6187333282769391334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea25cf3aa07708320800000000000000
+      internalID: 2558175475931042478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7ced51036ebdf30800000000000000
+      internalID: 4601524538488834032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5005f95d84ee53d0800000000000000
+      internalID: -3215881788145205158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b37861c460d8630800000000000000
+      internalID: 3930804973629553453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_42
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d8ada37f7db0e20800000000000000
+      internalID: 3317983007332797770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 39
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af36a8fd3e5f602e0800000000000000
+      internalID: -2159768612220804102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa78e37287e5d01c0800000000000000
+      internalID: -4535865379544725590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6de9ae7ff2e9440800000000000000
+      internalID: 4944442182739089106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243b06b5551c24460800000000000000
+      internalID: 7224549324605141826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief_Blue2_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a32d9e23d3a5600800000000000000
+      internalID: 457745601012054655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Thief_Blue2_0: -8334085675224530393
+      Thief_Blue2_1: 6221289175362825988
+      Thief_Blue2_10: 2971438030546859145
+      Thief_Blue2_11: 243654996567426997
+      Thief_Blue2_12: -1262768750005217263
+      Thief_Blue2_13: 2019646593084100489
+      Thief_Blue2_14: -3170182342757610666
+      Thief_Blue2_15: 5967063768420775282
+      Thief_Blue2_16: 7128844208790069926
+      Thief_Blue2_17: 5149101209096110364
+      Thief_Blue2_18: -7828718746433825818
+      Thief_Blue2_19: 5013807111822466401
+      Thief_Blue2_2: -4957634245583741946
+      Thief_Blue2_20: 7836314221515817962
+      Thief_Blue2_21: -3521086363058166471
+      Thief_Blue2_22: 7579031352630310879
+      Thief_Blue2_23: 8761917655467922822
+      Thief_Blue2_24: -1966674891706298216
+      Thief_Blue2_25: -156995992570185241
+      Thief_Blue2_26: -3937460557411938497
+      Thief_Blue2_27: -1885145352336284041
+      Thief_Blue2_28: 1689909434510120924
+      Thief_Blue2_29: 3766191153825038342
+      Thief_Blue2_3: 5882810644101961988
+      Thief_Blue2_30: 6191925435090288300
+      Thief_Blue2_31: -2318449953778469810
+      Thief_Blue2_32: 872268926535843084
+      Thief_Blue2_33: -4642116678607738813
+      Thief_Blue2_34: 3185298568654684121
+      Thief_Blue2_35: 6390547745031857522
+      Thief_Blue2_36: 1894535735063473745
+      Thief_Blue2_37: 6187333282769391334
+      Thief_Blue2_38: 2558175475931042478
+      Thief_Blue2_39: 4601524538488834032
+      Thief_Blue2_4: 2490067403465601928
+      Thief_Blue2_40: -3215881788145205158
+      Thief_Blue2_41: 3930804973629553453
+      Thief_Blue2_42: 3317983007332797770
+      Thief_Blue2_43: -2159768612220804102
+      Thief_Blue2_44: -4535865379544725590
+      Thief_Blue2_45: 4944442182739089106
+      Thief_Blue2_46: 7224549324605141826
+      Thief_Blue2_47: 457745601012054655
+      Thief_Blue2_5: 378303167949371272
+      Thief_Blue2_6: -6215301099588599295
+      Thief_Blue2_7: -2791435193859539564
+      Thief_Blue2_8: -3338228167711441074
+      Thief_Blue2_9: 4480855804623693312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
