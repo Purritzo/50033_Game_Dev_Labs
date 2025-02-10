@@ -1309,7 +1309,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wizard_ReferencePalette_0: 848268010484777962
+      Wizard_ReferencePalette_1: -8552337587086448565
+      Wizard_ReferencePalette_10: 2552342754849378933
+      Wizard_ReferencePalette_11: -5725488134829046642
+      Wizard_ReferencePalette_12: 9204949045405214317
+      Wizard_ReferencePalette_13: -8298586368717990278
+      Wizard_ReferencePalette_14: -8720858552316700685
+      Wizard_ReferencePalette_15: 8606707172609035097
+      Wizard_ReferencePalette_16: 4501072878950426173
+      Wizard_ReferencePalette_17: 4421623829643455809
+      Wizard_ReferencePalette_18: 2350154623553763134
+      Wizard_ReferencePalette_19: -4758146167007643611
+      Wizard_ReferencePalette_2: -5802736211915712320
+      Wizard_ReferencePalette_20: 7665935243542931499
+      Wizard_ReferencePalette_21: -4483788788602421737
+      Wizard_ReferencePalette_22: 1054939313475773937
+      Wizard_ReferencePalette_23: -2075113246365013785
+      Wizard_ReferencePalette_24: -7561630446568650779
+      Wizard_ReferencePalette_25: -1910933384890176357
+      Wizard_ReferencePalette_26: -2632037466792287499
+      Wizard_ReferencePalette_27: 5170292727420859360
+      Wizard_ReferencePalette_28: -5995049502060892539
+      Wizard_ReferencePalette_29: 4810878265718085138
+      Wizard_ReferencePalette_3: -2148158950515149711
+      Wizard_ReferencePalette_30: 2668995653514121889
+      Wizard_ReferencePalette_31: 2782012266478240107
+      Wizard_ReferencePalette_32: 3389007439501050681
+      Wizard_ReferencePalette_33: -8753785436006295823
+      Wizard_ReferencePalette_34: -6768023935484006086
+      Wizard_ReferencePalette_35: 5921694119969367065
+      Wizard_ReferencePalette_36: 8599515740784701242
+      Wizard_ReferencePalette_37: 2267882362965309877
+      Wizard_ReferencePalette_38: 8894990459148248218
+      Wizard_ReferencePalette_39: 2323293540182990084
+      Wizard_ReferencePalette_4: -4088599795505825129
+      Wizard_ReferencePalette_40: 5495060181524711454
+      Wizard_ReferencePalette_41: 2265563927347702463
+      Wizard_ReferencePalette_42: -4170717824380777864
+      Wizard_ReferencePalette_43: -4532775009734119893
+      Wizard_ReferencePalette_44: 2604154050333862034
+      Wizard_ReferencePalette_45: -5780378866104035030
+      Wizard_ReferencePalette_46: -3470100711185691527
+      Wizard_ReferencePalette_47: -3956200494817976315
+      Wizard_ReferencePalette_5: 6103155572404101713
+      Wizard_ReferencePalette_6: 780179751336195199
+      Wizard_ReferencePalette_7: -7962071128442384109
+      Wizard_ReferencePalette_8: 59870945797026495
+      Wizard_ReferencePalette_9: -8057169263243588586
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

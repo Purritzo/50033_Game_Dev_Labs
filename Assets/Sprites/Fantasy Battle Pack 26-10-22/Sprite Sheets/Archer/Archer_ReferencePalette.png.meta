@@ -1309,7 +1309,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Archer_ReferencePalette_0: -5025573014414704037
+      Archer_ReferencePalette_1: -2858463875540749441
+      Archer_ReferencePalette_10: -2514798702115688476
+      Archer_ReferencePalette_11: -7137358238495651694
+      Archer_ReferencePalette_12: -8096054329271392286
+      Archer_ReferencePalette_13: -7736404640875687955
+      Archer_ReferencePalette_14: -7584216412531357834
+      Archer_ReferencePalette_15: 6546400013618825473
+      Archer_ReferencePalette_16: 4441045383747322011
+      Archer_ReferencePalette_17: 8404659831429796526
+      Archer_ReferencePalette_18: -4319196462182268046
+      Archer_ReferencePalette_19: -5558563867202000577
+      Archer_ReferencePalette_2: -63945236949324438
+      Archer_ReferencePalette_20: 3137274610505624013
+      Archer_ReferencePalette_21: -7277487532908623750
+      Archer_ReferencePalette_22: 8982197868543548234
+      Archer_ReferencePalette_23: 7209390443091081823
+      Archer_ReferencePalette_24: -3803751637262790855
+      Archer_ReferencePalette_25: 6301693897760371507
+      Archer_ReferencePalette_26: 4316592834506772492
+      Archer_ReferencePalette_27: -2796602495982899937
+      Archer_ReferencePalette_28: -6643027408730592287
+      Archer_ReferencePalette_29: 213818830288879554
+      Archer_ReferencePalette_3: 3918503072242310414
+      Archer_ReferencePalette_30: -5308608823667274346
+      Archer_ReferencePalette_31: -1174754228927843915
+      Archer_ReferencePalette_32: -1782916025056856764
+      Archer_ReferencePalette_33: 3621160437386482960
+      Archer_ReferencePalette_34: 1219450005653423551
+      Archer_ReferencePalette_35: 8418470912644037673
+      Archer_ReferencePalette_36: 103303234308340344
+      Archer_ReferencePalette_37: -7262339989663374076
+      Archer_ReferencePalette_38: -5677162246502344323
+      Archer_ReferencePalette_39: 7549109903844535604
+      Archer_ReferencePalette_4: 2520520635374746099
+      Archer_ReferencePalette_40: -1826596712354504663
+      Archer_ReferencePalette_41: -2124042710583027817
+      Archer_ReferencePalette_42: -1596524553752080330
+      Archer_ReferencePalette_43: 6728723312388534318
+      Archer_ReferencePalette_44: 1302858974143383597
+      Archer_ReferencePalette_45: -4980788038450013461
+      Archer_ReferencePalette_46: 6137309024431513637
+      Archer_ReferencePalette_47: -6945593737532627056
+      Archer_ReferencePalette_5: 5219515890359338431
+      Archer_ReferencePalette_6: -8298348684016342135
+      Archer_ReferencePalette_7: -774238725860409766
+      Archer_ReferencePalette_8: -1647744926526552850
+      Archer_ReferencePalette_9: -4192227074096947539
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

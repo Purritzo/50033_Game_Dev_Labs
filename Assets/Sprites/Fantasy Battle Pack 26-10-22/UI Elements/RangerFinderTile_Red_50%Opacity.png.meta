@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RangerFinderTile_Red_50%Opacity_0: 6231236208042432190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

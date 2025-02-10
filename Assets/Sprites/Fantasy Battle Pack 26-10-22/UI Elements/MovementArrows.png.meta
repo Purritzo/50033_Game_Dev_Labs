@@ -1384,7 +1384,58 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MovementArrows_0: 1748894570042294783
+      MovementArrows_1: 2398357843283791136
+      MovementArrows_10: -3955732928270551093
+      MovementArrows_11: 5326943550920587691
+      MovementArrows_12: 3324445985582094042
+      MovementArrows_13: 6912855794960012905
+      MovementArrows_14: 8681686810299640444
+      MovementArrows_15: 6880744204728689708
+      MovementArrows_16: -1761909528071745319
+      MovementArrows_17: -2232190269597853617
+      MovementArrows_18: -6251245506052735837
+      MovementArrows_19: 6627110345829171386
+      MovementArrows_2: -8192076197328216855
+      MovementArrows_20: -2180035436817855605
+      MovementArrows_21: 5997277581823439742
+      MovementArrows_22: -1766196463958321914
+      MovementArrows_23: 4096419903591441769
+      MovementArrows_24: -2116116376535567576
+      MovementArrows_25: -5754587679344611552
+      MovementArrows_26: 3363679186481276362
+      MovementArrows_27: 2030219356339701551
+      MovementArrows_28: 4819665445553504032
+      MovementArrows_29: 7895243432709836610
+      MovementArrows_3: -1499394218425253098
+      MovementArrows_30: -4415457060743961407
+      MovementArrows_31: 3091452147720641467
+      MovementArrows_32: -2625364318284331062
+      MovementArrows_33: -3216062194055890171
+      MovementArrows_34: 5950509393120922232
+      MovementArrows_35: 4678573324453409447
+      MovementArrows_36: 9144164302640547977
+      MovementArrows_37: 5187325283493700216
+      MovementArrows_38: 8113207230364047842
+      MovementArrows_39: -1097880740831460181
+      MovementArrows_4: 7980984834978357947
+      MovementArrows_40: -3353773261443107278
+      MovementArrows_41: 959836505649982713
+      MovementArrows_42: 1212213559946644480
+      MovementArrows_43: 7614516463592718674
+      MovementArrows_44: 4389980390987118462
+      MovementArrows_45: 826285390662142129
+      MovementArrows_46: -548813104372861297
+      MovementArrows_47: 4128958695247783152
+      MovementArrows_48: 2407277134486784555
+      MovementArrows_49: 1360780180385196058
+      MovementArrows_5: -300976742226724191
+      MovementArrows_50: 1281434431286442299
+      MovementArrows_6: 6160207641372192453
+      MovementArrows_7: -6008794770539469053
+      MovementArrows_8: -5728203914009786174
+      MovementArrows_9: 5397386562465178773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

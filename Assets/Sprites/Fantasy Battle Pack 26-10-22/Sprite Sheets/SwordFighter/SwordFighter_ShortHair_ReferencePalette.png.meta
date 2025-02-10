@@ -1309,7 +1309,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SwordFighter_ShortHair_ReferencePalette_0: -8537397162505361961
+      SwordFighter_ShortHair_ReferencePalette_1: -4887141982452145429
+      SwordFighter_ShortHair_ReferencePalette_10: 8377146940326276780
+      SwordFighter_ShortHair_ReferencePalette_11: 2824376097854787619
+      SwordFighter_ShortHair_ReferencePalette_12: -7752073193007344243
+      SwordFighter_ShortHair_ReferencePalette_13: 4391010209040005416
+      SwordFighter_ShortHair_ReferencePalette_14: 8735998355822844785
+      SwordFighter_ShortHair_ReferencePalette_15: -3023922026619666270
+      SwordFighter_ShortHair_ReferencePalette_16: -8748114146552632841
+      SwordFighter_ShortHair_ReferencePalette_17: 4425591661870459893
+      SwordFighter_ShortHair_ReferencePalette_18: 5354763209341206232
+      SwordFighter_ShortHair_ReferencePalette_19: -2080234192758501580
+      SwordFighter_ShortHair_ReferencePalette_2: -5155547422262097775
+      SwordFighter_ShortHair_ReferencePalette_20: 2044554722357387184
+      SwordFighter_ShortHair_ReferencePalette_21: -2987502929101648644
+      SwordFighter_ShortHair_ReferencePalette_22: 5990018184365927356
+      SwordFighter_ShortHair_ReferencePalette_23: -7900107470132537191
+      SwordFighter_ShortHair_ReferencePalette_24: 5011471611255995546
+      SwordFighter_ShortHair_ReferencePalette_25: -3479732525889038551
+      SwordFighter_ShortHair_ReferencePalette_26: 7633207646371417749
+      SwordFighter_ShortHair_ReferencePalette_27: -7207816731044341165
+      SwordFighter_ShortHair_ReferencePalette_28: -8554212915003787039
+      SwordFighter_ShortHair_ReferencePalette_29: 8712398976234047025
+      SwordFighter_ShortHair_ReferencePalette_3: -931549674048426926
+      SwordFighter_ShortHair_ReferencePalette_30: 4671334469236644528
+      SwordFighter_ShortHair_ReferencePalette_31: 7595596731088896646
+      SwordFighter_ShortHair_ReferencePalette_32: -7937347810016463780
+      SwordFighter_ShortHair_ReferencePalette_33: 4418363644772034866
+      SwordFighter_ShortHair_ReferencePalette_34: 4097598941589722297
+      SwordFighter_ShortHair_ReferencePalette_35: -634037531158019736
+      SwordFighter_ShortHair_ReferencePalette_36: 5056999616550623589
+      SwordFighter_ShortHair_ReferencePalette_37: 5568976332657606594
+      SwordFighter_ShortHair_ReferencePalette_38: -1372785025229188624
+      SwordFighter_ShortHair_ReferencePalette_39: -7056362818613351809
+      SwordFighter_ShortHair_ReferencePalette_4: 1865769958395973057
+      SwordFighter_ShortHair_ReferencePalette_40: 9204043768437485137
+      SwordFighter_ShortHair_ReferencePalette_41: 8858958446919707208
+      SwordFighter_ShortHair_ReferencePalette_42: -3184096553316343079
+      SwordFighter_ShortHair_ReferencePalette_43: 1903377264680773402
+      SwordFighter_ShortHair_ReferencePalette_44: 3476445255125424976
+      SwordFighter_ShortHair_ReferencePalette_45: 2685991124561571501
+      SwordFighter_ShortHair_ReferencePalette_46: -8535965317972413420
+      SwordFighter_ShortHair_ReferencePalette_47: -2818982199839521602
+      SwordFighter_ShortHair_ReferencePalette_5: 3917581572030360531
+      SwordFighter_ShortHair_ReferencePalette_6: 5004828156735383270
+      SwordFighter_ShortHair_ReferencePalette_7: -6825688424726321875
+      SwordFighter_ShortHair_ReferencePalette_8: -6668872214470122966
+      SwordFighter_ShortHair_ReferencePalette_9: 6061148250013428103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

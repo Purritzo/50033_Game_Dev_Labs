@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WaterTiles_AnimationFrames_0: 8785867974653962000
+      WaterTiles_AnimationFrames_1: -5634717748612802697
+      WaterTiles_AnimationFrames_2: -1858906959668552638
+      WaterTiles_AnimationFrames_3: -7079477729561261368
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

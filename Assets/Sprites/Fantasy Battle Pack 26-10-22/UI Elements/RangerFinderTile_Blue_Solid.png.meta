@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RangerFinderTile_Blue_Solid_0: -1638516220398763986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

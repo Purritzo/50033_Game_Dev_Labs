@@ -1309,7 +1309,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SwordFighter_LongHair_ReferencePalette_0: -9185862562518694313
+      SwordFighter_LongHair_ReferencePalette_1: -310127552650433891
+      SwordFighter_LongHair_ReferencePalette_10: 400992499349908323
+      SwordFighter_LongHair_ReferencePalette_11: -7266679714747980955
+      SwordFighter_LongHair_ReferencePalette_12: -8498430175181080777
+      SwordFighter_LongHair_ReferencePalette_13: 5917007675363261623
+      SwordFighter_LongHair_ReferencePalette_14: -4952814078141727219
+      SwordFighter_LongHair_ReferencePalette_15: -7970214939573315689
+      SwordFighter_LongHair_ReferencePalette_16: 8910718991787348762
+      SwordFighter_LongHair_ReferencePalette_17: 4800463211579045586
+      SwordFighter_LongHair_ReferencePalette_18: 8718074531706432668
+      SwordFighter_LongHair_ReferencePalette_19: 8267910013711839971
+      SwordFighter_LongHair_ReferencePalette_2: 6404599960900646881
+      SwordFighter_LongHair_ReferencePalette_20: 2293549637866109064
+      SwordFighter_LongHair_ReferencePalette_21: 2413084962335982661
+      SwordFighter_LongHair_ReferencePalette_22: 8212496212554485384
+      SwordFighter_LongHair_ReferencePalette_23: 202555307879970892
+      SwordFighter_LongHair_ReferencePalette_24: 7089890801741658290
+      SwordFighter_LongHair_ReferencePalette_25: 2779147016659588141
+      SwordFighter_LongHair_ReferencePalette_26: -6712560982201680590
+      SwordFighter_LongHair_ReferencePalette_27: -5021754346824697741
+      SwordFighter_LongHair_ReferencePalette_28: 39059489520809224
+      SwordFighter_LongHair_ReferencePalette_29: -1773330424827877425
+      SwordFighter_LongHair_ReferencePalette_3: 1826522358795206203
+      SwordFighter_LongHair_ReferencePalette_30: 1148891066326645272
+      SwordFighter_LongHair_ReferencePalette_31: 1246953325904032168
+      SwordFighter_LongHair_ReferencePalette_32: 6028749211900323754
+      SwordFighter_LongHair_ReferencePalette_33: -2325881257025089011
+      SwordFighter_LongHair_ReferencePalette_34: 6610568909913683336
+      SwordFighter_LongHair_ReferencePalette_35: -8834746691481263497
+      SwordFighter_LongHair_ReferencePalette_36: 1946278696336353718
+      SwordFighter_LongHair_ReferencePalette_37: 6772027330224415973
+      SwordFighter_LongHair_ReferencePalette_38: -7082811022259689233
+      SwordFighter_LongHair_ReferencePalette_39: -5602617005616416583
+      SwordFighter_LongHair_ReferencePalette_4: -3921516403029865713
+      SwordFighter_LongHair_ReferencePalette_40: 1555120584118376913
+      SwordFighter_LongHair_ReferencePalette_41: 2982105121589649144
+      SwordFighter_LongHair_ReferencePalette_42: -4519348395986708342
+      SwordFighter_LongHair_ReferencePalette_43: -7148022807065713178
+      SwordFighter_LongHair_ReferencePalette_44: -3159675462957722529
+      SwordFighter_LongHair_ReferencePalette_45: -4919066438654869823
+      SwordFighter_LongHair_ReferencePalette_46: 4293272580152967875
+      SwordFighter_LongHair_ReferencePalette_47: -486604745320525337
+      SwordFighter_LongHair_ReferencePalette_5: -795631523448298235
+      SwordFighter_LongHair_ReferencePalette_6: -4078996303059387860
+      SwordFighter_LongHair_ReferencePalette_7: 5009986174790081132
+      SwordFighter_LongHair_ReferencePalette_8: -5481258073971635093
+      SwordFighter_LongHair_ReferencePalette_9: 5847573379764282928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
