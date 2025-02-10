@@ -36,16 +36,19 @@ public class Entity : MonoBehaviour
 
     public void ReceiveHeal(int IncomingHealValue)
     {
-        int maximumCanHeal = maxHealth - health;
-        if (IncomingHealValue > maximumCanHeal)
+        if (health > 0)
         {
-            IncomingHealValue = maximumCanHeal;
+            int maximumCanHeal = maxHealth - health;
+            if (IncomingHealValue > maximumCanHeal)
+            {
+                IncomingHealValue = maximumCanHeal;
+            }
+            health += IncomingHealValue;
+            //GameObject.FindWithTag("Manager").GetComponent<GameManager>().addScore(IncomingHealValue);
+            Debug.Log(gameObject.name + " healed for " + IncomingHealValue);
+            hpBar.SetHealth(health);
+            ShowFloatingText("+" + IncomingHealValue, Color.green);
         }
-        health += IncomingHealValue;
-        //GameObject.FindWithTag("Manager").GetComponent<GameManager>().addScore(IncomingHealValue);
-        Debug.Log(gameObject.name + " healed for " + IncomingHealValue);
-        hpBar.SetHealth(health);
-        ShowFloatingText("+" + IncomingHealValue, Color.green);
     }
 
     void ShowFloatingText(string text, Color color)

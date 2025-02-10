@@ -55,7 +55,7 @@ public class Healer : Entity
         }
         if (Input.GetKeyDown("f"))
         {
-            if (targetedAlly != null)
+            if (targetedAlly != null && targetedAlly.health > 0)
             {
                 if (castingCoroutine != null) // Stop previous cast if any
                 {
