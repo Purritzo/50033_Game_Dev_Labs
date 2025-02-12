@@ -5,7 +5,7 @@ public class Ally : Entity
     public int attackPower = 10;
     public float attackInterval = 0.5f;
     private float timer = 0f;
-    public float moveSpeed = 3f;
+    public float moveSpeed = 5f;
     public Rigidbody2D rb;
     private bool isInMeleeRange = false;
     public Boss targetBoss;
@@ -47,7 +47,12 @@ public class Ally : Entity
         if (!isInMeleeRange)
         {
             Vector3 direction = (targetBoss.transform.position - transform.position).normalized;
-            rb.linearVelocity = new Vector2(direction.x, direction.y) * moveSpeed;
+            //rb.linearVelocity = new Vector2(direction.x, direction.y) * moveSpeed;
+            // Apply force only if speed is below a threshold
+            if (rb.linearVelocity.magnitude < moveSpeed)
+            {
+                rb.AddForce(new Vector2(direction.x, direction.y) * moveSpeed, ForceMode2D.Force);
+            }
         }
     }
 

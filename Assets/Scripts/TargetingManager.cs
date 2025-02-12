@@ -17,7 +17,7 @@ public class TargetingManager : MonoBehaviour
     void Update()
     {
         targetIndicator.transform.Rotate(0,0,1);
-        if (moving == false){
+        if (moving == false && currentTargetedEntity != null){
             targetIndicator.transform.position = currentTargetedEntity.transform.position;
         }
     }
