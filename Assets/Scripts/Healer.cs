@@ -33,7 +33,7 @@ public class Healer : Entity
     void Update()
     {
         HandleTargeting();
-        HandleHealCast();
+        HandleHealOrAttackCast();
 
         // Interrupt cast on move
         if (playerBody.linearVelocity.magnitude > 0.1f)
@@ -47,7 +47,7 @@ public class Healer : Entity
         }
     }
 
-    void HandleHealCast(){
+    void HandleHealOrAttackCast(){
         if (Input.GetKeyDown("f"))
         {
             if (targetedAlly != null && targetedAlly.health > 0)
