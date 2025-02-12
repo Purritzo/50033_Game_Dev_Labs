@@ -9,7 +9,7 @@ public class Boss : Entity
     public Animator bossAnimator;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    public void Start()
+    new public void Start()
     {
         base.Start();
         maxHealth = 600;
