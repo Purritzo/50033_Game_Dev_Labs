@@ -8,6 +8,8 @@ public class HealFountain : MonoBehaviour
     private SpriteRenderer spriteRenderer; 
     public Animator flashAnimator;
 
+    public AudioSource audioSource;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -28,6 +30,7 @@ public class HealFountain : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             available = false;
+            playActivateSound();
             // JANK WAY FOR NOW
             FindFirstObjectByType<Healer>().health = FindFirstObjectByType<Healer>().maxHealth;
             Ally[] allies = FindObjectsByType<Ally>(FindObjectsSortMode.None);
@@ -37,5 +40,9 @@ public class HealFountain : MonoBehaviour
             }
             flashAnimator.SetTrigger("FlashGreen");
         }
+    }
+
+    void playActivateSound(){
+        audioSource.PlayOneShot(audioSource.clip);
     }
 }
