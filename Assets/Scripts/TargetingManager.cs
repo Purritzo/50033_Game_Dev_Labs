@@ -4,6 +4,8 @@ using UnityEngine;
 public class TargetingManager : MonoBehaviour
 {
     public GameObject targetIndicator;
+    public Entity currentTargetedEntity;
+    private bool moving = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -15,6 +17,9 @@ public class TargetingManager : MonoBehaviour
     void Update()
     {
         targetIndicator.transform.Rotate(0,0,1);
+        if (moving == false){
+            targetIndicator.transform.position = currentTargetedEntity.transform.position;
+        }
     }
 
     IEnumerator SmoothMoveIndicator(Transform allyTransform)
@@ -32,6 +37,7 @@ public class TargetingManager : MonoBehaviour
         }
 
         targetIndicator.transform.position = end;
+        moving = false;
         //targetIndicator.transform.SetParent(allyTransform, true);
         //targetIndicator.transform.localPosition = Vector3.zero;
     }
@@ -41,6 +47,8 @@ public class TargetingManager : MonoBehaviour
         if (targetIndicator != null && entity != null)
         {
             StartCoroutine(SmoothMoveIndicator(entity.transform));
+            currentTargetedEntity = entity;
+            moving = true;
         }
     }
 }
