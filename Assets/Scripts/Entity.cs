@@ -10,9 +10,10 @@ public class Entity : MonoBehaviour
     public GameObject floatingTextPrefab;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    protected void Start()
     {
-        
+        Rigidbody2D rb = GetComponent<Rigidbody2D>();
+        rb.freezeRotation = true;
     }
 
     // Update is called once per frame

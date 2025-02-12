@@ -22,6 +22,7 @@ public class Healer : Entity
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        base.Start();
         maxHealth = 50;
         health = maxHealth;
         castBar = gameObject.transform.Find("CastBarCanvas/CastBar").GetComponent<CastBar>();

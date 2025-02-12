@@ -16,6 +16,7 @@ public class Ally : Entity
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public void Start()
     {
+        base.Start();
         maxHealth = 100;
         health = maxHealth;
         hpBar.setMaxHealth(maxHealth);
