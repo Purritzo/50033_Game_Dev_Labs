@@ -5,8 +5,8 @@ public class Healer : Entity
 {
 
     private float pullStrength = 0f;
-    private float maxPullStrength = 20f;
-    private float pullIncreaseRate = 40f;
+    private float maxPullStrength = 10f;
+    private float pullIncreaseRate = 20f;
     public int healAmount = 20;
     public int attackPower = 20;
     public Ally targetedAlly;
