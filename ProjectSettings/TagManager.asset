@@ -8,6 +8,7 @@ TagManager:
   - Obstacle
   - Logic
   - Manager
+  - Boss
   layers:
   - Default
   - TransparentFX

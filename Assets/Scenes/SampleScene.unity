@@ -3783,7 +3783,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2865505275334194477, guid: 2a8625c2f0805b94296f7e65f1d57c13, type: 3}
       propertyPath: m_PresetInfoIsWorld
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2911927572645876047, guid: 2a8625c2f0805b94296f7e65f1d57c13, type: 3}
       propertyPath: m_SizeDelta.x
@@ -5414,6 +5414,7 @@ GameObject:
   - component: {fileID: 1491186361}
   - component: {fileID: 1491186362}
   - component: {fileID: 1491186363}
+  - component: {fileID: 1491186364}
   m_Layer: 0
   m_Name: Ally_2
   m_TagString: Untagged
@@ -5471,7 +5472,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -5589,6 +5590,7 @@ MonoBehaviour:
   floatingTextPrefab: {fileID: 9161160529095442666, guid: 57e59410d5bd21345ae4c4166b7e7b5e, type: 3}
   attackPower: 15
   attackInterval: 1
+  moveSpeed: 3
   targetBoss: {fileID: 872012427}
   startPosition: {x: 0, y: 0, z: 0}
   allyAnimator: {fileID: 1491186362}
@@ -5711,6 +5713,42 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!58 &1491186364
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1491186354}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Radius: 1
 --- !u!1001 &1530217579
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6091,6 +6129,7 @@ GameObject:
   - component: {fileID: 1978743690}
   - component: {fileID: 1978743691}
   - component: {fileID: 1978743692}
+  - component: {fileID: 1978743693}
   m_Layer: 0
   m_Name: Ally_1
   m_TagString: Untagged
@@ -6148,7 +6187,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -6266,6 +6305,7 @@ MonoBehaviour:
   floatingTextPrefab: {fileID: 9161160529095442666, guid: 57e59410d5bd21345ae4c4166b7e7b5e, type: 3}
   attackPower: 10
   attackInterval: 0.5
+  moveSpeed: 3
   targetBoss: {fileID: 872012427}
   startPosition: {x: 0, y: 0, z: 0}
   allyAnimator: {fileID: 1978743691}
@@ -6388,6 +6428,42 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!58 &1978743693
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1978743683}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Radius: 1
 --- !u!1 &2012310035
 GameObject:
   m_ObjectHideFlags: 0
@@ -6668,7 +6744,7 @@ GameObject:
   - component: {fileID: 5430065045864148289}
   m_Layer: 0
   m_Name: Boss_1
-  m_TagString: Obstacle
+  m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6717,7 +6793,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 1
-  m_Size: {x: 0.12, y: 0.11}
+  m_Size: {x: 0.14, y: 0.12}
   m_EdgeRadius: 0
 --- !u!1 &2647142952125071895
 GameObject:
