@@ -9,6 +9,7 @@ public class Healer : Entity
     private float pullIncreaseRate = 20f;
     public int healAmount = 20;
     public int attackPower = 20;
+    public int mana = 100;
     public Ally targetedAlly;
     public Ally[] allies;
     public GameObject partyListContainer;
@@ -108,7 +109,8 @@ public class Healer : Entity
     void HandleHealOrAttackCast(){
         if (Input.GetKeyDown("f"))
         {
-            if (targetedAlly != null && targetedAlly.health > 0)
+            // need at least 20 mana to cast heal (for now)
+            if (targetedAlly != null && targetedAlly.health > 0 && mana >= 20)
             {
                 if (castingCoroutine != null) // Stop previous cast if any
                 {
@@ -191,6 +193,7 @@ public class Healer : Entity
             // NOTE: Swapping targets just before the spell resolves heals the new target
             // Can be considered minor bug or a feature (When player level is high enough for mid-cast target swap)
             target.ReceiveHeal(healAmount);
+            mana -= 20;
             //target.health += healAmount;
             //Debug.Log(target.name + " healed for " + healAmount);
         }

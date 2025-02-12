@@ -9,6 +9,7 @@ public class PartyList : MonoBehaviour
 {
 
     public GameObject partyHPBarPreFab;
+    public GameObject ManaBarPreFab;
     private List<Entity> partyMembers = new List<Entity>();
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -37,11 +38,18 @@ public class PartyList : MonoBehaviour
         {
             GameObject partyEntry = Instantiate(partyHPBarPreFab, new Vector3
             (
-                gameObject.transform.position.x - 700, gameObject.transform.position.y + 210 - (number * 90), 0), gameObject.transform.rotation, gameObject.transform
+                gameObject.transform.position.x - 700, gameObject.transform.position.y + 210 - (number * 110), 0), gameObject.transform.rotation, gameObject.transform
             );
             partyEntry.name = number.ToString();
             PartyMember partyMember = partyEntry.GetComponent<PartyMember>();
             partyMember.Initialise(member);
+            if (number == 0)
+            {
+                GameObject manaBar = Instantiate(ManaBarPreFab, new Vector3
+                (
+                    gameObject.transform.position.x - 800, gameObject.transform.position.y + 155, 0), gameObject.transform.rotation, gameObject.transform
+                );
+            }
             number += 1;
         }
     }
