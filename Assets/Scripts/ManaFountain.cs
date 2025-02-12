@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HealFountain : MonoBehaviour
+public class ManaFountain : MonoBehaviour
 {
     public bool available;
     public Sprite pressedSprite;
@@ -29,13 +29,12 @@ public class HealFountain : MonoBehaviour
         {
             available = false;
             // JANK WAY FOR NOW
-            FindFirstObjectByType<Healer>().health = FindFirstObjectByType<Healer>().maxHealth;
-            Ally[] allies = FindObjectsByType<Ally>(FindObjectsSortMode.None);
-            foreach (Ally ally in allies){
-                ally.health = ally.maxHealth;
-                ally.hpBar.SetHealth(ally.maxHealth); // NOTE: I really should not need to manual sync this in future
-            }
-            flashAnimator.SetTrigger("FlashGreen");
+            FindFirstObjectByType<Healer>().mana = FindFirstObjectByType<Healer>().maxMana;
+            // Ally[] allies = FindObjectsByType<Ally>(FindObjectsSortMode.None);
+            // foreach (Ally ally in allies){
+            //     ally.health = ally.maxHealth;
+            // }
+            flashAnimator.SetTrigger("FlashBlue");
         }
     }
 }

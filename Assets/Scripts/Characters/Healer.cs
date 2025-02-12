@@ -9,6 +9,7 @@ public class Healer : Entity
     private float pullIncreaseRate = 20f;
     public int healAmount = 20;
     public int attackPower = 20;
+    public int maxMana = 100;
     public int mana = 100;
     public Ally targetedAlly;
     public Ally[] allies;
