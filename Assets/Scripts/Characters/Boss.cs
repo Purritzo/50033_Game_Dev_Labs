@@ -17,6 +17,7 @@ public class Boss : Entity
     public Animator bossAnimator;
     public bool halfwayHPTriggerReady = true;
     public bool canAttack = true;
+    public AudioSource audioSource;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     new public void Start()
@@ -82,6 +83,8 @@ public class Boss : Entity
     void DealSpecialAttackDamage()
     {
         // using hardcoded distance for now...
+        Camera.main.GetComponent<CameraShake>().StartCoroutine(Camera.main.GetComponent<CameraShake>().Shake(0.5f, 0.2f));
+        audioSource.PlayOneShot(audioSource.clip);
         Physics2D.queriesHitTriggers=true;
         Collider2D[] playersHit = Physics2D.OverlapCircleAll(transform.position, 2.5f, playerLayer);
         foreach (Collider2D player in playersHit)

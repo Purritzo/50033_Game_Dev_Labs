@@ -4528,6 +4528,7 @@ MonoBehaviour:
   telegraphEffectPreFab: {fileID: 4434109368569167193, guid: 38ff4215ba73c2e45b9da1e2d2bcf68a, type: 3}
   bossAnimator: {fileID: 5430065045864148289}
   halfwayHPTriggerReady: 1
+  canAttack: 1
 --- !u!1 &883423880
 GameObject:
   m_ObjectHideFlags: 0
@@ -4889,7 +4890,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDamping: 3
+  m_LinearDamping: 1
   m_AngularDamping: 0.05
   m_GravityScale: 0
   m_Material: {fileID: 0}
@@ -5008,7 +5009,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -6247,7 +6248,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.25, y: 0.25}
   m_EdgeRadius: 0
 --- !u!50 &1491186359
 Rigidbody2D:
@@ -7028,7 +7029,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.25, y: 0.25}
   m_EdgeRadius: 0
 --- !u!50 &1978743688
 Rigidbody2D:
@@ -7728,7 +7729,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3690641023063622617, guid: 38ff4215ba73c2e45b9da1e2d2bcf68a, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
