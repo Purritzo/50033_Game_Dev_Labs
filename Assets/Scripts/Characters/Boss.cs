@@ -3,6 +3,11 @@ using UnityEngine;
 public class Boss : Entity
 {
     public int attackPower = 30;
+    public int specialAttackPower = 60; // Special attack damage, MAKE SURE THIS HURTS TO PUNISH PLAYER BEING LAZY
+    public GameObject telegraphPrefab; // Assign a red warning circle, uhh... see if FFXIV style is possible
+    public float telegraphRadius = 3.0f; // Size of the telegraph
+    public Transform attackPoint; // The position where the attack happens
+    public LayerMask playerLayer; // Layer for detecting players
     public float attackInterval = 1f;
     private float timer = 0f;
     public Ally[] allies;
@@ -52,6 +57,11 @@ public class Boss : Entity
         // target.TakeDamage(attackPower);
         // //target.health -= attackPower;
         // Debug.Log("Boss attacked " + target.name);
+    }
+
+    void SpecialAttack()
+    {
+
     }
 
     // public override void TakeDamage(int incomingAttackPower)
