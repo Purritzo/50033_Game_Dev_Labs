@@ -25,6 +25,8 @@ public class Healer : Entity
     private Coroutine castingCoroutine;
     public Animator healerAnimator;
     public AudioSource healerAudio;
+    public float manaTimerInterval = 2f;
+    public float manaTimer = 0f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     new void Start()
@@ -57,6 +59,14 @@ public class Healer : Entity
                 StopCoroutine(castingCoroutine);
                 castBar.CancelCast();
             }
+        }
+        
+        // Regen mana
+        if (manaTimer > manaTimerInterval){
+            mana += 10;
+            manaTimer = 0;
+        } else {
+            manaTimer += Time.deltaTime;
         }
     }
 
