@@ -32,27 +32,22 @@ public class Healer : Entity
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown("q"))
+        HandleTargeting();
+        HandleHealCast();
+
+        // Interrupt cast on move
+        if (playerBody.linearVelocity.magnitude > 0.1f)
         {
-            targetedAlly = null;
-            currentlyTargetingSelf = true;
-            targetingManager.MoveIndicatorToEntity(FindFirstObjectByType<Healer>());
-            UpdatePartyUIHighlight();
+            if (castingCoroutine != null)
+            {
+                healerAnimator.SetTrigger("CastCancel");
+                StopCoroutine(castingCoroutine);
+                castBar.CancelCast();
+            }
         }
-        if (Input.GetKeyDown("w"))
-        {
-            targetedAlly = allies[0];
-            targetingManager.MoveIndicatorToEntity(targetedAlly);
-            currentlyTargetingSelf = false;
-            UpdatePartyUIHighlight();
-        }
-        if (Input.GetKeyDown("e"))
-        {
-            targetedAlly = allies[1];
-            targetingManager.MoveIndicatorToEntity(targetedAlly);
-            currentlyTargetingSelf = false;
-            UpdatePartyUIHighlight();
-        }
+    }
+
+    void HandleHealCast(){
         if (Input.GetKeyDown("f"))
         {
             if (targetedAlly != null && targetedAlly.health > 0)
@@ -79,23 +74,36 @@ public class Healer : Entity
                 castingCoroutine = StartCoroutine(CastAttackSpell(1.0f));
             }
         }
+    }
+
+    void HandleTargeting(){
+        if (Input.GetKeyDown("q"))
+        {
+            targetedAlly = null;
+            currentlyTargetingSelf = true;
+            targetingManager.MoveIndicatorToEntity(FindFirstObjectByType<Healer>());
+            UpdatePartyUIHighlight();
+        }
+        if (Input.GetKeyDown("w"))
+        {
+            targetedAlly = allies[0];
+            targetingManager.MoveIndicatorToEntity(targetedAlly);
+            currentlyTargetingSelf = false;
+            UpdatePartyUIHighlight();
+        }
+        if (Input.GetKeyDown("e"))
+        {
+            targetedAlly = allies[1];
+            targetingManager.MoveIndicatorToEntity(targetedAlly);
+            currentlyTargetingSelf = false;
+            UpdatePartyUIHighlight();
+        }
         if (Input.GetKeyDown("r"))
         {
             targetedAlly = null;
             targetingBoss = true;
             targetingManager.MoveIndicatorToEntity(FindFirstObjectByType<Boss>());
             UpdatePartyUIHighlight();
-        }
-
-        // Interrupt cast on move
-        if (playerBody.linearVelocity.magnitude > 0.1f)
-        {
-            if (castingCoroutine != null)
-            {
-                healerAnimator.SetTrigger("CastCancel");
-                StopCoroutine(castingCoroutine);
-                castBar.CancelCast();
-            }
         }
     }
 
