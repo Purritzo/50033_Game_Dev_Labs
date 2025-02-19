@@ -5,7 +5,7 @@ public class Enemy : Entity
 {
     [SerializeField] private int maxActionPoints = 2;
     public int currentActionPoints;
-    [SerializeField] private int attackPower = 20;
+    [SerializeField] public int attackPower = 20;
     [SerializeField] private int attackRange = 1;
     public UnityEvent enemyKilled;
 
@@ -50,11 +50,11 @@ public class Enemy : Entity
     {
         Debug.Log(entityName + " has died.");
         enemyKilled.Invoke();
-        GameManager.Instance.addScore(1);
+        GameManager.Instance.addScore(scoreValue);
         //Destroy(gameObject);
         // for now just teleport this guy somewhere...
         // sometimes doesn't work?
-        Vector2Int newPos = gridManager.GetRandomEmptyPosition(5);
+        Vector2Int newPos = gridManager.GetRandomEmptyPosition(3);
 
         //transform.position = gridManager.GridToWorldPosition(newPos);
         gridManager.moveEntity(this, newPos);

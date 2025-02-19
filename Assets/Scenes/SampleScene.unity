@@ -4415,9 +4415,10 @@ MonoBehaviour:
   currentGridPosition: {x: 0, y: 0}
   gridSize: 1
   gridManager: {fileID: 1620656050}
+  scoreValue: 2
   maxActionPoints: 2
   currentActionPoints: 0
-  attackPower: 20
+  attackPower: 40
   attackRange: 1
   enemyKilled:
     m_PersistentCalls:
@@ -4562,7 +4563,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7803392570256522239, guid: 7d0cd7501db09cd41890d89769ef6255, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9245283, g: 0.20496617, b: 0.20496617, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -5459,6 +5460,7 @@ MonoBehaviour:
   currentGridPosition: {x: 0, y: 0}
   gridSize: 1
   gridManager: {fileID: 0}
+  scoreValue: 0
   attackPower: 30
   specialAttackPower: 60
   telegraphRadius: 3
@@ -6371,6 +6373,7 @@ MonoBehaviour:
   currentGridPosition: {x: 0, y: 0}
   gridSize: 1
   gridManager: {fileID: 1620656050}
+  scoreValue: 0
   maxActionPoints: 2
   currentActionPoints: 0
   maxMana: 100
@@ -8261,6 +8264,7 @@ MonoBehaviour:
   currentGridPosition: {x: 0, y: 0}
   gridSize: 1
   gridManager: {fileID: 0}
+  scoreValue: 0
   attackPower: 15
   attackInterval: 1
   moveSpeed: 3
@@ -9235,6 +9239,7 @@ MonoBehaviour:
   currentGridPosition: {x: 0, y: 0}
   gridSize: 1
   gridManager: {fileID: 0}
+  scoreValue: 0
   attackPower: 10
   attackInterval: 0.5
   moveSpeed: 3
@@ -9747,6 +9752,7 @@ MonoBehaviour:
   currentGridPosition: {x: 0, y: 0}
   gridSize: 1
   gridManager: {fileID: 1620656050}
+  scoreValue: 1
   maxActionPoints: 2
   currentActionPoints: 0
   attackPower: 20

@@ -4,7 +4,8 @@ using UnityEngine;
 public class EnemyAttackAction : GameAction
 {
     [SerializeField] private int actionPointCost = 1;
-    [SerializeField] private int attackPower = 20;
+    [SerializeField] private int attackPowerMultiplier = 1;
+    private int attackPower;
     [SerializeField] private int range = 1;
 
     private void OnEnable()
@@ -42,6 +43,7 @@ public class EnemyAttackAction : GameAction
             {
                 audioSource.Play();
             }
+            attackPower = attackPowerMultiplier * executor.GetComponent<Enemy>().attackPower;
             player.TakeDamage(attackPower);
             Debug.Log("attacking " + target + " for " + attackPower);
         }
