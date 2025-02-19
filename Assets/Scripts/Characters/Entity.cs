@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Entity : MonoBehaviour
 {
@@ -8,12 +9,27 @@ public class Entity : MonoBehaviour
     public HPBar hpBar;
     public bool incapcitated;
     public GameObject floatingTextPrefab;
+    public UnityEvent<Entity, Vector2Int> requestMove;
+    [Header("Grid Settings")]
+    [SerializeField] private Vector2Int startingGridPosition;
+    public Vector2Int currentGridPosition;
+    public float gridSize = 1f;
+    public GridManager gridManager;
+    
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     protected void Start()
     {
+        gridManager = FindFirstObjectByType<GridManager>(); // There should only be 1 GridManager active
         Rigidbody2D rb = GetComponent<Rigidbody2D>();
-        rb.freezeRotation = true;
+        rb.freezeRotation = true; // No z rotation
+
+        // Initialize position
+        currentGridPosition = startingGridPosition;
+        transform.position = gridManager.GridToWorldPosition(startingGridPosition);
+        
+        // Register entity with grid manager
+        gridManager.RegisterEntityPosition(this, startingGridPosition);
     }
 
     // Update is called once per frame
@@ -22,13 +38,18 @@ public class Entity : MonoBehaviour
         
     }
 
+    // public virtual void Move(Vector2Int direction)
+    // {
+    //     requestMove.Invoke(this, direction);
+    // }
+
     public virtual void TakeDamage(int incomingAttackPower)
     {
         int damage = Mathf.Min(health-0, incomingAttackPower);
         health -= incomingAttackPower;
         health = Mathf.Max(health, 0); // Prevent negative health
         ShowFloatingText(damage.ToString(), Color.red);
-        hpBar.SetHealth(health);
+        //hpBar.SetHealth(health);
         if (health <= 0)
         {
             Die();

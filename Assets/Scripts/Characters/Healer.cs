@@ -1,33 +1,31 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
+using System.Linq;
 
 public class Healer : Entity
 {
 
-    private float pullStrength = 0f;
-    private float maxPullStrength = 10f;
-    private float pullIncreaseRate = 20f;
-    public int healAmount = 20;
-    public int attackPower = 20;
-    public int maxMana = 100;
-    public int mana = 100;
-    public Ally targetedAlly;
-    public Ally[] allies;
-    public GameObject partyListContainer;
-    private bool currentlyTargetingSelf = false;
-    private bool targetingBoss = false;
+    [SerializeField] public int maxActionPoints = 2;
+    public int currentActionPoints;
+    
+    [SerializeField] public int maxMana = 100;
+    [SerializeField] public int mana = 100;
+    [SerializeField] private int healAmount = 20;
+    [SerializeField] private int attackPower = 20;
+
+    private List<GameAction> availableActions = new List<GameAction>();
     public Vector3 startPosition;
     public TargetingManager targetingManager;
     public CastBar castBar;
     public Rigidbody2D playerBody;
-    public GameObject pullIndicatorPrefab;
-    private GameObject pullIndicator;
-    private bool pull;
     private Coroutine castingCoroutine;
     public Animator healerAnimator;
     public AudioSource healerAudio;
-    public float manaTimerInterval = 2f;
-    public float manaTimer = 0f;
+    public UnityEvent onPlayerAction; // Event to notify LevelManager
+    public UnityEvent<int, int> UpdateActionPointsDisplay;
+    public ActionContainer actionContainer;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     new void Start()
@@ -38,164 +36,37 @@ public class Healer : Entity
         castBar = gameObject.transform.Find("CastBarCanvas/CastBar").GetComponent<CastBar>();
         startPosition = transform.localPosition;
         healerAnimator.SetBool("Idle", true);
+        PlayerActionManager.Instance.confirmPress.AddListener(HandleConfirmPress);
+        InitializeActions();
 
-        // Instantiate pull indicator but hide it
-        pullIndicator = Instantiate(pullIndicatorPrefab);
-        pullIndicator.SetActive(false);
     }
 
     // Update is called once per frame
     void Update()
     {
-        HandleTargeting();
-        HandleHealOrAttackCast();
-        HandlePulling();
 
-        // Interrupt cast on move
-        if (playerBody.linearVelocity.magnitude > 0.1f)
-        {
-            if (castingCoroutine != null)
-            {
-                healerAnimator.SetTrigger("CastCancel");
-                StopCoroutine(castingCoroutine);
-                castBar.CancelCast();
-            }
-        }
-        
-        // Regen mana
-        if (manaTimer > manaTimerInterval){
-            mana += 10;
-            manaTimer = 0;
-        } else {
-            manaTimer += Time.deltaTime;
-        }
     }
 
-    void HandlePulling(){
-        if (Input.GetKey("g") && targetedAlly != null)
-        {
-            pullStrength += pullIncreaseRate * Time.deltaTime;
-            pullStrength = Mathf.Min(pullStrength, maxPullStrength); // Cap at maxPullStrength
-            
-            UpdatePullIndicator();
-        }
-        else if (Input.GetKeyUp("g") && targetedAlly != null)
-        {
-            pull = true;
-            pullIndicator.SetActive(false);
-        }
-    }
 
     void FixedUpdate()
     {
-        if (pull){
-            PullTargetedAlly();
-            pull = false;
-            pullStrength = 0f;
-        }
-    }
-    void PullTargetedAlly()
-    {
-        Vector2 pullDirection = (gameObject.transform.position - targetedAlly.transform.position).normalized;
-        Rigidbody2D allyRb = targetedAlly.GetComponent<Rigidbody2D>();
 
-        if (allyRb != null)
-        {
-            allyRb.AddForce(new Vector2(pullDirection.x, pullDirection.y) * pullStrength, ForceMode2D.Impulse);
-            //allyRb.linearVelocity = pullDirection * pullStrength;
-        }
     }
 
-    void UpdatePullIndicator()
-    {
-        if (pullIndicator != null)
-        {
-            pullIndicator.transform.position = targetedAlly.transform.position + 
-            (gameObject.transform.position - targetedAlly.transform.position)
-            * (pullStrength/maxPullStrength);
-            pullIndicator.SetActive(true);
-        }
-    }
 
-    void HandleHealOrAttackCast(){
-        if (Input.GetKeyDown("f"))
-        {
-            // need at least 20 mana to cast heal (for now)
-            if (targetedAlly != null && targetedAlly.health > 0 && mana >= 20)
-            {
-                if (castingCoroutine != null) // Stop previous cast if any
-                {
-                    healerAnimator.SetTrigger("CastCancel");
-                    StopCoroutine(castingCoroutine);
-                    castBar.CancelCast();
-                }
-                healerAnimator.SetTrigger("Casting");
-                castingCoroutine = StartCoroutine(CastSpell(0.5f));
-                //StartCoroutine(CastSpell(0.5f));
-                //Heal(targetedAlly);
-            } else if (targetingBoss == true)
-            {
-                if (castingCoroutine != null) // Stop previous cast if any
-                {
-                    healerAnimator.SetTrigger("CastCancel");
-                    StopCoroutine(castingCoroutine);
-                    castBar.CancelCast();
-                }
-                healerAnimator.SetTrigger("Casting");
-                castingCoroutine = StartCoroutine(CastAttackSpell(1.0f));
-            }
-        }
-    }
 
-    void HandleTargeting(){
-        if (Input.GetKeyDown("q"))
-        {
-            targetedAlly = null;
-            currentlyTargetingSelf = true;
-            targetingManager.MoveIndicatorToEntity(FindFirstObjectByType<Healer>());
-            UpdatePartyUIHighlight();
-        }
-        if (Input.GetKeyDown("w"))
-        {
-            targetedAlly = allies[0];
-            targetingManager.MoveIndicatorToEntity(targetedAlly);
-            currentlyTargetingSelf = false;
-            UpdatePartyUIHighlight();
-        }
-        if (Input.GetKeyDown("e"))
-        {
-            targetedAlly = allies[1];
-            targetingManager.MoveIndicatorToEntity(targetedAlly);
-            currentlyTargetingSelf = false;
-            UpdatePartyUIHighlight();
-        }
-        if (Input.GetKeyDown("r"))
-        {
-            targetedAlly = null;
-            targetingBoss = true;
-            targetingManager.MoveIndicatorToEntity(FindFirstObjectByType<Boss>());
-            UpdatePartyUIHighlight();
-        }
-    }
-
-    void SetTarget(Ally newTarget)
-    {
-        targetedAlly = newTarget;
-        UpdatePartyUIHighlight();
-    }
-
-    void UpdatePartyUIHighlight()
-    {
-        foreach (PartyMember partyMember in partyListContainer.GetComponentsInChildren<PartyMember>())
-        {
-            //Debug.Log(partyMember);
-            //Debug.Log(partyMember.entity == targetedAlly);
-            if (partyMember != null)
-            {
-                partyMember.SetHighlight(partyMember.entity == targetedAlly);
-            }
-        }
-    }
+    // void UpdatePartyUIHighlight()
+    // {
+    //     foreach (PartyMember partyMember in partyListContainer.GetComponentsInChildren<PartyMember>())
+    //     {
+    //         //Debug.Log(partyMember);
+    //         //Debug.Log(partyMember.entity == targetedAlly);
+    //         if (partyMember != null)
+    //         {
+    //             partyMember.SetHighlight(partyMember.entity == targetedAlly);
+    //         }
+    //     }
+    // }
 
     void Heal(Ally target)
     {
@@ -210,7 +81,7 @@ public class Healer : Entity
         }
     }
 
-    void playHealSound(){
+    public void playHealSound(){
         healerAudio.PlayOneShot(healerAudio.clip);
     }
 
@@ -219,27 +90,85 @@ public class Healer : Entity
         boss.TakeDamage(attackPower);
     }
 
-    IEnumerator CastSpell(float duration)
-    {
-        castBar.StartCasting(duration);
-        yield return new WaitForSeconds(duration);
-        healerAnimator.SetTrigger("CastSuccess");
-        castingCoroutine = null;
+    // IEnumerator CastSpell(float duration)
+    // {
+    //     castBar.StartCasting(duration);
+    //     yield return new WaitForSeconds(duration);
+    //     healerAnimator.SetTrigger("CastSuccess");
+    //     castingCoroutine = null;
 
-        if (targetedAlly != null) 
+    //     if (targetedAlly != null) 
+    //     {
+    //         Heal(targetedAlly);
+    //     }
+    // }
+
+    // IEnumerator CastAttackSpell(float duration)
+    // {
+    //     castBar.StartCasting(duration);
+    //     yield return new WaitForSeconds(duration);
+    //     healerAnimator.SetTrigger("CastSuccess");
+    //     Attack(FindFirstObjectByType<Boss>());
+    //     castingCoroutine = null;
+    // }
+
+
+    // public override void Move(Vector2Int direction)
+    // {
+    //     if (!LevelManager.Instance.IsPlayerTurn()) return; // Check if player turn
+    //     requestMove.Invoke(this, direction);
+    //     PerformAction();
+    // }
+
+    public void PerformAction()
+    {
+        // Example: Moving or using an ability
+        //onPlayerAction.Invoke(); // Notify LevelManager that the player acted, ok this is too premature i need an execute button
+    }
+
+    public void HandleConfirmPress()
+    {
+        if (!LevelManager.Instance.IsPlayerTurn()) return;
+        PerformAction();
+    }
+
+    private void InitializeActions()
+    {
+        // Add basic actions
+        actionContainer.AddAction(ScriptableObject.CreateInstance<MoveAction>());
+        actionContainer.AddAction(ScriptableObject.CreateInstance<HealAction>());
+        actionContainer.AddAction(ScriptableObject.CreateInstance<PlayerAttackAction>());
+        availableActions.Add(ScriptableObject.CreateInstance<MoveAction>());
+        availableActions.Add(ScriptableObject.CreateInstance<HealAction>());
+        //availableActions.Add(ScriptableObject.CreateInstance<AttackAction>());
+    }
+
+    public void StartTurn()
+    {
+        currentActionPoints = maxActionPoints;
+        // Notify UI to update AP display
+        UpdateActionPointsDisplay?.Invoke(currentActionPoints, maxActionPoints);
+    }
+
+    public bool HasActionPoints() => currentActionPoints > 0;
+
+    public bool TrySpendActionPoints(int cost)
+    {
+        if (currentActionPoints >= cost)
         {
-            Heal(targetedAlly);
+            currentActionPoints -= cost;
+            UpdateActionPointsDisplay?.Invoke(currentActionPoints, maxActionPoints);
+            return true;
         }
+        return false;
     }
 
-    IEnumerator CastAttackSpell(float duration)
+    public List<GameAction> GetAvailableActions()
     {
-        castBar.StartCasting(duration);
-        yield return new WaitForSeconds(duration);
-        healerAnimator.SetTrigger("CastSuccess");
-        Attack(FindFirstObjectByType<Boss>());
-        castingCoroutine = null;
+        return availableActions.Where(action => action.CanExecute(this, null)).ToList();
     }
+
+
 
     // TODO: Add healer taking damage also, if needed
 }
