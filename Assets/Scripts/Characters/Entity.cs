@@ -15,6 +15,7 @@ public class Entity : MonoBehaviour
     public Vector2Int currentGridPosition;
     public float gridSize = 1f;
     public GridManager gridManager;
+    public int scoreValue;
     
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -88,6 +89,7 @@ public class Entity : MonoBehaviour
         incapcitated = true;
         Debug.Log(entityName + " has died.");
         // Destroy(gameObject);
+        GameManager.Instance.addScore(scoreValue);
     }
 
 }
